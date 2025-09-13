@@ -1,0 +1,772 @@
+{
+    "AED": {
+        "name": "Dirham des Emirats Arabes Unis",
+        "major": "dirham",
+        "minor": "fils"
+    },
+    "AFN": {
+        "name": "Afghan afghan",
+        "major": "afghani",
+        "minor": "pul"
+    },
+    "ALL": {
+        "name": "Lek albanais",
+        "major": "lek",
+        "minor": "qindarkë"
+    },
+    "AMD": {
+        "name": "Dram arménien",
+        "major": "drachme",
+        "minor": "luma"
+    },
+    "AOA": {
+        "name": "Angolais Kwanza",
+        "major": "kwanza",
+        "minor": "cêntimos"
+    },
+    "ARS": {
+        "name": "Peso argentin",
+        "major": "peso",
+        "minor": "centavo"
+    },
+    "AUD": {
+        "name": "Dollar australien",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "AWG": {
+        "name": "Florin d'Aruba",
+        "major": "florin",
+        "minor": "cent"
+    },
+    "AZN": {
+        "name": "Manat azerbaïdjanais",
+        "major": "manat",
+        "minor": "qepik"
+    },
+    "BAM": {
+        "name": "Mark convertible de Bosnie-Herzégovine",
+        "major": "marques convertibles",
+        "minor": "fening"
+    },
+    "BBD": {
+        "name": "Dollar de la Barbade",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "BDT": {
+        "name": "Bangladais Taka",
+        "major": "taka",
+        "minor": "poisha"
+    },
+    "BGN": {
+        "name": "Bulgare lev",
+        "major": "lev",
+        "minor": "stotinki"
+    },
+    "BHD": {
+        "name": "Dinar bahreïni",
+        "major": "dinar",
+        "minor": "fils"
+    },
+    "BIF": {
+        "name": "Franc burundais",
+        "major": "franc",
+        "minor": "centime"
+    },
+    "BMD": {
+        "name": "Dollar bermudien",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "BND": {
+        "name": "Dollar de Brunei",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "BOB": {
+        "name": "Boliviano bolivien",
+        "major": "boliviano",
+        "minor": "centavo"
+    },
+    "BRL": {
+        "name": "Real brésilien",
+        "major": "réel",
+        "minor": "centavo"
+    },
+    "BSD": {
+        "name": "Dollar des Bahamas",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "BTC": {
+        "name": "Bitcoin",
+        "major": "bitcoin",
+        "minor": "millibitcoin"
+    },
+    "BTN": {
+        "name": "Ngultrum",
+        "major": "ngultrum",
+        "minor": "chhertum"
+    },
+    "BWP": {
+        "name": "Pula botswanais",
+        "major": "pula",
+        "minor": "l'être"
+    },
+    "BYR": {
+        "name": "Rouble biélorusse",
+        "major": "rouble",
+        "minor": "kapeyka"
+    },
+    "BZD": {
+        "name": "Dollar du Belize",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "CAD": {
+        "name": "Dollar canadien",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "CDF": {
+        "name": "Franc congolais",
+        "major": "franc",
+        "minor": "centime"
+    },
+    "CHF": {
+        "name": "Franc suisse",
+        "major": "franc",
+        "minor": "rappen"
+    },
+    "CLP": {
+        "name": "Peso chilien",
+        "major": "peso",
+        "minor": "centavo"
+    },
+    "CNY": {
+        "name": "Le yuan chinois",
+        "major": "yuan",
+        "minor": "marais"
+    },
+    "COP": {
+        "name": "Peso colombien",
+        "major": "peso",
+        "minor": "centavo"
+    },
+    "CRC": {
+        "name": "Costa Rica Colón",
+        "major": "côlon",
+        "minor": "céntimo"
+    },
+    "CUP": {
+        "name": "Peso cubain",
+        "major": "peso",
+        "minor": "centavo"
+    },
+    "CVE": {
+        "name": "Escudo cap-verdien",
+        "major": "escudo",
+        "minor": "centavo"
+    },
+    "CZK": {
+        "name": "République tchèque Couronne",
+        "major": "couronne",
+        "minor": "haléř"
+    },
+    "DJF": {
+        "name": "Franc Djiboutien",
+        "major": "franc",
+        "minor": "centime"
+    },
+    "DKK": {
+        "name": "Couronne danoise",
+        "major": "couronnes",
+        "minor": "couronnes"
+    },
+    "DOP": {
+        "name": "Peso dominicain",
+        "major": "peso",
+        "minor": "centavo"
+    },
+    "DZD": {
+        "name": "Dinar algérien",
+        "major": "dinar",
+        "minor": "santeem"
+    },
+    "EGP": {
+        "name": "Livre égyptienne",
+        "major": "livre",
+        "minor": "piastre"
+    },
+    "ERN": {
+        "name": "Nakfa érythréen",
+        "major": "nafka",
+        "minor": "cent"
+    },
+    "ETB": {
+        "name": "Birr éthiopien",
+        "major": "birr",
+        "minor": "santim"
+    },
+    "ETH": {
+        "name": "Ethereum",
+        "major": "ether",
+        "minor": "gwei"
+    },
+    "EUR": {
+        "name": "Euro",
+        "major": "euro",
+        "minor": "cent"
+    },
+    "FJD": {
+        "name": "Dollar fidjien",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "FKP": {
+        "name": "Livre des îles Falkland",
+        "major": "livre",
+        "minor": "penny"
+    },
+    "GBP": {
+        "name": "Livre sterling britannique",
+        "major": "livre",
+        "minor": "penny"
+    },
+    "GEL": {
+        "name": "Lari géorgien",
+        "major": "lari",
+        "minor": "tetri"
+    },
+    "GHS": {
+        "name": "Cédi ghanéen",
+        "major": "cédi",
+        "minor": "pesewa"
+    },
+    "GIP": {
+        "name": "Livre de Gibraltar",
+        "major": "livre",
+        "minor": "penny"
+    },
+    "GMD": {
+        "name": "Dalasi",
+        "major": "dalasi",
+        "minor": "butut"
+    },
+    "GNF": {
+        "name": "Franc guinéen",
+        "major": "franc",
+        "minor": "centime"
+    },
+    "GTQ": {
+        "name": "Quetzal guatémaltèque",
+        "major": "quetzales",
+        "minor": "centavo"
+    },
+    "GYD": {
+        "name": "Dollar guyanais",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "HKD": {
+        "name": "Dollar de Hong Kong",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "HNL": {
+        "name": "Lempira hondurienne",
+        "major": "lempira",
+        "minor": "centavo"
+    },
+    "HRK": {
+        "name": "Croate Kuna",
+        "major": "kuna",
+        "minor": "lipa"
+    },
+    "HTG": {
+        "name": "Haïti Gourde",
+        "major": "gourde",
+        "minor": "centime"
+    },
+    "HUF": {
+        "name": "Forint hongrois",
+        "major": "forint",
+        "minor": "fillér"
+    },
+    "IDR": {
+        "name": "Roupie indonésienne",
+        "major": "rupiah",
+        "minor": "sen"
+    },
+    "ILS": {
+        "name": "Nouveau shekel israélien",
+        "major": "shekel",
+        "minor": "agorat"
+    },
+    "INR": {
+        "name": "Roupie indienne",
+        "major": "roupie",
+        "minor": "paisa"
+    },
+    "IQD": {
+        "name": "Dinar irakien",
+        "major": "dinar",
+        "minor": "fils"
+    },
+    "IRR": {
+        "name": "Rial iranien",
+        "major": "rial",
+        "minor": "dinar"
+    },
+    "ISK": {
+        "name": "Islandais Króna",
+        "major": "couronne",
+        "minor": "eyrir"
+    },
+    "JMD": {
+        "name": "Dollar jamaïcain",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "JOD": {
+        "name": "Dinar jordanien",
+        "major": "dinar",
+        "minor": "piastre"
+    },
+    "JPY": {
+        "name": "Yen japonais",
+        "major": "yen",
+        "minor": "sen"
+    },
+    "KES": {
+        "name": "Shilling kényan",
+        "major": "shilling",
+        "minor": "cent"
+    },
+    "KGS": {
+        "name": "Kirghizistan Som",
+        "major": "som",
+        "minor": "tyiyn"
+    },
+    "KHR": {
+        "name": "Riel cambodgien",
+        "major": "riel",
+        "minor": "kak"
+    },
+    "KMF": {
+        "name": "Franc comorien",
+        "major": "franc",
+        "minor": "centime"
+    },
+    "KPW": {
+        "name": "Won nord-coréen",
+        "major": "a gagné",
+        "minor": "chon"
+    },
+    "KRW": {
+        "name": "Won sud-coréen",
+        "major": "a gagné",
+        "minor": "jeon"
+    },
+    "KWD": {
+        "name": "Dinar koweïtien",
+        "major": "dinar",
+        "minor": "fils"
+    },
+    "KYD": {
+        "name": "Dollar des îles Caïmans",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "KZT": {
+        "name": "Tenge kazakh",
+        "major": "tenge",
+        "minor": "tïın"
+    },
+    "LAK": {
+        "name": "Lao Kip",
+        "major": "kip",
+        "minor": "att"
+    },
+    "LBP": {
+        "name": "Livre libanaise",
+        "major": "livre",
+        "minor": "piastre"
+    },
+    "LRD": {
+        "name": "Dollar libérien",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "LSL": {
+        "name": "Lesotho Loti",
+        "major": "loti (maloti)",
+        "minor": "sente"
+    },
+    "LTL": {
+        "name": "Litas lituanien",
+        "major": "litas",
+        "minor": "centas"
+    },
+    "LYD": {
+        "name": "Dinar libyen",
+        "major": "dinar",
+        "minor": "dirham"
+    },
+    "MAD": {
+        "name": "Dirham marocain",
+        "major": "dirham",
+        "minor": "santim"
+    },
+    "MDL": {
+        "name": "Leu moldave",
+        "major": "leu",
+        "minor": "interdire"
+    },
+    "MGA": {
+        "name": "Ariary malgache",
+        "major": "ariary",
+        "minor": "iraimbilanja"
+    },
+    "MKD": {
+        "name": "Denar macédonien",
+        "major": "denar",
+        "minor": "deni"
+    },
+    "MMK": {
+        "name": "Myanma Kyat",
+        "major": "kyat",
+        "minor": "pya"
+    },
+    "MNT": {
+        "name": "Mongol Tögrög",
+        "major": "tughrik",
+        "minor": "möngö"
+    },
+    "MOP": {
+        "name": "Pataca macanaise",
+        "major": "pataca",
+        "minor": "ho"
+    },
+    "MRO": {
+        "name": "Ouguiya mauritanien",
+        "major": "ouguiya",
+        "minor": "khoums"
+    },
+    "MUR": {
+        "name": "Roupie mauricienne",
+        "major": "roupie",
+        "minor": "cent"
+    },
+    "MVR": {
+        "name": "Maldivian Rufiyaa",
+        "major": "rufiyaa",
+        "minor": "laari"
+    },
+    "MWK": {
+        "name": "Kwacha malawien",
+        "major": "kwacha",
+        "minor": "tambala"
+    },
+    "MXN": {
+        "name": "Peso mexicain",
+        "major": "dollar",
+        "minor": "centavo"
+    },
+    "MYR": {
+        "name": "cloche malaisienne",
+        "major": "ringgit",
+        "minor": "sen"
+    },
+    "MZN": {
+        "name": "Metical mozambicain",
+        "major": "metical",
+        "minor": "centavo"
+    },
+    "NAD": {
+        "name": "Dollar namibien",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "NGN": {
+        "name": "Naira nigérian",
+        "major": "naira",
+        "minor": "kobo"
+    },
+    "NIO": {
+        "name": "Cordoue nicaraguayenne",
+        "major": "cordoue",
+        "minor": "centavo"
+    },
+    "NOK": {
+        "name": "Couronne norvégienne",
+        "major": "couronne",
+        "minor": "minerai"
+    },
+    "NPR": {
+        "name": "Roupie népalaise",
+        "major": "roupie",
+        "minor": "paisa"
+    },
+    "NZD": {
+        "name": "Dollar néo-zélandais",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "OMR": {
+        "name": "Rial omanais",
+        "major": "rial",
+        "minor": "baisa"
+    },
+    "PAB": {
+        "name": "Balboa panaméen",
+        "major": "balboa",
+        "minor": "centésimo"
+    },
+    "PEN": {
+        "name": "Nuevo Sol péruvien",
+        "major": "nuevo sol",
+        "minor": "céntimo"
+    },
+    "PGK": {
+        "name": "Papouasie-Nouvelle-Guinée Kina",
+        "major": "kina",
+        "minor": "toea"
+    },
+    "PHP": {
+        "name": "Peso philippin",
+        "major": "peso",
+        "minor": "sentimo"
+    },
+    "PKR": {
+        "name": "Roupie pakistanaise",
+        "major": "roupie",
+        "minor": "paisa"
+    },
+    "PLN": {
+        "name": "Zloty polonais",
+        "major": "złoty",
+        "minor": "grosz"
+    },
+    "PYG": {
+        "name": "Guarani paraguayen",
+        "major": "guarani",
+        "minor": "céntimo"
+    },
+    "QAR": {
+        "name": "Rial qatari",
+        "major": "riyal",
+        "minor": "dirham"
+    },
+    "RON": {
+        "name": "Leu roumain",
+        "major": "leu",
+        "minor": "bani"
+    },
+    "RSD": {
+        "name": "Dinar serbe",
+        "major": "dinar",
+        "minor": "para"
+    },
+    "RUB": {
+        "name": "Rouble russe",
+        "major": "rouble",
+        "minor": "kopeyka"
+    },
+    "RWF": {
+        "name": "Franc rwandais",
+        "major": "franc",
+        "minor": "centime"
+    },
+    "SAR": {
+        "name": "Riyal saoudien",
+        "major": "riyal",
+        "minor": "halala"
+    },
+    "SBD": {
+        "name": "Dollar des îles Salomon",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "SCR": {
+        "name": "Roupie des Seychelles",
+        "major": "roupie",
+        "minor": "cent"
+    },
+    "SDG": {
+        "name": "Livre soudanaise",
+        "major": "livre",
+        "minor": "piastres"
+    },
+    "SEK": {
+        "name": "Couronne suédoise",
+        "major": "couronne",
+        "minor": "ören"
+    },
+    "SGD": {
+        "name": "Dollar de Singapour",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "SHP": {
+        "name": "Livre de Sainte-Hélène",
+        "major": "livre",
+        "minor": "penny"
+    },
+    "SLL": {
+        "name": "Leone sierra-léonais",
+        "major": "leone",
+        "minor": "cent"
+    },
+    "SOS": {
+        "name": "Shilling somalien",
+        "major": "shilling",
+        "minor": "senti"
+    },
+    "SRD": {
+        "name": "Dollar du Suriname",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "STD": {
+        "name": "São Tomé et Príncipe Dobra",
+        "major": "dobra",
+        "minor": "centime"
+    },
+    "SYP": {
+        "name": "Livre syrienne",
+        "major": "livre",
+        "minor": "piastre"
+    },
+    "SZL": {
+        "name": "Swazi Lilangeni",
+        "major": "lilangeni",
+        "minor": "cent"
+    },
+    "THB": {
+        "name": "Baht thaïlandais",
+        "major": "baht",
+        "minor": "satang"
+    },
+    "TJS": {
+        "name": "Somoni tadjik",
+        "major": "somoni",
+        "minor": "diram"
+    },
+    "TMT": {
+        "name": "Turkménistan Manat",
+        "major": "manat",
+        "minor": "tenge"
+    },
+    "TND": {
+        "name": "Dinar tunisien",
+        "major": "dinar",
+        "minor": "millim"
+    },
+    "TOP": {
+        "name": "Tongan Paʻanga",
+        "major": "hau",
+        "minor": "seniti"
+    },
+    "TRY": {
+        "name": "Lire turque",
+        "major": "lire",
+        "minor": "kuruş"
+    },
+    "TTD": {
+        "name": "Dollar de Trinité-et-Tobago",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "TWD": {
+        "name": "Nouveau dollar de Taïwan",
+        "major": "dollar",
+        "minor": "jiao"
+    },
+    "TZS": {
+        "name": "Shilling tanzanien",
+        "major": "shilling",
+        "minor": "cent"
+    },
+    "UAH": {
+        "name": "Ukrainien hryvnia",
+        "major": "hryvnia",
+        "minor": "kopiyka"
+    },
+    "UGX": {
+        "name": "Shilling ougandais",
+        "major": "shilling",
+        "minor": "cent"
+    },
+    "USD": {
+        "name": "Dollars américain",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "UYU": {
+        "name": "Peso uruguayen",
+        "major": "peso",
+        "minor": "centésimo"
+    },
+    "UZS": {
+        "name": "Ouzbékistan Som",
+        "major": "som",
+        "minor": "tiyin"
+    },
+    "VEF": {
+        "name": "Bolívar vénézuélien",
+        "major": "bolívares fuertes",
+        "minor": "céntimo"
+    },
+    "VND": {
+        "name": "Dong vietnamien",
+        "major": "dong",
+        "minor": "xu"
+    },
+    "VUV": {
+        "name": "Vanuatu Vatu",
+        "major": "vatu",
+        "minor": ""
+    },
+    "WST": {
+        "name": "Samoan Tālā",
+        "major": "tālā",
+        "minor": "sene"
+    },
+    "XAF": {
+        "name": "Franc CFA Beac",
+        "major": "franc",
+        "minor": "centime"
+    },
+    "XCD": {
+        "name": "Dollar des Caraïbes orientales",
+        "major": "dollar",
+        "minor": "cent"
+    },
+    "XOF": {
+        "name": "Franc CFA Bceao",
+        "major": "franc",
+        "minor": "centime"
+    },
+    "XPF": {
+        "name": "Franc CFP",
+        "major": "franc",
+        "minor": "centime"
+    },
+    "YER": {
+        "name": "Rial yéménite",
+        "major": "rial",
+        "minor": "fils"
+    },
+    "ZAR": {
+        "name": "Rand sud-africain",
+        "major": "rand",
+        "minor": "cent"
+    },
+    "ZMW": {
+        "name": "Kwacha zambien",
+        "major": "kwacha",
+        "minor": "ngwee"
+    }
+}
