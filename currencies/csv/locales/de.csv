@@ -1,0 +1,155 @@
+code,name,major,minor
+AED,"Vereinigte Arabische Emirate Dirham",dirham,fils
+AFN,"Afghan Afghani",afghani,pul
+ALL,"Albanischer Lek",lek,qindarkë
+AMD,"Armenian Dram",dram,luma
+AOA,"Angolan Kwanza",kwanza,cêntimos
+ARS,"Argentinischer Peso",peso,centavo
+AUD,"Australischer Dollar",dollar,cent
+AWG,"Aruban Florin",gulden,cent
+AZN,"Aserbaidschanisches Manat",manat,qepik
+BAM,"Bosnien-Herzegowina Cabrio Mark",cabrio-marken,fechten
+BBD,"Barbados Dollar",dollar,cent
+BDT,"Bangladeshi Taka",taka,poisha
+BGN,"Bulgarian Lev",lev,stotinki
+BHD,"Bahrain Dinar",dinar,fils
+BIF,"Burundischer Franken",franc,rappen
+BMD,"Bermudian Dollar",dollar,cent
+BND,"Brunei Dollar",dollar,cent
+BOB,"Bolivianischer Boliviano",boliviano,centavo
+BRL,"brasilianischer Real",echt,centavo
+BSD,"Bahamian Dollar",dollar,cent
+BTC,Bitcoin,bitcoin,millibitcoin
+BTN,Ngultrum,ngultrum,chhertum
+BWP,"Botswanan Pula",pula,"das sein"
+BYR,"Weißrussischer Rubel",rubel,kapeyka
+BZD,"Belize Dollar",dollar,cent
+CAD,"Kanadischer Dollar",dollar,cent
+CDF,"Kongolesischer Franken",franc,rappen
+CHF,Schweizerfranken,franc,rappen
+CLP,"Chilenischer Peso",peso,centavo
+CNY,"Chinesische Yuan",yuan,fēn
+COP,"Kolumbianischer Peso",peso,centavo
+CRC,"Costa Rican Colón",doppelpunkt,céntimo
+CUP,"Kubanischer Peso",peso,centavo
+CVE,"Kapverdischer Escudo",escudo,centavo
+CZK,"Tschechische Republik Koruna",koruna,haléř
+DJF,"Dschibutian Franc",franc,rappen
+DKK,"Dänische Krone",kronen,kronen
+DOP,"Dominikanischer Peso",peso,centavo
+DZD,"Algerischer Dinar",dinar,santeem
+EGP,"Ägyptisches Pfund",Pfund,piastre
+ERN,"Eritreische Nakfa",nafka,cent
+ETB,"Äthiopischer Birr",birr,santim
+ETH,Ethereum,ether,gwei
+EUR,Euro,euro,cent
+FJD,Fidschi-Dollar,dollar,cent
+FKP,"Falkland Islands Pound",pfund,penny
+GBP,"Britisches Pfund Sterling",pfund,penny
+GEL,"Georgian Lari",lari,tetri
+GHS,"Ghanaischer Cedi",cedi,pesewa
+GIP,"Gibraltar Pfund",pfund,penny
+GMD,Dalasi,dalasi,butut
+GNF,"Guinean Franc",franc,rappen
+GTQ,"Guatemaltekischer Quetzal",quetzales,centavo
+GYD,"Guyanese Dollar",dollar,cent
+HKD,"Hongkong Dollar",dollar,cent
+HNL,"Honduranische Lempira",lempira,centavo
+HRK,"Kroatische Kuna",kuna,lipa
+HTG,"Haiti Gourde",kürbis,rappen
+HUF,"Ungarischer Forint",forint,füllstoff
+IDR,"Indonesische Rupiah",rupiah,sen.
+ILS,"Israelischer New Sheqel",schekel,agorat
+INR,"Indische Rupie",rupie,paisa
+IQD,"Irakischer Dinar",dinar,fils
+IRR,"Iranischer Rial",rial,dinar
+ISK,"Isländische Króna",krone,eyrir
+JMD,"Jamaikanischer Dollar",dollar,cent
+JOD,"Jordanischer Dinar",dinar,piastre
+JPY,"Japanische YEN",yen,sen
+KES,"Kenianischer Schilling",schilling,cent
+KGS,"Kirgisistan Som","so m",tyiyn
+KHR,"Kambodschanischer Riel",riel,kak
+KMF,Komorenfranken,franc,rappen
+KPW,"Nordkorea gewonnen",gewonnen,chon
+KRW,"Südkoreaner gewonnen",gewonnen,jeon
+KWD,"Kuwaitischer Dinar",dinar,fils
+KYD,"Cayman Islands Dollar",dollar,cent
+KZT,"Kasachische Tenge",tenge,tïın
+LAK,"Lao Kip",pennen,att
+LBP,"Libanesisches Pfund",pfund,piastre
+LRD,"Liberianischer Dollar",dollar,cent
+LSL,"Lesotho Loti","loti (maloti)",sente
+LTL,"Litauische Litas",litas,centas
+LYD,"Libyscher Dinar",dinar,dirham
+MAD,"Marokkanischer Dirham",dirham,santim
+MDL,"Moldauischer Leu",leu,verbot
+MGA,"Madagassisches Ariary",ariary,iraimbilanja
+MKD,"Mazedonischer Denar",denar,deni
+MMK,"Myanma Kyat",kyat,pya
+MNT,"Mongolischer Tögrög",tughrik,möngö
+MOP,"Macanese Pataca",pataca,ho
+MRO,"Mauretanier Ouguiya",ouguiya,khoums
+MUR,"Mauritianische Rupie",rupie,cent
+MVR,"Maledivische Rufiyaa",rufiyaa,laari
+MWK,"Malawian Kwacha",kwacha,tambala
+MXN,"Mexikanischer Peso",dollar,centavo
+MYR,"Malaysischer Ringgit",ringgit,sen.
+MZN,"Mosambican Metical",metisch,centavo
+NAD,"Namibischer Dollar",dollar,cent
+NGN,"Nigerianische Naira",naira,kobo
+NIO,"Nicaraguanischer Córdoba",córdoba,centavo
+NOK,"Norwegische Krone",krone,erz
+NPR,"Nepalesische Rupie",rupie,paisa
+NZD,"Neuseeland Dollar",dollar,cent
+OMR,"Omani Rial",rial,baisa
+PAB,"Panamaischer Balboa",balboa,centésimo
+PEN,"Peruaner Nuevo Sol","nuevo sol",céntimo
+PGK,"Papua-Neuguinea Kina",kina,toea
+PHP,"Philippinischer Peso",peso,sentimo
+PKR,"Pakistanische Rupie",rupie,paisa
+PLN,"Polnischer Zloty",złoty,grosz
+PYG,"Paraguayischer Guarani",guarani,céntimo
+QAR,"Katar Rial",rial,dirham
+RON,"Rumänische Leu",leu,bani
+RSD,"Serbischer Dinar",dinar,abs
+RUB,"russischer Rubel",rubel,kopeyka
+RWF,"Ruandischer Franken",franc,rappen
+SAR,"Saudi Riyal",rial,halala
+SBD,Salomonen-Dollar,dollar,cent
+SCR,Seychellen-Rupie,rupie,cent
+SDG,"Sudanesisches Pfund",pfund,piaster
+SEK,"Schwedische Krone",krone,ören
+SGD,Singapur-Dollar,dollar,cent
+SHP,"St. Helena Pfund",pfund,penny
+SLL,"Sierra Leonean Leone",leone,cent
+SOS,"Somalischer Schilling",schilling,senti
+SRD,"Suriname Dollar",dollar,cent
+STD,"São Tomé und Príncipe Dobra",dobra,rappen
+SYP,"Syrisches Pfund",pfund,piastre
+SZL,"Swazi Lilangeni",lilangeni,cent
+THB,"Thai Baht",baht,satang
+TJS,"Tadschikistani Somoni",somoni,diram
+TMT,"Turkmenistan Manat",manat,tenge
+TND,"Tunesischer Dinar",dinar,millim
+TOP,"Tongan Paʻanga",hau,seniti
+TRY,"Türkische Lire",lira,kuruş
+TTD,"Trinidad und Tobago Dollar",dollar,cent
+TWD,"Neuer Taiwan-Dollar",dollar,jiao
+TZS,"Tansanischer Schilling",schilling,cent
+UAH,"Ukrainische Griwna",griwna,kopiyka
+UGX,"Ugandischer Schilling",schilling,cent
+USD,"US Dollar",dollar,cent
+UYU,"Uruguayischer Peso",peso,centésimo
+UZS,"Usbekistan Som","so m",tiyin
+VEF,"Venezolanischer Bolívar","bolívares fuertes",céntimo
+VND,"Vietnamesischer Dong",dong,xu
+VUV,"Vanuatu Vatu",vatu,
+WST,"Samoan Tālā",tālā,sene
+XAF,"CFA Franc Beac",franc,rappen
+XCD,"Östlicher karibischer Dollar",dollar,cent
+XOF,"CFA Franc Bceao",franc,rappen
+XPF,"CFP Franc",franc,rappen
+YER,"Jemenitischer Rial",rial,fils
+ZAR,"Südafrikanischer Rand",rand,cent
+ZMW,"Sambian Kwacha",kwacha,ngwee
