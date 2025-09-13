@@ -1,0 +1,242 @@
+af:
+  name: الأفريكانية
+ak:
+  name: الأكانية
+sq:
+  name: الألبانية
+am:
+  name: الأمهرية
+ar:
+  name: العربية
+hy:
+  name: الأرمنية
+as:
+  name: الأسامية
+az:
+  name: الأذربيجانية
+bm:
+  name: البامبارا
+eu:
+  name: الباسكية
+be:
+  name: البيلاروسية
+bn:
+  name: البنغالية
+bs:
+  name: البوسنية
+br:
+  name: البريتانية
+bg:
+  name: البلغارية
+my:
+  name: البورمية
+ca:
+  name: الكتالونية
+zh:
+  name: الصينية
+kw:
+  name: الكورنية
+hr:
+  name: الكرواتية
+cs:
+  name: التشيكية
+da:
+  name: الدانماركية
+nl:
+  name: الهولندية
+dz:
+  name: الدزونخا
+en:
+  name: الإنجليزية
+eo:
+  name: الإسبرانتو
+et:
+  name: الإستونية
+ee:
+  name: الإيوي
+fo:
+  name: الفاروية
+fi:
+  name: الفنلندية
+fr:
+  name: الفرنسية
+ff:
+  name: الفُلا
+gl:
+  name: الجاليكية
+lg:
+  name: الغندا
+ka:
+  name: الجورجية
+de:
+  name: الألمانية
+el:
+  name: اليونانية
+gu:
+  name: الغوجاراتية
+ha:
+  name: الهوسا
+he:
+  name: العبرية
+hi:
+  name: الهندية
+hu:
+  name: الهنغارية
+is:
+  name: الأيسلندية
+ig:
+  name: الإيجبو
+id:
+  name: الإندونيسية
+ga:
+  name: الأيرلندية
+it:
+  name: الإيطالية
+ja:
+  name: اليابانية
+kl:
+  name: الكالاليست
+kn:
+  name: الكانادا
+ks:
+  name: الكشميرية
+kk:
+  name: الكازاخية
+km:
+  name: الخميرية
+ki:
+  name: الكيكيو
+rw:
+  name: الكينيارواندية
+ko:
+  name: الكورية
+ky:
+  name: القيرغيزية
+lo:
+  name: اللاوية
+lv:
+  name: اللاتفية
+ln:
+  name: اللينغالا
+lt:
+  name: الليتوانية
+lu:
+  name: لوبا-كاتانغا
+lb:
+  name: اللوكسمبرجية
+mk:
+  name: المقدونية
+mg:
+  name: المالاجاشية
+ms:
+  name: الملايوية
+ml:
+  name: المالايالامية
+mt:
+  name: المالطية
+gv:
+  name: المانكس
+mr:
+  name: الماراثية
+mn:
+  name: المنغولية
+ne:
+  name: النيبالية
+nd:
+  name: 'النديبيلية الشمالية'
+se:
+  name: 'السامي الشمالية'
+'no':
+  name: النرويجية
+nb:
+  name: 'النرويجية بوكمال'
+nn:
+  name: 'النرويجية نينورسك'
+or:
+  name: الأوريا
+om:
+  name: الأورومو
+os:
+  name: الأوسيتية
+ps:
+  name: البشتوية
+fa:
+  name: الفارسية
+pl:
+  name: البولندية
+pt:
+  name: البرتغالية
+pa:
+  name: البنجابية
+qu:
+  name: الكيتشوا
+ro:
+  name: الرومانية
+rm:
+  name: الرومانشية
+rn:
+  name: الروندي
+ru:
+  name: الروسية
+sg:
+  name: السانغو
+gd:
+  name: 'الغيلية الاسكتلندية'
+sr:
+  name: الصربية
+sh:
+  name: 'الصربية الكرواتية'
+sn:
+  name: الشونا
+ii:
+  name: 'السيتشوان يي'
+si:
+  name: السنهالية
+sk:
+  name: السلوفاكية
+sl:
+  name: السلوفينية
+so:
+  name: الصومالية
+es:
+  name: الإسبانية
+sw:
+  name: السواحيلية
+sv:
+  name: السويدية
+tl:
+  name: التاغالوغية
+ta:
+  name: التاميلية
+te:
+  name: التيلجو
+th:
+  name: التايلاندية
+bo:
+  name: التبتية
+ti:
+  name: التيغرينية
+to:
+  name: التونغية
+tr:
+  name: التركية
+uk:
+  name: الأوكرانية
+ur:
+  name: الأردية
+ug:
+  name: الأويغورية
+uz:
+  name: الأوزبكية
+vi:
+  name: الفيتنامية
+cy:
+  name: الويلزية
+fy:
+  name: 'الفريزية الغربية'
+yi:
+  name: اليديشية
+yo:
+  name: اليوروبا
+zu:
+  name: الزولو

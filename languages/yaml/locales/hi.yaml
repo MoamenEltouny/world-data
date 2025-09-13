@@ -1,0 +1,242 @@
+af:
+  name: अफ़्रीकी
+ak:
+  name: अकन
+sq:
+  name: अल्बानियाई
+am:
+  name: अम्हारिक
+ar:
+  name: अरबी
+hy:
+  name: आर्मेनियाई
+as:
+  name: असमिया
+az:
+  name: अज़रबैजानी
+bm:
+  name: बाम्बारा
+eu:
+  name: बास्क
+be:
+  name: बेलारूसी
+bn:
+  name: बंगाली
+bs:
+  name: बोस्नियाई
+br:
+  name: ब्रेटन
+bg:
+  name: बुल्गारियाई
+my:
+  name: बर्मी
+ca:
+  name: कैटलन
+zh:
+  name: चीनी
+kw:
+  name: कॉर्निश
+hr:
+  name: क्रोएशियाई
+cs:
+  name: चेक
+da:
+  name: डेनिश
+nl:
+  name: डच
+dz:
+  name: ज़ोंगखा
+en:
+  name: अंग्रेज़ी
+eo:
+  name: एस्पेरांतो
+et:
+  name: एस्टोनियाई
+ee:
+  name: एवे
+fo:
+  name: फैरोसी
+fi:
+  name: फिनिश
+fr:
+  name: फ्रेंच
+ff:
+  name: फुलाह
+gl:
+  name: गैलिशियन
+lg:
+  name: गांडा
+ka:
+  name: जॉर्जियन
+de:
+  name: जर्मन
+el:
+  name: यूनानी
+gu:
+  name: गुजराती
+ha:
+  name: हौसा
+he:
+  name: हिब्रू
+hi:
+  name: हिन्दी
+hu:
+  name: हंगेरियन
+is:
+  name: आइसलैंडिक
+ig:
+  name: इग्बो
+id:
+  name: इंडोनेशियाई
+ga:
+  name: आयरिश
+it:
+  name: इतालवी
+ja:
+  name: जापानी
+kl:
+  name: कालााल्लिसुत
+kn:
+  name: कन्नड़
+ks:
+  name: कश्मीरी
+kk:
+  name: कज़ाख
+km:
+  name: खमेर
+ki:
+  name: किकुयू
+rw:
+  name: किन्यारवांडा
+ko:
+  name: कोरियाई
+ky:
+  name: किर्गिज़
+lo:
+  name: लाओ
+lv:
+  name: लातवियाई
+ln:
+  name: लिंगाला
+lt:
+  name: लिथुआनियाई
+lu:
+  name: लुबा-काटांगा
+lb:
+  name: लक्ज़मबर्गिश
+mk:
+  name: मेसिडोनियन
+mg:
+  name: मलागासी
+ms:
+  name: मलय
+ml:
+  name: मलयालम
+mt:
+  name: माल्टीज़
+gv:
+  name: मैनक्स
+mr:
+  name: मराठी
+mn:
+  name: मंगोलियाई
+ne:
+  name: नेपाली
+nd:
+  name: 'उत्तर न्देबेले'
+se:
+  name: 'नॉर्दर्न सामी'
+'no':
+  name: नॉर्वेजियन
+nb:
+  name: 'नॉर्वेजियन बोकमाल'
+nn:
+  name: 'नॉर्वेजियन निनोर्स्क'
+or:
+  name: ओड़िया
+om:
+  name: ओरोमो
+os:
+  name: ओस्सेटिक
+ps:
+  name: पश्तो
+fa:
+  name: फ़ारसी
+pl:
+  name: पोलिश
+pt:
+  name: पुर्तगाली
+pa:
+  name: पंजाबी
+qu:
+  name: क्वेचुआ
+ro:
+  name: रोमानियाई
+rm:
+  name: रोमांश
+rn:
+  name: रुंडी
+ru:
+  name: रूसी
+sg:
+  name: सांगो
+gd:
+  name: 'स्कॉटिश गेलिक'
+sr:
+  name: सर्बियाई
+sh:
+  name: सर्बो-क्रोएशियाई
+sn:
+  name: शोना
+ii:
+  name: 'सिचुआन यी'
+si:
+  name: सिंहला
+sk:
+  name: स्लोवाक
+sl:
+  name: स्लोवेनियाई
+so:
+  name: सोमाली
+es:
+  name: स्पेनिश
+sw:
+  name: स्वाहिली
+sv:
+  name: स्वीडिश
+tl:
+  name: टैगलॉग
+ta:
+  name: तमिल
+te:
+  name: तेलुगु
+th:
+  name: थाई
+bo:
+  name: तिब्बती
+ti:
+  name: तिग्रिन्या
+to:
+  name: टोंगन
+tr:
+  name: तुर्की
+uk:
+  name: यूक्रेनी
+ur:
+  name: उर्दू
+ug:
+  name: उइघुर
+uz:
+  name: उज़्बेक
+vi:
+  name: वियतनामी
+cy:
+  name: वेल्श
+fy:
+  name: 'पश्चिमी फ्रिसियन'
+yi:
+  name: यिडिश
+yo:
+  name: योरूबा
+zu:
+  name: ज़ुलु
