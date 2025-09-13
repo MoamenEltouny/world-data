@@ -1,0 +1,367 @@
+<?php
+
+return [
+	'af' =>  [
+		'name' => 'Afrikaans',
+	],
+	'ak' =>  [
+		'name' => 'Akan',
+	],
+	'sq' =>  [
+		'name' => 'Albanian',
+	],
+	'am' =>  [
+		'name' => 'Amharic',
+	],
+	'ar' =>  [
+		'name' => 'Arabic',
+	],
+	'hy' =>  [
+		'name' => 'Armenian',
+	],
+	'as' =>  [
+		'name' => 'Assamese',
+	],
+	'az' =>  [
+		'name' => 'Azerbaijani',
+	],
+	'bm' =>  [
+		'name' => 'Bambara',
+	],
+	'eu' =>  [
+		'name' => 'Basque',
+	],
+	'be' =>  [
+		'name' => 'Belarusian',
+	],
+	'bn' =>  [
+		'name' => 'Bengali',
+	],
+	'bs' =>  [
+		'name' => 'Bosnian',
+	],
+	'br' =>  [
+		'name' => 'Breton',
+	],
+	'bg' =>  [
+		'name' => 'Bulgarian',
+	],
+	'my' =>  [
+		'name' => 'Burmese',
+	],
+	'ca' =>  [
+		'name' => 'Catalan',
+	],
+	'zh' =>  [
+		'name' => 'Chinese',
+	],
+	'kw' =>  [
+		'name' => 'Cornish',
+	],
+	'hr' =>  [
+		'name' => 'Croatian',
+	],
+	'cs' =>  [
+		'name' => 'Czech',
+	],
+	'da' =>  [
+		'name' => 'Danish',
+	],
+	'nl' =>  [
+		'name' => 'Dutch',
+	],
+	'dz' =>  [
+		'name' => 'Dzongkha',
+	],
+	'en' =>  [
+		'name' => 'English',
+	],
+	'eo' =>  [
+		'name' => 'Esperanto',
+	],
+	'et' =>  [
+		'name' => 'Estonian',
+	],
+	'ee' =>  [
+		'name' => 'Ewe',
+	],
+	'fo' =>  [
+		'name' => 'Faroese',
+	],
+	'fi' =>  [
+		'name' => 'Finnish',
+	],
+	'fr' =>  [
+		'name' => 'French',
+	],
+	'ff' =>  [
+		'name' => 'Fulah',
+	],
+	'gl' =>  [
+		'name' => 'Galician',
+	],
+	'lg' =>  [
+		'name' => 'Ganda',
+	],
+	'ka' =>  [
+		'name' => 'Georgian',
+	],
+	'de' =>  [
+		'name' => 'German',
+	],
+	'el' =>  [
+		'name' => 'Greek',
+	],
+	'gu' =>  [
+		'name' => 'Gujarati',
+	],
+	'ha' =>  [
+		'name' => 'Hausa',
+	],
+	'he' =>  [
+		'name' => 'Hebrew',
+	],
+	'hi' =>  [
+		'name' => 'Hindi',
+	],
+	'hu' =>  [
+		'name' => 'Hungarian',
+	],
+	'is' =>  [
+		'name' => 'Icelandic',
+	],
+	'ig' =>  [
+		'name' => 'Igbo',
+	],
+	'id' =>  [
+		'name' => 'Indonesian',
+	],
+	'ga' =>  [
+		'name' => 'Irish',
+	],
+	'it' =>  [
+		'name' => 'Italian',
+	],
+	'ja' =>  [
+		'name' => 'Japanese',
+	],
+	'kl' =>  [
+		'name' => 'Kalaallisut',
+	],
+	'kn' =>  [
+		'name' => 'Kannada',
+	],
+	'ks' =>  [
+		'name' => 'Kashmiri',
+	],
+	'kk' =>  [
+		'name' => 'Kazakh',
+	],
+	'km' =>  [
+		'name' => 'Khmer',
+	],
+	'ki' =>  [
+		'name' => 'Kikuyu',
+	],
+	'rw' =>  [
+		'name' => 'Kinyarwanda',
+	],
+	'ko' =>  [
+		'name' => 'Korean',
+	],
+	'ky' =>  [
+		'name' => 'Kyrgyz',
+	],
+	'lo' =>  [
+		'name' => 'Lao',
+	],
+	'lv' =>  [
+		'name' => 'Latvian',
+	],
+	'ln' =>  [
+		'name' => 'Lingala',
+	],
+	'lt' =>  [
+		'name' => 'Lithuanian',
+	],
+	'lu' =>  [
+		'name' => 'Luba-Katanga',
+	],
+	'lb' =>  [
+		'name' => 'Luxembourgish',
+	],
+	'mk' =>  [
+		'name' => 'Macedonian',
+	],
+	'mg' =>  [
+		'name' => 'Malagasy',
+	],
+	'ms' =>  [
+		'name' => 'Malay',
+	],
+	'ml' =>  [
+		'name' => 'Malayalam',
+	],
+	'mt' =>  [
+		'name' => 'Maltese',
+	],
+	'gv' =>  [
+		'name' => 'Manx',
+	],
+	'mr' =>  [
+		'name' => 'Marathi',
+	],
+	'mn' =>  [
+		'name' => 'Mongolian',
+	],
+	'ne' =>  [
+		'name' => 'Nepali',
+	],
+	'nd' =>  [
+		'name' => 'North Ndebele',
+	],
+	'se' =>  [
+		'name' => 'Northern Sami',
+	],
+	'no' =>  [
+		'name' => 'Norwegian',
+	],
+	'nb' =>  [
+		'name' => 'Norwegian Bokmål',
+	],
+	'nn' =>  [
+		'name' => 'Norwegian Nynorsk',
+	],
+	'or' =>  [
+		'name' => 'Oriya',
+	],
+	'om' =>  [
+		'name' => 'Oromo',
+	],
+	'os' =>  [
+		'name' => 'Ossetic',
+	],
+	'ps' =>  [
+		'name' => 'Pashto',
+	],
+	'fa' =>  [
+		'name' => 'Persian',
+	],
+	'pl' =>  [
+		'name' => 'Polish',
+	],
+	'pt' =>  [
+		'name' => 'Portuguese',
+	],
+	'pa' =>  [
+		'name' => 'Punjabi',
+	],
+	'qu' =>  [
+		'name' => 'Quechua',
+	],
+	'ro' =>  [
+		'name' => 'Romanian',
+	],
+	'rm' =>  [
+		'name' => 'Romansh',
+	],
+	'rn' =>  [
+		'name' => 'Rundi',
+	],
+	'ru' =>  [
+		'name' => 'Russian',
+	],
+	'sg' =>  [
+		'name' => 'Sango',
+	],
+	'gd' =>  [
+		'name' => 'Scottish Gaelic',
+	],
+	'sr' =>  [
+		'name' => 'Serbian',
+	],
+	'sh' =>  [
+		'name' => 'Serbo-Croatian',
+	],
+	'sn' =>  [
+		'name' => 'Shona',
+	],
+	'ii' =>  [
+		'name' => 'Sichuan Yi',
+	],
+	'si' =>  [
+		'name' => 'Sinhala',
+	],
+	'sk' =>  [
+		'name' => 'Slovak',
+	],
+	'sl' =>  [
+		'name' => 'Slovenian',
+	],
+	'so' =>  [
+		'name' => 'Somali',
+	],
+	'es' =>  [
+		'name' => 'Spanish',
+	],
+	'sw' =>  [
+		'name' => 'Swahili',
+	],
+	'sv' =>  [
+		'name' => 'Swedish',
+	],
+	'tl' =>  [
+		'name' => 'Tagalog',
+	],
+	'ta' =>  [
+		'name' => 'Tamil',
+	],
+	'te' =>  [
+		'name' => 'Telugu',
+	],
+	'th' =>  [
+		'name' => 'Thai',
+	],
+	'bo' =>  [
+		'name' => 'Tibetan',
+	],
+	'ti' =>  [
+		'name' => 'Tigrinya',
+	],
+	'to' =>  [
+		'name' => 'Tongan',
+	],
+	'tr' =>  [
+		'name' => 'Turkish',
+	],
+	'uk' =>  [
+		'name' => 'Ukrainian',
+	],
+	'ur' =>  [
+		'name' => 'Urdu',
+	],
+	'ug' =>  [
+		'name' => 'Uyghur',
+	],
+	'uz' =>  [
+		'name' => 'Uzbek',
+	],
+	'vi' =>  [
+		'name' => 'Vietnamese',
+	],
+	'cy' =>  [
+		'name' => 'Welsh',
+	],
+	'fy' =>  [
+		'name' => 'Western Frisian',
+	],
+	'yi' =>  [
+		'name' => 'Yiddish',
+	],
+	'yo' =>  [
+		'name' => 'Yoruba',
+	],
+	'zu' =>  [
+		'name' => 'Zulu',
+	],
+];
