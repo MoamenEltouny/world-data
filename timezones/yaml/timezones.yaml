@@ -1,0 +1,3771 @@
+Pacific/Midway:
+    dst: false
+    group: Pacific
+    offset: -39600
+    label:
+        text: '(UTC-11:00)'
+        operator: '-'
+        hours: 11
+        minutes: 0
+Pacific/Niue:
+    dst: false
+    group: Pacific
+    offset: -39600
+    label:
+        text: '(UTC-11:00)'
+        operator: '-'
+        hours: 11
+        minutes: 0
+Pacific/Pago_Pago:
+    dst: false
+    group: Pacific
+    offset: -39600
+    label:
+        text: '(UTC-11:00)'
+        operator: '-'
+        hours: 11
+        minutes: 0
+Pacific/Honolulu:
+    dst: false
+    group: Pacific
+    offset: -36000
+    label:
+        text: '(UTC-10:00)'
+        operator: '-'
+        hours: 10
+        minutes: 0
+Pacific/Rarotonga:
+    dst: false
+    group: Pacific
+    offset: -36000
+    label:
+        text: '(UTC-10:00)'
+        operator: '-'
+        hours: 10
+        minutes: 0
+Pacific/Tahiti:
+    dst: false
+    group: Pacific
+    offset: -36000
+    label:
+        text: '(UTC-10:00)'
+        operator: '-'
+        hours: 10
+        minutes: 0
+Pacific/Marquesas:
+    dst: false
+    group: Pacific
+    offset: -34200
+    label:
+        text: '(UTC-09:30)'
+        operator: '-'
+        hours: 9
+        minutes: 30
+America/Adak:
+    dst: true
+    group: America
+    offset: -32400
+    label:
+        text: '(UTC-09:00)'
+        operator: '-'
+        hours: 9
+        minutes: 0
+Pacific/Gambier:
+    dst: false
+    group: Pacific
+    offset: -32400
+    label:
+        text: '(UTC-09:00)'
+        operator: '-'
+        hours: 9
+        minutes: 0
+America/Anchorage:
+    dst: true
+    group: America
+    offset: -28800
+    label:
+        text: '(UTC-08:00)'
+        operator: '-'
+        hours: 8
+        minutes: 0
+America/Juneau:
+    dst: true
+    group: America
+    offset: -28800
+    label:
+        text: '(UTC-08:00)'
+        operator: '-'
+        hours: 8
+        minutes: 0
+America/Metlakatla:
+    dst: true
+    group: America
+    offset: -28800
+    label:
+        text: '(UTC-08:00)'
+        operator: '-'
+        hours: 8
+        minutes: 0
+America/Nome:
+    dst: true
+    group: America
+    offset: -28800
+    label:
+        text: '(UTC-08:00)'
+        operator: '-'
+        hours: 8
+        minutes: 0
+America/Sitka:
+    dst: true
+    group: America
+    offset: -28800
+    label:
+        text: '(UTC-08:00)'
+        operator: '-'
+        hours: 8
+        minutes: 0
+America/Yakutat:
+    dst: true
+    group: America
+    offset: -28800
+    label:
+        text: '(UTC-08:00)'
+        operator: '-'
+        hours: 8
+        minutes: 0
+Pacific/Pitcairn:
+    dst: false
+    group: Pacific
+    offset: -28800
+    label:
+        text: '(UTC-08:00)'
+        operator: '-'
+        hours: 8
+        minutes: 0
+America/Creston:
+    dst: false
+    group: America
+    offset: -25200
+    label:
+        text: '(UTC-07:00)'
+        operator: '-'
+        hours: 7
+        minutes: 0
+America/Dawson:
+    dst: false
+    group: America
+    offset: -25200
+    label:
+        text: '(UTC-07:00)'
+        operator: '-'
+        hours: 7
+        minutes: 0
+America/Dawson_Creek:
+    dst: false
+    group: America
+    offset: -25200
+    label:
+        text: '(UTC-07:00)'
+        operator: '-'
+        hours: 7
+        minutes: 0
+America/Fort_Nelson:
+    dst: false
+    group: America
+    offset: -25200
+    label:
+        text: '(UTC-07:00)'
+        operator: '-'
+        hours: 7
+        minutes: 0
+America/Hermosillo:
+    dst: false
+    group: America
+    offset: -25200
+    label:
+        text: '(UTC-07:00)'
+        operator: '-'
+        hours: 7
+        minutes: 0
+America/Los_Angeles:
+    dst: true
+    group: America
+    offset: -25200
+    label:
+        text: '(UTC-07:00)'
+        operator: '-'
+        hours: 7
+        minutes: 0
+America/Mazatlan:
+    dst: false
+    group: America
+    offset: -25200
+    label:
+        text: '(UTC-07:00)'
+        operator: '-'
+        hours: 7
+        minutes: 0
+America/Phoenix:
+    dst: false
+    group: America
+    offset: -25200
+    label:
+        text: '(UTC-07:00)'
+        operator: '-'
+        hours: 7
+        minutes: 0
+America/Tijuana:
+    dst: true
+    group: America
+    offset: -25200
+    label:
+        text: '(UTC-07:00)'
+        operator: '-'
+        hours: 7
+        minutes: 0
+America/Vancouver:
+    dst: true
+    group: America
+    offset: -25200
+    label:
+        text: '(UTC-07:00)'
+        operator: '-'
+        hours: 7
+        minutes: 0
+America/Whitehorse:
+    dst: false
+    group: America
+    offset: -25200
+    label:
+        text: '(UTC-07:00)'
+        operator: '-'
+        hours: 7
+        minutes: 0
+America/Bahia_Banderas:
+    dst: false
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Belize:
+    dst: false
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Boise:
+    dst: true
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Cambridge_Bay:
+    dst: true
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Chihuahua:
+    dst: false
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Ciudad_Juarez:
+    dst: true
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Costa_Rica:
+    dst: false
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Denver:
+    dst: true
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Edmonton:
+    dst: true
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/El_Salvador:
+    dst: false
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Guatemala:
+    dst: false
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Inuvik:
+    dst: true
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Managua:
+    dst: false
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Merida:
+    dst: false
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Mexico_City:
+    dst: false
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Monterrey:
+    dst: false
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Regina:
+    dst: false
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Swift_Current:
+    dst: false
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Tegucigalpa:
+    dst: false
+    group: America
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+Pacific/Galapagos:
+    dst: false
+    group: Pacific
+    offset: -21600
+    label:
+        text: '(UTC-06:00)'
+        operator: '-'
+        hours: 6
+        minutes: 0
+America/Atikokan:
+    dst: false
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Bogota:
+    dst: false
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Cancun:
+    dst: false
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Cayman:
+    dst: false
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Chicago:
+    dst: true
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Eirunepe:
+    dst: false
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Guayaquil:
+    dst: false
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Indiana/Knox:
+    dst: true
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Indiana/Tell_City:
+    dst: true
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Jamaica:
+    dst: false
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Lima:
+    dst: false
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Matamoros:
+    dst: true
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Menominee:
+    dst: true
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/North_Dakota/Beulah:
+    dst: true
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/North_Dakota/Center:
+    dst: true
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/North_Dakota/New_Salem:
+    dst: true
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Ojinaga:
+    dst: true
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Panama:
+    dst: false
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Rankin_Inlet:
+    dst: true
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Resolute:
+    dst: true
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Rio_Branco:
+    dst: false
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Winnipeg:
+    dst: true
+    group: America
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+Pacific/Easter:
+    dst: true
+    group: Pacific
+    offset: -18000
+    label:
+        text: '(UTC-05:00)'
+        operator: '-'
+        hours: 5
+        minutes: 0
+America/Anguilla:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Antigua:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Aruba:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Barbados:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Blanc-Sablon:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Boa_Vista:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Campo_Grande:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Caracas:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Cuiaba:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Curacao:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Detroit:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Dominica:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Grand_Turk:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Grenada:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Guadeloupe:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Guyana:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Havana:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Indiana/Indianapolis:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Indiana/Marengo:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Indiana/Petersburg:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Indiana/Vevay:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Indiana/Vincennes:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Indiana/Winamac:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Iqaluit:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Kentucky/Louisville:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Kentucky/Monticello:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Kralendijk:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/La_Paz:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Lower_Princes:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Manaus:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Marigot:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Martinique:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Montserrat:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Nassau:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/New_York:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Port-au-Prince:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Port_of_Spain:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Porto_Velho:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Puerto_Rico:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Santo_Domingo:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/St_Barthelemy:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/St_Kitts:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/St_Lucia:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/St_Thomas:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/St_Vincent:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Toronto:
+    dst: true
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Tortola:
+    dst: false
+    group: America
+    offset: -14400
+    label:
+        text: '(UTC-04:00)'
+        operator: '-'
+        hours: 4
+        minutes: 0
+America/Araguaina:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Argentina/Buenos_Aires:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Argentina/Catamarca:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Argentina/Cordoba:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Argentina/Jujuy:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Argentina/La_Rioja:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Argentina/Mendoza:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Argentina/Rio_Gallegos:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Argentina/Salta:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Argentina/San_Juan:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Argentina/San_Luis:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Argentina/Tucuman:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Argentina/Ushuaia:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Asuncion:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Bahia:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Belem:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Cayenne:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Coyhaique:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Fortaleza:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Glace_Bay:
+    dst: true
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Goose_Bay:
+    dst: true
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Halifax:
+    dst: true
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Maceio:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Moncton:
+    dst: true
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Montevideo:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Paramaribo:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Punta_Arenas:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Recife:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Santarem:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Santiago:
+    dst: true
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Sao_Paulo:
+    dst: false
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/Thule:
+    dst: true
+    group: America
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+Antarctica/Palmer:
+    dst: false
+    group: Antarctica
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+Antarctica/Rothera:
+    dst: false
+    group: Antarctica
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+Atlantic/Bermuda:
+    dst: true
+    group: Atlantic
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+Atlantic/Stanley:
+    dst: false
+    group: Atlantic
+    offset: -10800
+    label:
+        text: '(UTC-03:00)'
+        operator: '-'
+        hours: 3
+        minutes: 0
+America/St_Johns:
+    dst: true
+    group: America
+    offset: -9000
+    label:
+        text: '(UTC-02:30)'
+        operator: '-'
+        hours: 2
+        minutes: 30
+America/Miquelon:
+    dst: true
+    group: America
+    offset: -7200
+    label:
+        text: '(UTC-02:00)'
+        operator: '-'
+        hours: 2
+        minutes: 0
+America/Noronha:
+    dst: false
+    group: America
+    offset: -7200
+    label:
+        text: '(UTC-02:00)'
+        operator: '-'
+        hours: 2
+        minutes: 0
+Atlantic/South_Georgia:
+    dst: false
+    group: Atlantic
+    offset: -7200
+    label:
+        text: '(UTC-02:00)'
+        operator: '-'
+        hours: 2
+        minutes: 0
+America/Nuuk:
+    dst: true
+    group: America
+    offset: -3600
+    label:
+        text: '(UTC-01:00)'
+        operator: '-'
+        hours: 1
+        minutes: 0
+America/Scoresbysund:
+    dst: true
+    group: America
+    offset: -3600
+    label:
+        text: '(UTC-01:00)'
+        operator: '-'
+        hours: 1
+        minutes: 0
+Atlantic/Cape_Verde:
+    dst: false
+    group: Atlantic
+    offset: -3600
+    label:
+        text: '(UTC-01:00)'
+        operator: '-'
+        hours: 1
+        minutes: 0
+Africa/Abidjan:
+    dst: false
+    group: Africa
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Africa/Accra:
+    dst: false
+    group: Africa
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Africa/Bamako:
+    dst: false
+    group: Africa
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Africa/Banjul:
+    dst: false
+    group: Africa
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Africa/Bissau:
+    dst: false
+    group: Africa
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Africa/Conakry:
+    dst: false
+    group: Africa
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Africa/Dakar:
+    dst: false
+    group: Africa
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Africa/Freetown:
+    dst: false
+    group: Africa
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Africa/Lome:
+    dst: false
+    group: Africa
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Africa/Monrovia:
+    dst: false
+    group: Africa
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Africa/Nouakchott:
+    dst: false
+    group: Africa
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Africa/Ouagadougou:
+    dst: false
+    group: Africa
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Africa/Sao_Tome:
+    dst: false
+    group: Africa
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+America/Danmarkshavn:
+    dst: false
+    group: America
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Atlantic/Azores:
+    dst: true
+    group: Atlantic
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Atlantic/Reykjavik:
+    dst: false
+    group: Atlantic
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Atlantic/St_Helena:
+    dst: false
+    group: Atlantic
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+UTC:
+    dst: false
+    group: UTC
+    offset: 0
+    label:
+        text: '(UTC+00:00)'
+        operator: +
+        hours: 0
+        minutes: 0
+Africa/Algiers:
+    dst: false
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/Bangui:
+    dst: false
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/Brazzaville:
+    dst: false
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/Casablanca:
+    dst: true
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/Douala:
+    dst: false
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/El_Aaiun:
+    dst: true
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/Kinshasa:
+    dst: false
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/Lagos:
+    dst: false
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/Libreville:
+    dst: false
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/Luanda:
+    dst: false
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/Malabo:
+    dst: false
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/Ndjamena:
+    dst: false
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/Niamey:
+    dst: false
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/Porto-Novo:
+    dst: false
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/Tunis:
+    dst: false
+    group: Africa
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Atlantic/Canary:
+    dst: true
+    group: Atlantic
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Atlantic/Faroe:
+    dst: true
+    group: Atlantic
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Atlantic/Madeira:
+    dst: true
+    group: Atlantic
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Europe/Dublin:
+    dst: true
+    group: Europe
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Europe/Guernsey:
+    dst: true
+    group: Europe
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Europe/Isle_of_Man:
+    dst: true
+    group: Europe
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Europe/Jersey:
+    dst: true
+    group: Europe
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Europe/Lisbon:
+    dst: true
+    group: Europe
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Europe/London:
+    dst: true
+    group: Europe
+    offset: 3600
+    label:
+        text: '(UTC+01:00)'
+        operator: +
+        hours: 1
+        minutes: 0
+Africa/Blantyre:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Bujumbura:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Ceuta:
+    dst: true
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Gaborone:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Harare:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Johannesburg:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Juba:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Khartoum:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Kigali:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Lubumbashi:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Lusaka:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Maputo:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Maseru:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Mbabane:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Tripoli:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Windhoek:
+    dst: false
+    group: Africa
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Antarctica/Troll:
+    dst: true
+    group: Antarctica
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Arctic/Longyearbyen:
+    dst: true
+    group: Arctic
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Amsterdam:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Andorra:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Belgrade:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Berlin:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Bratislava:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Brussels:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Budapest:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Busingen:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Copenhagen:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Gibraltar:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Kaliningrad:
+    dst: false
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Ljubljana:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Luxembourg:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Madrid:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Malta:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Monaco:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Oslo:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Paris:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Podgorica:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Prague:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Rome:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/San_Marino:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Sarajevo:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Skopje:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Stockholm:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Tirane:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Vaduz:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Vatican:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Vienna:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Warsaw:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Zagreb:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Europe/Zurich:
+    dst: true
+    group: Europe
+    offset: 7200
+    label:
+        text: '(UTC+02:00)'
+        operator: +
+        hours: 2
+        minutes: 0
+Africa/Addis_Ababa:
+    dst: false
+    group: Africa
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Africa/Asmara:
+    dst: false
+    group: Africa
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Africa/Cairo:
+    dst: true
+    group: Africa
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Africa/Dar_es_Salaam:
+    dst: false
+    group: Africa
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Africa/Djibouti:
+    dst: false
+    group: Africa
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Africa/Kampala:
+    dst: false
+    group: Africa
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Africa/Mogadishu:
+    dst: false
+    group: Africa
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Africa/Nairobi:
+    dst: false
+    group: Africa
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Antarctica/Syowa:
+    dst: false
+    group: Antarctica
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Aden:
+    dst: false
+    group: Asia
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Amman:
+    dst: false
+    group: Asia
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Baghdad:
+    dst: false
+    group: Asia
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Bahrain:
+    dst: false
+    group: Asia
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Beirut:
+    dst: true
+    group: Asia
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Damascus:
+    dst: false
+    group: Asia
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Famagusta:
+    dst: true
+    group: Asia
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Gaza:
+    dst: true
+    group: Asia
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Hebron:
+    dst: true
+    group: Asia
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Jerusalem:
+    dst: true
+    group: Asia
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Kuwait:
+    dst: false
+    group: Asia
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Nicosia:
+    dst: true
+    group: Asia
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Qatar:
+    dst: false
+    group: Asia
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Riyadh:
+    dst: false
+    group: Asia
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Athens:
+    dst: true
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Bucharest:
+    dst: true
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Chisinau:
+    dst: true
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Helsinki:
+    dst: true
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Istanbul:
+    dst: false
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Kirov:
+    dst: false
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Kyiv:
+    dst: true
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Mariehamn:
+    dst: true
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Minsk:
+    dst: false
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Moscow:
+    dst: false
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Riga:
+    dst: true
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Simferopol:
+    dst: false
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Sofia:
+    dst: true
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Tallinn:
+    dst: true
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Vilnius:
+    dst: true
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Europe/Volgograd:
+    dst: false
+    group: Europe
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Indian/Antananarivo:
+    dst: false
+    group: Indian
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Indian/Comoro:
+    dst: false
+    group: Indian
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Indian/Mayotte:
+    dst: false
+    group: Indian
+    offset: 10800
+    label:
+        text: '(UTC+03:00)'
+        operator: +
+        hours: 3
+        minutes: 0
+Asia/Tehran:
+    dst: false
+    group: Asia
+    offset: 12600
+    label:
+        text: '(UTC+03:30)'
+        operator: +
+        hours: 3
+        minutes: 30
+Asia/Baku:
+    dst: false
+    group: Asia
+    offset: 14400
+    label:
+        text: '(UTC+04:00)'
+        operator: +
+        hours: 4
+        minutes: 0
+Asia/Dubai:
+    dst: false
+    group: Asia
+    offset: 14400
+    label:
+        text: '(UTC+04:00)'
+        operator: +
+        hours: 4
+        minutes: 0
+Asia/Muscat:
+    dst: false
+    group: Asia
+    offset: 14400
+    label:
+        text: '(UTC+04:00)'
+        operator: +
+        hours: 4
+        minutes: 0
+Asia/Tbilisi:
+    dst: false
+    group: Asia
+    offset: 14400
+    label:
+        text: '(UTC+04:00)'
+        operator: +
+        hours: 4
+        minutes: 0
+Asia/Yerevan:
+    dst: false
+    group: Asia
+    offset: 14400
+    label:
+        text: '(UTC+04:00)'
+        operator: +
+        hours: 4
+        minutes: 0
+Europe/Astrakhan:
+    dst: false
+    group: Europe
+    offset: 14400
+    label:
+        text: '(UTC+04:00)'
+        operator: +
+        hours: 4
+        minutes: 0
+Europe/Samara:
+    dst: false
+    group: Europe
+    offset: 14400
+    label:
+        text: '(UTC+04:00)'
+        operator: +
+        hours: 4
+        minutes: 0
+Europe/Saratov:
+    dst: false
+    group: Europe
+    offset: 14400
+    label:
+        text: '(UTC+04:00)'
+        operator: +
+        hours: 4
+        minutes: 0
+Europe/Ulyanovsk:
+    dst: false
+    group: Europe
+    offset: 14400
+    label:
+        text: '(UTC+04:00)'
+        operator: +
+        hours: 4
+        minutes: 0
+Indian/Mahe:
+    dst: false
+    group: Indian
+    offset: 14400
+    label:
+        text: '(UTC+04:00)'
+        operator: +
+        hours: 4
+        minutes: 0
+Indian/Mauritius:
+    dst: false
+    group: Indian
+    offset: 14400
+    label:
+        text: '(UTC+04:00)'
+        operator: +
+        hours: 4
+        minutes: 0
+Indian/Reunion:
+    dst: false
+    group: Indian
+    offset: 14400
+    label:
+        text: '(UTC+04:00)'
+        operator: +
+        hours: 4
+        minutes: 0
+Asia/Kabul:
+    dst: false
+    group: Asia
+    offset: 16200
+    label:
+        text: '(UTC+04:30)'
+        operator: +
+        hours: 4
+        minutes: 30
+Antarctica/Mawson:
+    dst: false
+    group: Antarctica
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Antarctica/Vostok:
+    dst: false
+    group: Antarctica
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Asia/Almaty:
+    dst: false
+    group: Asia
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Asia/Aqtau:
+    dst: false
+    group: Asia
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Asia/Aqtobe:
+    dst: false
+    group: Asia
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Asia/Ashgabat:
+    dst: false
+    group: Asia
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Asia/Atyrau:
+    dst: false
+    group: Asia
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Asia/Dushanbe:
+    dst: false
+    group: Asia
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Asia/Karachi:
+    dst: false
+    group: Asia
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Asia/Oral:
+    dst: false
+    group: Asia
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Asia/Qostanay:
+    dst: false
+    group: Asia
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Asia/Qyzylorda:
+    dst: false
+    group: Asia
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Asia/Samarkand:
+    dst: false
+    group: Asia
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Asia/Tashkent:
+    dst: false
+    group: Asia
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Asia/Yekaterinburg:
+    dst: false
+    group: Asia
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Indian/Kerguelen:
+    dst: false
+    group: Indian
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Indian/Maldives:
+    dst: false
+    group: Indian
+    offset: 18000
+    label:
+        text: '(UTC+05:00)'
+        operator: +
+        hours: 5
+        minutes: 0
+Asia/Colombo:
+    dst: false
+    group: Asia
+    offset: 19800
+    label:
+        text: '(UTC+05:30)'
+        operator: +
+        hours: 5
+        minutes: 30
+Asia/Kolkata:
+    dst: false
+    group: Asia
+    offset: 19800
+    label:
+        text: '(UTC+05:30)'
+        operator: +
+        hours: 5
+        minutes: 30
+Asia/Kathmandu:
+    dst: false
+    group: Asia
+    offset: 20700
+    label:
+        text: '(UTC+05:45)'
+        operator: +
+        hours: 5
+        minutes: 45
+Asia/Bishkek:
+    dst: false
+    group: Asia
+    offset: 21600
+    label:
+        text: '(UTC+06:00)'
+        operator: +
+        hours: 6
+        minutes: 0
+Asia/Dhaka:
+    dst: false
+    group: Asia
+    offset: 21600
+    label:
+        text: '(UTC+06:00)'
+        operator: +
+        hours: 6
+        minutes: 0
+Asia/Omsk:
+    dst: false
+    group: Asia
+    offset: 21600
+    label:
+        text: '(UTC+06:00)'
+        operator: +
+        hours: 6
+        minutes: 0
+Asia/Thimphu:
+    dst: false
+    group: Asia
+    offset: 21600
+    label:
+        text: '(UTC+06:00)'
+        operator: +
+        hours: 6
+        minutes: 0
+Asia/Urumqi:
+    dst: false
+    group: Asia
+    offset: 21600
+    label:
+        text: '(UTC+06:00)'
+        operator: +
+        hours: 6
+        minutes: 0
+Indian/Chagos:
+    dst: false
+    group: Indian
+    offset: 21600
+    label:
+        text: '(UTC+06:00)'
+        operator: +
+        hours: 6
+        minutes: 0
+Asia/Yangon:
+    dst: false
+    group: Asia
+    offset: 23400
+    label:
+        text: '(UTC+06:30)'
+        operator: +
+        hours: 6
+        minutes: 30
+Indian/Cocos:
+    dst: false
+    group: Indian
+    offset: 23400
+    label:
+        text: '(UTC+06:30)'
+        operator: +
+        hours: 6
+        minutes: 30
+Antarctica/Davis:
+    dst: false
+    group: Antarctica
+    offset: 25200
+    label:
+        text: '(UTC+07:00)'
+        operator: +
+        hours: 7
+        minutes: 0
+Asia/Bangkok:
+    dst: false
+    group: Asia
+    offset: 25200
+    label:
+        text: '(UTC+07:00)'
+        operator: +
+        hours: 7
+        minutes: 0
+Asia/Barnaul:
+    dst: false
+    group: Asia
+    offset: 25200
+    label:
+        text: '(UTC+07:00)'
+        operator: +
+        hours: 7
+        minutes: 0
+Asia/Ho_Chi_Minh:
+    dst: false
+    group: Asia
+    offset: 25200
+    label:
+        text: '(UTC+07:00)'
+        operator: +
+        hours: 7
+        minutes: 0
+Asia/Hovd:
+    dst: false
+    group: Asia
+    offset: 25200
+    label:
+        text: '(UTC+07:00)'
+        operator: +
+        hours: 7
+        minutes: 0
+Asia/Jakarta:
+    dst: false
+    group: Asia
+    offset: 25200
+    label:
+        text: '(UTC+07:00)'
+        operator: +
+        hours: 7
+        minutes: 0
+Asia/Krasnoyarsk:
+    dst: false
+    group: Asia
+    offset: 25200
+    label:
+        text: '(UTC+07:00)'
+        operator: +
+        hours: 7
+        minutes: 0
+Asia/Novokuznetsk:
+    dst: false
+    group: Asia
+    offset: 25200
+    label:
+        text: '(UTC+07:00)'
+        operator: +
+        hours: 7
+        minutes: 0
+Asia/Novosibirsk:
+    dst: false
+    group: Asia
+    offset: 25200
+    label:
+        text: '(UTC+07:00)'
+        operator: +
+        hours: 7
+        minutes: 0
+Asia/Phnom_Penh:
+    dst: false
+    group: Asia
+    offset: 25200
+    label:
+        text: '(UTC+07:00)'
+        operator: +
+        hours: 7
+        minutes: 0
+Asia/Pontianak:
+    dst: false
+    group: Asia
+    offset: 25200
+    label:
+        text: '(UTC+07:00)'
+        operator: +
+        hours: 7
+        minutes: 0
+Asia/Tomsk:
+    dst: false
+    group: Asia
+    offset: 25200
+    label:
+        text: '(UTC+07:00)'
+        operator: +
+        hours: 7
+        minutes: 0
+Asia/Vientiane:
+    dst: false
+    group: Asia
+    offset: 25200
+    label:
+        text: '(UTC+07:00)'
+        operator: +
+        hours: 7
+        minutes: 0
+Indian/Christmas:
+    dst: false
+    group: Indian
+    offset: 25200
+    label:
+        text: '(UTC+07:00)'
+        operator: +
+        hours: 7
+        minutes: 0
+Antarctica/Casey:
+    dst: false
+    group: Antarctica
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Asia/Brunei:
+    dst: false
+    group: Asia
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Asia/Hong_Kong:
+    dst: false
+    group: Asia
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Asia/Irkutsk:
+    dst: false
+    group: Asia
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Asia/Kuala_Lumpur:
+    dst: false
+    group: Asia
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Asia/Kuching:
+    dst: false
+    group: Asia
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Asia/Macau:
+    dst: false
+    group: Asia
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Asia/Makassar:
+    dst: false
+    group: Asia
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Asia/Manila:
+    dst: false
+    group: Asia
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Asia/Shanghai:
+    dst: false
+    group: Asia
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Asia/Singapore:
+    dst: false
+    group: Asia
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Asia/Taipei:
+    dst: false
+    group: Asia
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Asia/Ulaanbaatar:
+    dst: false
+    group: Asia
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Australia/Perth:
+    dst: false
+    group: Australia
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Australia/Eucla:
+    dst: false
+    group: Australia
+    offset: 31500
+    label:
+        text: '(UTC+08:45)'
+        operator: +
+        hours: 8
+        minutes: 45
+Asia/Chita:
+    dst: false
+    group: Asia
+    offset: 32400
+    label:
+        text: '(UTC+09:00)'
+        operator: +
+        hours: 9
+        minutes: 0
+Asia/Dili:
+    dst: false
+    group: Asia
+    offset: 32400
+    label:
+        text: '(UTC+09:00)'
+        operator: +
+        hours: 9
+        minutes: 0
+Asia/Jayapura:
+    dst: false
+    group: Asia
+    offset: 32400
+    label:
+        text: '(UTC+09:00)'
+        operator: +
+        hours: 9
+        minutes: 0
+Asia/Khandyga:
+    dst: false
+    group: Asia
+    offset: 32400
+    label:
+        text: '(UTC+09:00)'
+        operator: +
+        hours: 9
+        minutes: 0
+Asia/Pyongyang:
+    dst: false
+    group: Asia
+    offset: 32400
+    label:
+        text: '(UTC+09:00)'
+        operator: +
+        hours: 9
+        minutes: 0
+Asia/Seoul:
+    dst: false
+    group: Asia
+    offset: 32400
+    label:
+        text: '(UTC+09:00)'
+        operator: +
+        hours: 9
+        minutes: 0
+Asia/Tokyo:
+    dst: false
+    group: Asia
+    offset: 32400
+    label:
+        text: '(UTC+09:00)'
+        operator: +
+        hours: 9
+        minutes: 0
+Asia/Yakutsk:
+    dst: false
+    group: Asia
+    offset: 32400
+    label:
+        text: '(UTC+09:00)'
+        operator: +
+        hours: 9
+        minutes: 0
+Pacific/Palau:
+    dst: false
+    group: Pacific
+    offset: 32400
+    label:
+        text: '(UTC+09:00)'
+        operator: +
+        hours: 9
+        minutes: 0
+Australia/Adelaide:
+    dst: false
+    group: Australia
+    offset: 34200
+    label:
+        text: '(UTC+09:30)'
+        operator: +
+        hours: 9
+        minutes: 30
+Australia/Broken_Hill:
+    dst: false
+    group: Australia
+    offset: 34200
+    label:
+        text: '(UTC+09:30)'
+        operator: +
+        hours: 9
+        minutes: 30
+Australia/Darwin:
+    dst: false
+    group: Australia
+    offset: 34200
+    label:
+        text: '(UTC+09:30)'
+        operator: +
+        hours: 9
+        minutes: 30
+Antarctica/DumontDUrville:
+    dst: false
+    group: Antarctica
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Antarctica/Macquarie:
+    dst: false
+    group: Antarctica
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Asia/Ust-Nera:
+    dst: false
+    group: Asia
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Asia/Vladivostok:
+    dst: false
+    group: Asia
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Australia/Brisbane:
+    dst: false
+    group: Australia
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Australia/Hobart:
+    dst: false
+    group: Australia
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Australia/Lindeman:
+    dst: false
+    group: Australia
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Australia/Melbourne:
+    dst: false
+    group: Australia
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Australia/Sydney:
+    dst: false
+    group: Australia
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Pacific/Chuuk:
+    dst: false
+    group: Pacific
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Pacific/Guam:
+    dst: false
+    group: Pacific
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Pacific/Port_Moresby:
+    dst: false
+    group: Pacific
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Pacific/Saipan:
+    dst: false
+    group: Pacific
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Australia/Lord_Howe:
+    dst: false
+    group: Australia
+    offset: 37800
+    label:
+        text: '(UTC+10:30)'
+        operator: +
+        hours: 10
+        minutes: 30
+Asia/Magadan:
+    dst: false
+    group: Asia
+    offset: 39600
+    label:
+        text: '(UTC+11:00)'
+        operator: +
+        hours: 11
+        minutes: 0
+Asia/Sakhalin:
+    dst: false
+    group: Asia
+    offset: 39600
+    label:
+        text: '(UTC+11:00)'
+        operator: +
+        hours: 11
+        minutes: 0
+Asia/Srednekolymsk:
+    dst: false
+    group: Asia
+    offset: 39600
+    label:
+        text: '(UTC+11:00)'
+        operator: +
+        hours: 11
+        minutes: 0
+Pacific/Bougainville:
+    dst: false
+    group: Pacific
+    offset: 39600
+    label:
+        text: '(UTC+11:00)'
+        operator: +
+        hours: 11
+        minutes: 0
+Pacific/Efate:
+    dst: false
+    group: Pacific
+    offset: 39600
+    label:
+        text: '(UTC+11:00)'
+        operator: +
+        hours: 11
+        minutes: 0
+Pacific/Guadalcanal:
+    dst: false
+    group: Pacific
+    offset: 39600
+    label:
+        text: '(UTC+11:00)'
+        operator: +
+        hours: 11
+        minutes: 0
+Pacific/Kosrae:
+    dst: false
+    group: Pacific
+    offset: 39600
+    label:
+        text: '(UTC+11:00)'
+        operator: +
+        hours: 11
+        minutes: 0
+Pacific/Norfolk:
+    dst: false
+    group: Pacific
+    offset: 39600
+    label:
+        text: '(UTC+11:00)'
+        operator: +
+        hours: 11
+        minutes: 0
+Pacific/Noumea:
+    dst: false
+    group: Pacific
+    offset: 39600
+    label:
+        text: '(UTC+11:00)'
+        operator: +
+        hours: 11
+        minutes: 0
+Pacific/Pohnpei:
+    dst: false
+    group: Pacific
+    offset: 39600
+    label:
+        text: '(UTC+11:00)'
+        operator: +
+        hours: 11
+        minutes: 0
+Antarctica/McMurdo:
+    dst: false
+    group: Antarctica
+    offset: 43200
+    label:
+        text: '(UTC+12:00)'
+        operator: +
+        hours: 12
+        minutes: 0
+Asia/Anadyr:
+    dst: false
+    group: Asia
+    offset: 43200
+    label:
+        text: '(UTC+12:00)'
+        operator: +
+        hours: 12
+        minutes: 0
+Asia/Kamchatka:
+    dst: false
+    group: Asia
+    offset: 43200
+    label:
+        text: '(UTC+12:00)'
+        operator: +
+        hours: 12
+        minutes: 0
+Pacific/Auckland:
+    dst: false
+    group: Pacific
+    offset: 43200
+    label:
+        text: '(UTC+12:00)'
+        operator: +
+        hours: 12
+        minutes: 0
+Pacific/Fiji:
+    dst: false
+    group: Pacific
+    offset: 43200
+    label:
+        text: '(UTC+12:00)'
+        operator: +
+        hours: 12
+        minutes: 0
+Pacific/Funafuti:
+    dst: false
+    group: Pacific
+    offset: 43200
+    label:
+        text: '(UTC+12:00)'
+        operator: +
+        hours: 12
+        minutes: 0
+Pacific/Kwajalein:
+    dst: false
+    group: Pacific
+    offset: 43200
+    label:
+        text: '(UTC+12:00)'
+        operator: +
+        hours: 12
+        minutes: 0
+Pacific/Majuro:
+    dst: false
+    group: Pacific
+    offset: 43200
+    label:
+        text: '(UTC+12:00)'
+        operator: +
+        hours: 12
+        minutes: 0
+Pacific/Nauru:
+    dst: false
+    group: Pacific
+    offset: 43200
+    label:
+        text: '(UTC+12:00)'
+        operator: +
+        hours: 12
+        minutes: 0
+Pacific/Tarawa:
+    dst: false
+    group: Pacific
+    offset: 43200
+    label:
+        text: '(UTC+12:00)'
+        operator: +
+        hours: 12
+        minutes: 0
+Pacific/Wake:
+    dst: false
+    group: Pacific
+    offset: 43200
+    label:
+        text: '(UTC+12:00)'
+        operator: +
+        hours: 12
+        minutes: 0
+Pacific/Wallis:
+    dst: false
+    group: Pacific
+    offset: 43200
+    label:
+        text: '(UTC+12:00)'
+        operator: +
+        hours: 12
+        minutes: 0
+Pacific/Chatham:
+    dst: false
+    group: Pacific
+    offset: 45900
+    label:
+        text: '(UTC+12:45)'
+        operator: +
+        hours: 12
+        minutes: 45
+Pacific/Apia:
+    dst: false
+    group: Pacific
+    offset: 46800
+    label:
+        text: '(UTC+13:00)'
+        operator: +
+        hours: 13
+        minutes: 0
+Pacific/Fakaofo:
+    dst: false
+    group: Pacific
+    offset: 46800
+    label:
+        text: '(UTC+13:00)'
+        operator: +
+        hours: 13
+        minutes: 0
+Pacific/Kanton:
+    dst: false
+    group: Pacific
+    offset: 46800
+    label:
+        text: '(UTC+13:00)'
+        operator: +
+        hours: 13
+        minutes: 0
+Pacific/Tongatapu:
+    dst: false
+    group: Pacific
+    offset: 46800
+    label:
+        text: '(UTC+13:00)'
+        operator: +
+        hours: 13
+        minutes: 0
+Pacific/Kiritimati:
+    dst: false
+    group: Pacific
+    offset: 50400
+    label:
+        text: '(UTC+14:00)'
+        operator: +
+        hours: 14
+        minutes: 0
