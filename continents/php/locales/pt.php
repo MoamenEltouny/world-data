@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'AF' => [
+        'name' => 'África',
+    ],
+    'AN' => [
+        'name' => 'Antártida',
+    ],
+    'AS' => [
+        'name' => 'Ásia',
+    ],
+    'EU' => [
+        'name' => 'Europa',
+    ],
+    'NA' => [
+        'name' => 'América do Norte',
+    ],
+    'OC' => [
+        'name' => 'Oceania',
+    ],
+    'SA' => [
+        'name' => 'América do Sul',
+    ]
+];
