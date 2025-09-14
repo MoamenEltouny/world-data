@@ -1,7 +1,7 @@
 {
     "AED": {
         "symbol": "د.إ.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -9,7 +9,7 @@
     },
     "AFN": {
         "symbol": "؋",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -17,7 +17,7 @@
     },
     "ALL": {
         "symbol": "L",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -25,7 +25,7 @@
     },
     "AMD": {
         "symbol": "֏",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -33,7 +33,7 @@
     },
     "AOA": {
         "symbol": "Kz",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -41,7 +41,7 @@
     },
     "ARS": {
         "symbol": "AR$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -49,7 +49,7 @@
     },
     "AUD": {
         "symbol": "A$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -57,7 +57,7 @@
     },
     "AWG": {
         "symbol": "ƒ",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -65,7 +65,7 @@
     },
     "AZN": {
         "symbol": "₼",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -73,7 +73,7 @@
     },
     "BAM": {
         "symbol": "KM",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -81,7 +81,7 @@
     },
     "BBD": {
         "symbol": "BB$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -89,7 +89,7 @@
     },
     "BDT": {
         "symbol": "৳",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -97,7 +97,7 @@
     },
     "BGN": {
         "symbol": "лв",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -105,7 +105,7 @@
     },
     "BHD": {
         "symbol": "د.ب.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 3,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -113,7 +113,7 @@
     },
     "BIF": {
         "symbol": "FBu",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -121,7 +121,7 @@
     },
     "BMD": {
         "symbol": "BD$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -129,7 +129,7 @@
     },
     "BND": {
         "symbol": "BN$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -137,7 +137,7 @@
     },
     "BOB": {
         "symbol": "Bs.",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -145,7 +145,7 @@
     },
     "BRL": {
         "symbol": "R$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -153,7 +153,7 @@
     },
     "BSD": {
         "symbol": "B$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -161,7 +161,7 @@
     },
     "BTC": {
         "symbol": "₿",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 8,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -169,7 +169,7 @@
     },
     "BTN": {
         "symbol": "Nu.",
-        "template": "$ 1",
+        "template": "{symbol} {value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -177,7 +177,7 @@
     },
     "BWP": {
         "symbol": "P",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -185,7 +185,7 @@
     },
     "BYR": {
         "symbol": "р.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -193,7 +193,7 @@
     },
     "BZD": {
         "symbol": "BZ$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -201,7 +201,7 @@
     },
     "CAD": {
         "symbol": "CA$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -209,7 +209,7 @@
     },
     "CDF": {
         "symbol": "FC",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -217,7 +217,7 @@
     },
     "CHF": {
         "symbol": "Fr.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -225,7 +225,7 @@
     },
     "CLP": {
         "symbol": "CLP$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 0,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -233,7 +233,7 @@
     },
     "CNY": {
         "symbol": "¥",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -241,7 +241,7 @@
     },
     "COP": {
         "symbol": "COL$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 0,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -249,7 +249,7 @@
     },
     "CRC": {
         "symbol": "₡",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -257,7 +257,7 @@
     },
     "CUP": {
         "symbol": "₱",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -265,7 +265,7 @@
     },
     "CVE": {
         "symbol": "Esc$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -273,7 +273,7 @@
     },
     "CZK": {
         "symbol": "Kč",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -281,7 +281,7 @@
     },
     "DJF": {
         "symbol": "Fdj",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -289,7 +289,7 @@
     },
     "DKK": {
         "symbol": "kr",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -297,7 +297,7 @@
     },
     "DOP": {
         "symbol": "RD$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -305,7 +305,7 @@
     },
     "DZD": {
         "symbol": "د.ج.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -313,7 +313,7 @@
     },
     "EGP": {
         "symbol": "ج.م.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -321,7 +321,7 @@
     },
     "ERN": {
         "symbol": "Nkf",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -329,7 +329,7 @@
     },
     "ETB": {
         "symbol": "Br",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -337,7 +337,7 @@
     },
     "ETH": {
         "symbol": "Ξ",
-        "template": "$ 1",
+        "template": "{symbol} {value}",
         "decimals": 18,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -345,7 +345,7 @@
     },
     "EUR": {
         "symbol": "€",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -353,7 +353,7 @@
     },
     "FJD": {
         "symbol": "FJ$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -361,7 +361,7 @@
     },
     "FKP": {
         "symbol": "FK£",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -369,7 +369,7 @@
     },
     "GBP": {
         "symbol": "£",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -377,7 +377,7 @@
     },
     "GEL": {
         "symbol": "₾",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -385,7 +385,7 @@
     },
     "GHS": {
         "symbol": "₵",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -393,7 +393,7 @@
     },
     "GIP": {
         "symbol": "£",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -401,7 +401,7 @@
     },
     "GMD": {
         "symbol": "D",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -409,7 +409,7 @@
     },
     "GNF": {
         "symbol": "FG",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -417,7 +417,7 @@
     },
     "GTQ": {
         "symbol": "Q",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -425,7 +425,7 @@
     },
     "GYD": {
         "symbol": "G$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -433,7 +433,7 @@
     },
     "HKD": {
         "symbol": "HK$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -441,7 +441,7 @@
     },
     "HNL": {
         "symbol": "L",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -449,7 +449,7 @@
     },
     "HRK": {
         "symbol": "kn",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -457,7 +457,7 @@
     },
     "HTG": {
         "symbol": "G",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -465,7 +465,7 @@
     },
     "HUF": {
         "symbol": "Ft",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 0,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -473,7 +473,7 @@
     },
     "IDR": {
         "symbol": "Rp",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -481,7 +481,7 @@
     },
     "ILS": {
         "symbol": "₪",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -489,7 +489,7 @@
     },
     "INR": {
         "symbol": "₹",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -497,7 +497,7 @@
     },
     "IQD": {
         "symbol": "د.ع.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 3,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -505,7 +505,7 @@
     },
     "IRR": {
         "symbol": "﷼",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -513,7 +513,7 @@
     },
     "ISK": {
         "symbol": "kr",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -521,7 +521,7 @@
     },
     "JMD": {
         "symbol": "J$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -529,7 +529,7 @@
     },
     "JOD": {
         "symbol": "د.أ.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 3,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -537,7 +537,7 @@
     },
     "JPY": {
         "symbol": "¥",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -545,7 +545,7 @@
     },
     "KES": {
         "symbol": "KSh",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -553,7 +553,7 @@
     },
     "KGS": {
         "symbol": "сом",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -561,7 +561,7 @@
     },
     "KHR": {
         "symbol": "៛",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -569,7 +569,7 @@
     },
     "KMF": {
         "symbol": "CF",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -577,7 +577,7 @@
     },
     "KPW": {
         "symbol": "₩",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -585,7 +585,7 @@
     },
     "KRW": {
         "symbol": "₩",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -593,7 +593,7 @@
     },
     "KWD": {
         "symbol": "د.ك.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 3,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -601,7 +601,7 @@
     },
     "KYD": {
         "symbol": "CI$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -609,7 +609,7 @@
     },
     "KZT": {
         "symbol": "₸",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -617,7 +617,7 @@
     },
     "LAK": {
         "symbol": "₭",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -625,7 +625,7 @@
     },
     "LBP": {
         "symbol": "ل.ل.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -633,7 +633,7 @@
     },
     "LRD": {
         "symbol": "L$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -641,7 +641,7 @@
     },
     "LSL": {
         "symbol": "L",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -649,7 +649,7 @@
     },
     "LTL": {
         "symbol": "Lt",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -657,7 +657,7 @@
     },
     "LYD": {
         "symbol": "د.ل.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 3,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -665,7 +665,7 @@
     },
     "MAD": {
         "symbol": "د.م.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -673,7 +673,7 @@
     },
     "MDL": {
         "symbol": "L",
-        "template": "$ 1",
+        "template": "{symbol} {value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -681,7 +681,7 @@
     },
     "MGA": {
         "symbol": "Ar",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 1,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -689,7 +689,7 @@
     },
     "MKD": {
         "symbol": "ден",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -697,7 +697,7 @@
     },
     "MMK": {
         "symbol": "Ks",
-        "template": "$ 1",
+        "template": "{symbol} {value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -705,7 +705,7 @@
     },
     "MNT": {
         "symbol": "₮",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -713,7 +713,7 @@
     },
     "MOP": {
         "symbol": "MOP$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -721,7 +721,7 @@
     },
     "MRO": {
         "symbol": "ouguiya",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -729,7 +729,7 @@
     },
     "MUR": {
         "symbol": "₨",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -737,7 +737,7 @@
     },
     "MVR": {
         "symbol": "ރ",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -745,7 +745,7 @@
     },
     "MWK": {
         "symbol": "MK",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -753,7 +753,7 @@
     },
     "MXN": {
         "symbol": "MX$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -761,7 +761,7 @@
     },
     "MYR": {
         "symbol": "RM",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -769,7 +769,7 @@
     },
     "MZN": {
         "symbol": "MT",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -777,7 +777,7 @@
     },
     "NAD": {
         "symbol": "N$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -785,7 +785,7 @@
     },
     "NGN": {
         "symbol": "₦",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -793,7 +793,7 @@
     },
     "NIO": {
         "symbol": "C$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -801,7 +801,7 @@
     },
     "NOK": {
         "symbol": "kr",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -809,7 +809,7 @@
     },
     "NPR": {
         "symbol": "₨",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -817,7 +817,7 @@
     },
     "NZD": {
         "symbol": "NZ$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -825,23 +825,23 @@
     },
     "OMR": {
         "symbol": "ر.ع.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 3,
         "decimals_separator": ".",
         "thousands_separator": ",",
         "iso_number": 512
     },
     "PAB": {
-        "symbol": "B/.",
-        "template": "$1",
+        "symbol": "B\/.",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
         "iso_number": 590
     },
     "PEN": {
-        "symbol": "S/",
-        "template": "$1",
+        "symbol": "S\/",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -849,7 +849,7 @@
     },
     "PGK": {
         "symbol": "K",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -857,7 +857,7 @@
     },
     "PHP": {
         "symbol": "₱",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -865,7 +865,7 @@
     },
     "PKR": {
         "symbol": "₨",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -873,7 +873,7 @@
     },
     "PLN": {
         "symbol": "zł",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -881,7 +881,7 @@
     },
     "PYG": {
         "symbol": "₲",
-        "template": "1$",
+        "template": "{value}{symbol}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -889,7 +889,7 @@
     },
     "QAR": {
         "symbol": "ر.ق.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -897,7 +897,7 @@
     },
     "RON": {
         "symbol": "lei",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -905,7 +905,7 @@
     },
     "RSD": {
         "symbol": "Дин.",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -913,7 +913,7 @@
     },
     "RUB": {
         "symbol": "₽",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -921,7 +921,7 @@
     },
     "RWF": {
         "symbol": "R₣",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -929,7 +929,7 @@
     },
     "SAR": {
         "symbol": "﷼",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -937,7 +937,7 @@
     },
     "SBD": {
         "symbol": "SI$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -945,7 +945,7 @@
     },
     "SCR": {
         "symbol": "₨",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -953,7 +953,7 @@
     },
     "SDG": {
         "symbol": "ج.س.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -961,7 +961,7 @@
     },
     "SEK": {
         "symbol": "kr",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -969,7 +969,7 @@
     },
     "SGD": {
         "symbol": "S$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -977,7 +977,7 @@
     },
     "SHP": {
         "symbol": "£",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -985,7 +985,7 @@
     },
     "SLL": {
         "symbol": "Le",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -993,7 +993,7 @@
     },
     "SOS": {
         "symbol": "Sh.So.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1001,7 +1001,7 @@
     },
     "SRD": {
         "symbol": "SR$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1009,7 +1009,7 @@
     },
     "STD": {
         "symbol": "Db",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1017,7 +1017,7 @@
     },
     "SYP": {
         "symbol": "ل.س.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1025,7 +1025,7 @@
     },
     "SZL": {
         "symbol": "E",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1033,7 +1033,7 @@
     },
     "THB": {
         "symbol": "฿",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1041,7 +1041,7 @@
     },
     "TJS": {
         "symbol": "SM",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1049,7 +1049,7 @@
     },
     "TMT": {
         "symbol": "m.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1057,7 +1057,7 @@
     },
     "TND": {
         "symbol": "د.ت.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 3,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1065,7 +1065,7 @@
     },
     "TOP": {
         "symbol": "T$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1073,7 +1073,7 @@
     },
     "TRY": {
         "symbol": "₺",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1081,7 +1081,7 @@
     },
     "TTD": {
         "symbol": "TT$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1089,7 +1089,7 @@
     },
     "TWD": {
         "symbol": "NT$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1097,7 +1097,7 @@
     },
     "TZS": {
         "symbol": "TSh",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1105,7 +1105,7 @@
     },
     "UAH": {
         "symbol": "₴",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1113,7 +1113,7 @@
     },
     "UGX": {
         "symbol": "USh",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1121,7 +1121,7 @@
     },
     "USD": {
         "symbol": "$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1129,7 +1129,7 @@
     },
     "UYU": {
         "symbol": "$U",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 0,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -1137,7 +1137,7 @@
     },
     "UZS": {
         "symbol": "so’m",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1145,7 +1145,7 @@
     },
     "VEF": {
         "symbol": "Bs",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -1153,7 +1153,7 @@
     },
     "VND": {
         "symbol": "₫",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 0,
         "decimals_separator": ",",
         "thousands_separator": ".",
@@ -1161,7 +1161,7 @@
     },
     "VUV": {
         "symbol": "VT",
-        "template": "1$",
+        "template": "{value}{symbol}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1169,7 +1169,7 @@
     },
     "WST": {
         "symbol": "WS$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1177,7 +1177,7 @@
     },
     "XAF": {
         "symbol": "FCFA",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1185,7 +1185,7 @@
     },
     "XCD": {
         "symbol": "EC$",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1193,7 +1193,7 @@
     },
     "XOF": {
         "symbol": "CFA",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1201,7 +1201,7 @@
     },
     "XPF": {
         "symbol": "₣",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 0,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1209,7 +1209,7 @@
     },
     "YER": {
         "symbol": "ر.ي.",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1217,7 +1217,7 @@
     },
     "ZAR": {
         "symbol": "R",
-        "template": "$1",
+        "template": "{symbol}{value}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",
@@ -1225,7 +1225,7 @@
     },
     "ZMW": {
         "symbol": "ZK",
-        "template": "1 $",
+        "template": "{value} {symbol}",
         "decimals": 2,
         "decimals_separator": ".",
         "thousands_separator": ",",

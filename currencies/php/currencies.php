@@ -3,7 +3,7 @@
 return [
 	'AED' => [
 		'symbol' => 'د.إ.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -11,7 +11,7 @@ return [
 	],
 	'AFN' => [
 		'symbol' => '؋',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -19,7 +19,7 @@ return [
 	],
 	'ALL' => [
 		'symbol' => 'L',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -27,7 +27,7 @@ return [
 	],
 	'AMD' => [
 		'symbol' => '֏',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -35,7 +35,7 @@ return [
 	],
 	'AOA' => [
 		'symbol' => 'Kz',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -43,7 +43,7 @@ return [
 	],
 	'ARS' => [
 		'symbol' => 'AR$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -51,7 +51,7 @@ return [
 	],
 	'AUD' => [
 		'symbol' => 'A$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -59,7 +59,7 @@ return [
 	],
 	'AWG' => [
 		'symbol' => 'ƒ',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -67,7 +67,7 @@ return [
 	],
 	'AZN' => [
 		'symbol' => '₼',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -75,7 +75,7 @@ return [
 	],
 	'BAM' => [
 		'symbol' => 'KM',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -83,7 +83,7 @@ return [
 	],
 	'BBD' => [
 		'symbol' => 'BB$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -91,7 +91,7 @@ return [
 	],
 	'BDT' => [
 		'symbol' => '৳',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -99,7 +99,7 @@ return [
 	],
 	'BGN' => [
 		'symbol' => 'лв',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -107,7 +107,7 @@ return [
 	],
 	'BHD' => [
 		'symbol' => 'د.ب.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 3,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -115,7 +115,7 @@ return [
 	],
 	'BIF' => [
 		'symbol' => 'FBu',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -123,7 +123,7 @@ return [
 	],
 	'BMD' => [
 		'symbol' => 'BD$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -131,7 +131,7 @@ return [
 	],
 	'BND' => [
 		'symbol' => 'BN$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -139,7 +139,7 @@ return [
 	],
 	'BOB' => [
 		'symbol' => 'Bs.',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -147,7 +147,7 @@ return [
 	],
 	'BRL' => [
 		'symbol' => 'R$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -155,7 +155,7 @@ return [
 	],
 	'BSD' => [
 		'symbol' => 'B$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -163,7 +163,7 @@ return [
 	],
 	'BTC' => [
 		'symbol' => '₿',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 8,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -171,7 +171,7 @@ return [
 	],
 	'BTN' => [
 		'symbol' => 'Nu.',
-		'template' => '$ 1',
+		'template' => '{symbol} {value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -179,7 +179,7 @@ return [
 	],
 	'BWP' => [
 		'symbol' => 'P',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -187,7 +187,7 @@ return [
 	],
 	'BYR' => [
 		'symbol' => 'р.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -195,7 +195,7 @@ return [
 	],
 	'BZD' => [
 		'symbol' => 'BZ$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -203,7 +203,7 @@ return [
 	],
 	'CAD' => [
 		'symbol' => 'CA$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -211,7 +211,7 @@ return [
 	],
 	'CDF' => [
 		'symbol' => 'FC',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -219,7 +219,7 @@ return [
 	],
 	'CHF' => [
 		'symbol' => 'Fr.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -227,7 +227,7 @@ return [
 	],
 	'CLP' => [
 		'symbol' => 'CLP$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 0,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -235,7 +235,7 @@ return [
 	],
 	'CNY' => [
 		'symbol' => '¥',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -243,7 +243,7 @@ return [
 	],
 	'COP' => [
 		'symbol' => 'COL$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 0,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -251,7 +251,7 @@ return [
 	],
 	'CRC' => [
 		'symbol' => '₡',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -259,7 +259,7 @@ return [
 	],
 	'CUP' => [
 		'symbol' => '₱',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -267,7 +267,7 @@ return [
 	],
 	'CVE' => [
 		'symbol' => 'Esc$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -275,7 +275,7 @@ return [
 	],
 	'CZK' => [
 		'symbol' => 'Kč',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -283,7 +283,7 @@ return [
 	],
 	'DJF' => [
 		'symbol' => 'Fdj',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -291,7 +291,7 @@ return [
 	],
 	'DKK' => [
 		'symbol' => 'kr',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -299,7 +299,7 @@ return [
 	],
 	'DOP' => [
 		'symbol' => 'RD$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -307,7 +307,7 @@ return [
 	],
 	'DZD' => [
 		'symbol' => 'د.ج.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -315,7 +315,7 @@ return [
 	],
 	'EGP' => [
 		'symbol' => 'ج.م.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -323,7 +323,7 @@ return [
 	],
 	'ERN' => [
 		'symbol' => 'Nkf',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -331,7 +331,7 @@ return [
 	],
 	'ETB' => [
 		'symbol' => 'Br',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -339,7 +339,7 @@ return [
 	],
 	'ETH' => [
 		'symbol' => 'Ξ',
-		'template' => '$ 1',
+		'template' => '{symbol} {value}',
 		'decimals' => 18,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -347,7 +347,7 @@ return [
 	],
 	'EUR' => [
 		'symbol' => '€',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -355,7 +355,7 @@ return [
 	],
 	'FJD' => [
 		'symbol' => 'FJ$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -363,7 +363,7 @@ return [
 	],
 	'FKP' => [
 		'symbol' => 'FK£',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -371,7 +371,7 @@ return [
 	],
 	'GBP' => [
 		'symbol' => '£',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -379,7 +379,7 @@ return [
 	],
 	'GEL' => [
 		'symbol' => '₾',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -387,7 +387,7 @@ return [
 	],
 	'GHS' => [
 		'symbol' => '₵',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -395,7 +395,7 @@ return [
 	],
 	'GIP' => [
 		'symbol' => '£',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -403,7 +403,7 @@ return [
 	],
 	'GMD' => [
 		'symbol' => 'D',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -411,7 +411,7 @@ return [
 	],
 	'GNF' => [
 		'symbol' => 'FG',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -419,7 +419,7 @@ return [
 	],
 	'GTQ' => [
 		'symbol' => 'Q',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -427,7 +427,7 @@ return [
 	],
 	'GYD' => [
 		'symbol' => 'G$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -435,7 +435,7 @@ return [
 	],
 	'HKD' => [
 		'symbol' => 'HK$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -443,7 +443,7 @@ return [
 	],
 	'HNL' => [
 		'symbol' => 'L',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -451,7 +451,7 @@ return [
 	],
 	'HRK' => [
 		'symbol' => 'kn',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -459,7 +459,7 @@ return [
 	],
 	'HTG' => [
 		'symbol' => 'G',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -467,7 +467,7 @@ return [
 	],
 	'HUF' => [
 		'symbol' => 'Ft',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 0,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -475,7 +475,7 @@ return [
 	],
 	'IDR' => [
 		'symbol' => 'Rp',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -483,7 +483,7 @@ return [
 	],
 	'ILS' => [
 		'symbol' => '₪',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -491,7 +491,7 @@ return [
 	],
 	'INR' => [
 		'symbol' => '₹',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -499,7 +499,7 @@ return [
 	],
 	'IQD' => [
 		'symbol' => 'د.ع.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 3,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -507,7 +507,7 @@ return [
 	],
 	'IRR' => [
 		'symbol' => '﷼',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -515,7 +515,7 @@ return [
 	],
 	'ISK' => [
 		'symbol' => 'kr',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -523,7 +523,7 @@ return [
 	],
 	'JMD' => [
 		'symbol' => 'J$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -531,7 +531,7 @@ return [
 	],
 	'JOD' => [
 		'symbol' => 'د.أ.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 3,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -539,7 +539,7 @@ return [
 	],
 	'JPY' => [
 		'symbol' => '¥',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -547,7 +547,7 @@ return [
 	],
 	'KES' => [
 		'symbol' => 'KSh',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -555,7 +555,7 @@ return [
 	],
 	'KGS' => [
 		'symbol' => 'сом',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -563,7 +563,7 @@ return [
 	],
 	'KHR' => [
 		'symbol' => '៛',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -571,7 +571,7 @@ return [
 	],
 	'KMF' => [
 		'symbol' => 'CF',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -579,7 +579,7 @@ return [
 	],
 	'KPW' => [
 		'symbol' => '₩',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -587,7 +587,7 @@ return [
 	],
 	'KRW' => [
 		'symbol' => '₩',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -595,7 +595,7 @@ return [
 	],
 	'KWD' => [
 		'symbol' => 'د.ك.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 3,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -603,7 +603,7 @@ return [
 	],
 	'KYD' => [
 		'symbol' => 'CI$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -611,7 +611,7 @@ return [
 	],
 	'KZT' => [
 		'symbol' => '₸',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -619,7 +619,7 @@ return [
 	],
 	'LAK' => [
 		'symbol' => '₭',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -627,7 +627,7 @@ return [
 	],
 	'LBP' => [
 		'symbol' => 'ل.ل.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -635,7 +635,7 @@ return [
 	],
 	'LRD' => [
 		'symbol' => 'L$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -643,7 +643,7 @@ return [
 	],
 	'LSL' => [
 		'symbol' => 'L',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -651,7 +651,7 @@ return [
 	],
 	'LTL' => [
 		'symbol' => 'Lt',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -659,7 +659,7 @@ return [
 	],
 	'LYD' => [
 		'symbol' => 'د.ل.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 3,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -667,7 +667,7 @@ return [
 	],
 	'MAD' => [
 		'symbol' => 'د.م.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -675,7 +675,7 @@ return [
 	],
 	'MDL' => [
 		'symbol' => 'L',
-		'template' => '$ 1',
+		'template' => '{symbol} {value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -683,7 +683,7 @@ return [
 	],
 	'MGA' => [
 		'symbol' => 'Ar',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 1,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -691,7 +691,7 @@ return [
 	],
 	'MKD' => [
 		'symbol' => 'ден',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -699,7 +699,7 @@ return [
 	],
 	'MMK' => [
 		'symbol' => 'Ks',
-		'template' => '$ 1',
+		'template' => '{symbol} {value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -707,7 +707,7 @@ return [
 	],
 	'MNT' => [
 		'symbol' => '₮',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -715,7 +715,7 @@ return [
 	],
 	'MOP' => [
 		'symbol' => 'MOP$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -723,7 +723,7 @@ return [
 	],
 	'MRO' => [
 		'symbol' => 'ouguiya',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -731,7 +731,7 @@ return [
 	],
 	'MUR' => [
 		'symbol' => '₨',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -739,7 +739,7 @@ return [
 	],
 	'MVR' => [
 		'symbol' => 'ރ',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -747,7 +747,7 @@ return [
 	],
 	'MWK' => [
 		'symbol' => 'MK',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -755,7 +755,7 @@ return [
 	],
 	'MXN' => [
 		'symbol' => 'MX$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -763,7 +763,7 @@ return [
 	],
 	'MYR' => [
 		'symbol' => 'RM',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -771,7 +771,7 @@ return [
 	],
 	'MZN' => [
 		'symbol' => 'MT',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -779,7 +779,7 @@ return [
 	],
 	'NAD' => [
 		'symbol' => 'N$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -787,7 +787,7 @@ return [
 	],
 	'NGN' => [
 		'symbol' => '₦',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -795,7 +795,7 @@ return [
 	],
 	'NIO' => [
 		'symbol' => 'C$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -803,7 +803,7 @@ return [
 	],
 	'NOK' => [
 		'symbol' => 'kr',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -811,7 +811,7 @@ return [
 	],
 	'NPR' => [
 		'symbol' => '₨',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -819,7 +819,7 @@ return [
 	],
 	'NZD' => [
 		'symbol' => 'NZ$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -827,7 +827,7 @@ return [
 	],
 	'OMR' => [
 		'symbol' => 'ر.ع.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 3,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -835,7 +835,7 @@ return [
 	],
 	'PAB' => [
 		'symbol' => 'B/.',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -843,7 +843,7 @@ return [
 	],
 	'PEN' => [
 		'symbol' => 'S/',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -851,7 +851,7 @@ return [
 	],
 	'PGK' => [
 		'symbol' => 'K',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -859,7 +859,7 @@ return [
 	],
 	'PHP' => [
 		'symbol' => '₱',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -867,7 +867,7 @@ return [
 	],
 	'PKR' => [
 		'symbol' => '₨',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -875,7 +875,7 @@ return [
 	],
 	'PLN' => [
 		'symbol' => 'zł',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -883,7 +883,7 @@ return [
 	],
 	'PYG' => [
 		'symbol' => '₲',
-		'template' => '1$',
+		'template' => '{value}{symbol}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -891,7 +891,7 @@ return [
 	],
 	'QAR' => [
 		'symbol' => 'ر.ق.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -899,7 +899,7 @@ return [
 	],
 	'RON' => [
 		'symbol' => 'lei',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -907,7 +907,7 @@ return [
 	],
 	'RSD' => [
 		'symbol' => 'Дин.',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -915,7 +915,7 @@ return [
 	],
 	'RUB' => [
 		'symbol' => '₽',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -923,7 +923,7 @@ return [
 	],
 	'RWF' => [
 		'symbol' => 'R₣',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -931,7 +931,7 @@ return [
 	],
 	'SAR' => [
 		'symbol' => '﷼',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -939,7 +939,7 @@ return [
 	],
 	'SBD' => [
 		'symbol' => 'SI$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -947,7 +947,7 @@ return [
 	],
 	'SCR' => [
 		'symbol' => '₨',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -955,7 +955,7 @@ return [
 	],
 	'SDG' => [
 		'symbol' => 'ج.س.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -963,7 +963,7 @@ return [
 	],
 	'SEK' => [
 		'symbol' => 'kr',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -971,7 +971,7 @@ return [
 	],
 	'SGD' => [
 		'symbol' => 'S$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -979,7 +979,7 @@ return [
 	],
 	'SHP' => [
 		'symbol' => '£',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -987,7 +987,7 @@ return [
 	],
 	'SLL' => [
 		'symbol' => 'Le',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -995,7 +995,7 @@ return [
 	],
 	'SOS' => [
 		'symbol' => 'Sh.So.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1003,7 +1003,7 @@ return [
 	],
 	'SRD' => [
 		'symbol' => 'SR$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1011,7 +1011,7 @@ return [
 	],
 	'STD' => [
 		'symbol' => 'Db',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1019,7 +1019,7 @@ return [
 	],
 	'SYP' => [
 		'symbol' => 'ل.س.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1027,7 +1027,7 @@ return [
 	],
 	'SZL' => [
 		'symbol' => 'E',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1035,7 +1035,7 @@ return [
 	],
 	'THB' => [
 		'symbol' => '฿',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1043,7 +1043,7 @@ return [
 	],
 	'TJS' => [
 		'symbol' => 'SM',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1051,7 +1051,7 @@ return [
 	],
 	'TMT' => [
 		'symbol' => 'm.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1059,7 +1059,7 @@ return [
 	],
 	'TND' => [
 		'symbol' => 'د.ت.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 3,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1067,7 +1067,7 @@ return [
 	],
 	'TOP' => [
 		'symbol' => 'T$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1075,7 +1075,7 @@ return [
 	],
 	'TRY' => [
 		'symbol' => '₺',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1083,7 +1083,7 @@ return [
 	],
 	'TTD' => [
 		'symbol' => 'TT$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1091,7 +1091,7 @@ return [
 	],
 	'TWD' => [
 		'symbol' => 'NT$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1099,7 +1099,7 @@ return [
 	],
 	'TZS' => [
 		'symbol' => 'TSh',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1107,7 +1107,7 @@ return [
 	],
 	'UAH' => [
 		'symbol' => '₴',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1115,7 +1115,7 @@ return [
 	],
 	'UGX' => [
 		'symbol' => 'USh',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1123,7 +1123,7 @@ return [
 	],
 	'USD' => [
 		'symbol' => '$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1131,7 +1131,7 @@ return [
 	],
 	'UYU' => [
 		'symbol' => '$U',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 0,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -1139,7 +1139,7 @@ return [
 	],
 	'UZS' => [
 		'symbol' => 'so’m',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1147,7 +1147,7 @@ return [
 	],
 	'VEF' => [
 		'symbol' => 'Bs',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -1155,7 +1155,7 @@ return [
 	],
 	'VND' => [
 		'symbol' => '₫',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 0,
 		'decimals_separator' => ',',
 		'thousands_separator' => '.',
@@ -1163,7 +1163,7 @@ return [
 	],
 	'VUV' => [
 		'symbol' => 'VT',
-		'template' => '1$',
+		'template' => '{value}{symbol}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1171,7 +1171,7 @@ return [
 	],
 	'WST' => [
 		'symbol' => 'WS$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1179,7 +1179,7 @@ return [
 	],
 	'XAF' => [
 		'symbol' => 'FCFA',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1187,7 +1187,7 @@ return [
 	],
 	'XCD' => [
 		'symbol' => 'EC$',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1195,7 +1195,7 @@ return [
 	],
 	'XOF' => [
 		'symbol' => 'CFA',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1203,7 +1203,7 @@ return [
 	],
 	'XPF' => [
 		'symbol' => '₣',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 0,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1211,7 +1211,7 @@ return [
 	],
 	'YER' => [
 		'symbol' => 'ر.ي.',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1219,7 +1219,7 @@ return [
 	],
 	'ZAR' => [
 		'symbol' => 'R',
-		'template' => '$1',
+		'template' => '{symbol}{value}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
@@ -1227,7 +1227,7 @@ return [
 	],
 	'ZMW' => [
 		'symbol' => 'ZK',
-		'template' => '1 $',
+		'template' => '{value} {symbol}',
 		'decimals' => 2,
 		'decimals_separator' => '.',
 		'thousands_separator' => ',',
