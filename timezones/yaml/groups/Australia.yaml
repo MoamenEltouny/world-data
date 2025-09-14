@@ -1,0 +1,88 @@
+Australia/Perth:
+    dst: false
+    offset: 28800
+    label:
+        text: '(UTC+08:00)'
+        operator: +
+        hours: 8
+        minutes: 0
+Australia/Eucla:
+    dst: false
+    offset: 31500
+    label:
+        text: '(UTC+08:45)'
+        operator: +
+        hours: 8
+        minutes: 45
+Australia/Adelaide:
+    dst: false
+    offset: 34200
+    label:
+        text: '(UTC+09:30)'
+        operator: +
+        hours: 9
+        minutes: 30
+Australia/Broken_Hill:
+    dst: false
+    offset: 34200
+    label:
+        text: '(UTC+09:30)'
+        operator: +
+        hours: 9
+        minutes: 30
+Australia/Darwin:
+    dst: false
+    offset: 34200
+    label:
+        text: '(UTC+09:30)'
+        operator: +
+        hours: 9
+        minutes: 30
+Australia/Brisbane:
+    dst: false
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Australia/Hobart:
+    dst: false
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Australia/Lindeman:
+    dst: false
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Australia/Melbourne:
+    dst: false
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Australia/Sydney:
+    dst: false
+    offset: 36000
+    label:
+        text: '(UTC+10:00)'
+        operator: +
+        hours: 10
+        minutes: 0
+Australia/Lord_Howe:
+    dst: false
+    offset: 37800
+    label:
+        text: '(UTC+10:30)'
+        operator: +
+        hours: 10
+        minutes: 30
