@@ -1,242 +1,242 @@
 af:
-  name: अफ़्रीकी
+    name: अफ़्रीकी
 ak:
-  name: अकन
+    name: अकन
 sq:
-  name: अल्बानियाई
+    name: अल्बानियाई
 am:
-  name: अम्हारिक
+    name: अम्हारिक
 ar:
-  name: अरबी
+    name: अरबी
 hy:
-  name: आर्मेनियाई
+    name: आर्मेनियाई
 as:
-  name: असमिया
+    name: असमिया
 az:
-  name: अज़रबैजानी
+    name: अज़रबैजानी
 bm:
-  name: बाम्बारा
+    name: बाम्बारा
 eu:
-  name: बास्क
+    name: बास्क
 be:
-  name: बेलारूसी
+    name: बेलारूसी
 bn:
-  name: बंगाली
+    name: बंगाली
 bs:
-  name: बोस्नियाई
+    name: बोस्नियाई
 br:
-  name: ब्रेटन
+    name: ब्रेटन
 bg:
-  name: बुल्गारियाई
+    name: बुल्गारियाई
 my:
-  name: बर्मी
+    name: बर्मी
 ca:
-  name: कैटलन
+    name: कैटलन
 zh:
-  name: चीनी
+    name: चीनी
 kw:
-  name: कॉर्निश
+    name: कॉर्निश
 hr:
-  name: क्रोएशियाई
+    name: क्रोएशियाई
 cs:
-  name: चेक
+    name: चेक
 da:
-  name: डेनिश
+    name: डेनिश
 nl:
-  name: डच
+    name: डच
 dz:
-  name: ज़ोंगखा
+    name: ज़ोंगखा
 en:
-  name: अंग्रेज़ी
+    name: अंग्रेज़ी
 eo:
-  name: एस्पेरांतो
+    name: एस्पेरांतो
 et:
-  name: एस्टोनियाई
+    name: एस्टोनियाई
 ee:
-  name: एवे
+    name: एवे
 fo:
-  name: फैरोसी
+    name: फैरोसी
 fi:
-  name: फिनिश
+    name: फिनिश
 fr:
-  name: फ्रेंच
+    name: फ्रेंच
 ff:
-  name: फुलाह
+    name: फुलाह
 gl:
-  name: गैलिशियन
+    name: गैलिशियन
 lg:
-  name: गांडा
+    name: गांडा
 ka:
-  name: जॉर्जियन
+    name: जॉर्जियन
 de:
-  name: जर्मन
+    name: जर्मन
 el:
-  name: यूनानी
+    name: यूनानी
 gu:
-  name: गुजराती
+    name: गुजराती
 ha:
-  name: हौसा
+    name: हौसा
 he:
-  name: हिब्रू
+    name: हिब्रू
 hi:
-  name: हिन्दी
+    name: हिन्दी
 hu:
-  name: हंगेरियन
+    name: हंगेरियन
 is:
-  name: आइसलैंडिक
+    name: आइसलैंडिक
 ig:
-  name: इग्बो
+    name: इग्बो
 id:
-  name: इंडोनेशियाई
+    name: इंडोनेशियाई
 ga:
-  name: आयरिश
+    name: आयरिश
 it:
-  name: इतालवी
+    name: इतालवी
 ja:
-  name: जापानी
+    name: जापानी
 kl:
-  name: कालााल्लिसुत
+    name: कालााल्लिसुत
 kn:
-  name: कन्नड़
+    name: कन्नड़
 ks:
-  name: कश्मीरी
+    name: कश्मीरी
 kk:
-  name: कज़ाख
+    name: कज़ाख
 km:
-  name: खमेर
+    name: खमेर
 ki:
-  name: किकुयू
+    name: किकुयू
 rw:
-  name: किन्यारवांडा
+    name: किन्यारवांडा
 ko:
-  name: कोरियाई
+    name: कोरियाई
 ky:
-  name: किर्गिज़
+    name: किर्गिज़
 lo:
-  name: लाओ
+    name: लाओ
 lv:
-  name: लातवियाई
+    name: लातवियाई
 ln:
-  name: लिंगाला
+    name: लिंगाला
 lt:
-  name: लिथुआनियाई
+    name: लिथुआनियाई
 lu:
-  name: लुबा-काटांगा
+    name: लुबा-काटांगा
 lb:
-  name: लक्ज़मबर्गिश
+    name: लक्ज़मबर्गिश
 mk:
-  name: मेसिडोनियन
+    name: मेसिडोनियन
 mg:
-  name: मलागासी
+    name: मलागासी
 ms:
-  name: मलय
+    name: मलय
 ml:
-  name: मलयालम
+    name: मलयालम
 mt:
-  name: माल्टीज़
+    name: माल्टीज़
 gv:
-  name: मैनक्स
+    name: मैनक्स
 mr:
-  name: मराठी
+    name: मराठी
 mn:
-  name: मंगोलियाई
+    name: मंगोलियाई
 ne:
-  name: नेपाली
+    name: नेपाली
 nd:
-  name: 'उत्तर न्देबेले'
+    name: 'उत्तर न्देबेले'
 se:
-  name: 'नॉर्दर्न सामी'
+    name: 'नॉर्दर्न सामी'
 'no':
-  name: नॉर्वेजियन
+    name: नॉर्वेजियन
 nb:
-  name: 'नॉर्वेजियन बोकमाल'
+    name: 'नॉर्वेजियन बोकमाल'
 nn:
-  name: 'नॉर्वेजियन निनोर्स्क'
+    name: 'नॉर्वेजियन निनोर्स्क'
 or:
-  name: ओड़िया
+    name: ओड़िया
 om:
-  name: ओरोमो
+    name: ओरोमो
 os:
-  name: ओस्सेटिक
+    name: ओस्सेटिक
 ps:
-  name: पश्तो
+    name: पश्तो
 fa:
-  name: फ़ारसी
+    name: फ़ारसी
 pl:
-  name: पोलिश
+    name: पोलिश
 pt:
-  name: पुर्तगाली
+    name: पुर्तगाली
 pa:
-  name: पंजाबी
+    name: पंजाबी
 qu:
-  name: क्वेचुआ
+    name: क्वेचुआ
 ro:
-  name: रोमानियाई
+    name: रोमानियाई
 rm:
-  name: रोमांश
+    name: रोमांश
 rn:
-  name: रुंडी
+    name: रुंडी
 ru:
-  name: रूसी
+    name: रूसी
 sg:
-  name: सांगो
+    name: सांगो
 gd:
-  name: 'स्कॉटिश गेलिक'
+    name: 'स्कॉटिश गेलिक'
 sr:
-  name: सर्बियाई
+    name: सर्बियाई
 sh:
-  name: सर्बो-क्रोएशियाई
+    name: सर्बो-क्रोएशियाई
 sn:
-  name: शोना
+    name: शोना
 ii:
-  name: 'सिचुआन यी'
+    name: 'सिचुआन यी'
 si:
-  name: सिंहला
+    name: सिंहला
 sk:
-  name: स्लोवाक
+    name: स्लोवाक
 sl:
-  name: स्लोवेनियाई
+    name: स्लोवेनियाई
 so:
-  name: सोमाली
+    name: सोमाली
 es:
-  name: स्पेनिश
+    name: स्पेनिश
 sw:
-  name: स्वाहिली
+    name: स्वाहिली
 sv:
-  name: स्वीडिश
+    name: स्वीडिश
 tl:
-  name: टैगलॉग
+    name: टैगलॉग
 ta:
-  name: तमिल
+    name: तमिल
 te:
-  name: तेलुगु
+    name: तेलुगु
 th:
-  name: थाई
+    name: थाई
 bo:
-  name: तिब्बती
+    name: तिब्बती
 ti:
-  name: तिग्रिन्या
+    name: तिग्रिन्या
 to:
-  name: टोंगन
+    name: टोंगन
 tr:
-  name: तुर्की
+    name: तुर्की
 uk:
-  name: यूक्रेनी
+    name: यूक्रेनी
 ur:
-  name: उर्दू
+    name: उर्दू
 ug:
-  name: उइघुर
+    name: उइघुर
 uz:
-  name: उज़्बेक
+    name: उज़्बेक
 vi:
-  name: वियतनामी
+    name: वियतनामी
 cy:
-  name: वेल्श
+    name: वेल्श
 fy:
-  name: 'पश्चिमी फ्रिसियन'
+    name: 'पश्चिमी फ्रिसियन'
 yi:
-  name: यिडिश
+    name: यिडिश
 yo:
-  name: योरूबा
+    name: योरूबा
 zu:
-  name: ज़ुलु
+    name: ज़ुलु

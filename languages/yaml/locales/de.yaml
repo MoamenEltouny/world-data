@@ -1,242 +1,242 @@
 af:
-  name: Afrikaans
+    name: Afrikaans
 ak:
-  name: Akan
+    name: Akan
 sq:
-  name: Albanisch
+    name: Albanisch
 am:
-  name: Amharisch
+    name: Amharisch
 ar:
-  name: Arabisch
+    name: Arabisch
 hy:
-  name: Armenisch
+    name: Armenisch
 as:
-  name: Assamesisch
+    name: Assamesisch
 az:
-  name: Aserbaidschanisch
+    name: Aserbaidschanisch
 bm:
-  name: Bambara
+    name: Bambara
 eu:
-  name: Baskisch
+    name: Baskisch
 be:
-  name: Weißrussisch
+    name: Weißrussisch
 bn:
-  name: Bengalisch
+    name: Bengalisch
 bs:
-  name: Bosnisch
+    name: Bosnisch
 br:
-  name: Bretonisch
+    name: Bretonisch
 bg:
-  name: Bulgarisch
+    name: Bulgarisch
 my:
-  name: Birmanisch
+    name: Birmanisch
 ca:
-  name: Katalanisch
+    name: Katalanisch
 zh:
-  name: Chinesisch
+    name: Chinesisch
 kw:
-  name: Kornisch
+    name: Kornisch
 hr:
-  name: Kroatisch
+    name: Kroatisch
 cs:
-  name: Tschechisch
+    name: Tschechisch
 da:
-  name: Dänisch
+    name: Dänisch
 nl:
-  name: Niederländisch
+    name: Niederländisch
 dz:
-  name: Dzongkha
+    name: Dzongkha
 en:
-  name: Englisch
+    name: Englisch
 eo:
-  name: Esperanto
+    name: Esperanto
 et:
-  name: Estnisch
+    name: Estnisch
 ee:
-  name: Ewe
+    name: Ewe
 fo:
-  name: Färöisch
+    name: Färöisch
 fi:
-  name: Finnisch
+    name: Finnisch
 fr:
-  name: Französisch
+    name: Französisch
 ff:
-  name: Fulah
+    name: Fulah
 gl:
-  name: Galicisch
+    name: Galicisch
 lg:
-  name: Ganda
+    name: Ganda
 ka:
-  name: Georgisch
+    name: Georgisch
 de:
-  name: Deutsch
+    name: Deutsch
 el:
-  name: Griechisch
+    name: Griechisch
 gu:
-  name: Gujarati
+    name: Gujarati
 ha:
-  name: Haussa
+    name: Haussa
 he:
-  name: Hebräisch
+    name: Hebräisch
 hi:
-  name: Hindi
+    name: Hindi
 hu:
-  name: Ungarisch
+    name: Ungarisch
 is:
-  name: Isländisch
+    name: Isländisch
 ig:
-  name: Igbo
+    name: Igbo
 id:
-  name: Indonesisch
+    name: Indonesisch
 ga:
-  name: Irisch
+    name: Irisch
 it:
-  name: Italienisch
+    name: Italienisch
 ja:
-  name: Japanisch
+    name: Japanisch
 kl:
-  name: Grönländisch
+    name: Grönländisch
 kn:
-  name: Kannada
+    name: Kannada
 ks:
-  name: Kaschmiri
+    name: Kaschmiri
 kk:
-  name: Kasachisch
+    name: Kasachisch
 km:
-  name: Khmer
+    name: Khmer
 ki:
-  name: Kikuyu
+    name: Kikuyu
 rw:
-  name: Kinyarwanda
+    name: Kinyarwanda
 ko:
-  name: Koreanisch
+    name: Koreanisch
 ky:
-  name: Kirgisisch
+    name: Kirgisisch
 lo:
-  name: Laotisch
+    name: Laotisch
 lv:
-  name: Lettisch
+    name: Lettisch
 ln:
-  name: Lingala
+    name: Lingala
 lt:
-  name: Litauisch
+    name: Litauisch
 lu:
-  name: Luba-Katanga
+    name: Luba-Katanga
 lb:
-  name: Luxemburgisch
+    name: Luxemburgisch
 mk:
-  name: Mazedonisch
+    name: Mazedonisch
 mg:
-  name: Malagasy
+    name: Malagasy
 ms:
-  name: Malaiisch
+    name: Malaiisch
 ml:
-  name: Malayalam
+    name: Malayalam
 mt:
-  name: Maltesisch
+    name: Maltesisch
 gv:
-  name: Manx
+    name: Manx
 mr:
-  name: Marathi
+    name: Marathi
 mn:
-  name: Mongolisch
+    name: Mongolisch
 ne:
-  name: Nepali
+    name: Nepali
 nd:
-  name: Nord-Ndebele
+    name: Nord-Ndebele
 se:
-  name: Nordsamisch
+    name: Nordsamisch
 'no':
-  name: Norwegisch
+    name: Norwegisch
 nb:
-  name: 'Norwegisch Bokmål'
+    name: 'Norwegisch Bokmål'
 nn:
-  name: 'Norwegisch Nynorsk'
+    name: 'Norwegisch Nynorsk'
 or:
-  name: Oriya
+    name: Oriya
 om:
-  name: Oromo
+    name: Oromo
 os:
-  name: Ossetisch
+    name: Ossetisch
 ps:
-  name: Paschtu
+    name: Paschtu
 fa:
-  name: Persisch
+    name: Persisch
 pl:
-  name: Polnisch
+    name: Polnisch
 pt:
-  name: Portugiesisch
+    name: Portugiesisch
 pa:
-  name: Panjabi
+    name: Panjabi
 qu:
-  name: Quechua
+    name: Quechua
 ro:
-  name: Rumänisch
+    name: Rumänisch
 rm:
-  name: Rätoromanisch
+    name: Rätoromanisch
 rn:
-  name: Rundi
+    name: Rundi
 ru:
-  name: Russisch
+    name: Russisch
 sg:
-  name: Sango
+    name: Sango
 gd:
-  name: Schottisch-Gälisch
+    name: Schottisch-Gälisch
 sr:
-  name: Serbisch
+    name: Serbisch
 sh:
-  name: Serbokroatisch
+    name: Serbokroatisch
 sn:
-  name: Shona
+    name: Shona
 ii:
-  name: 'Sichuan Yi'
+    name: 'Sichuan Yi'
 si:
-  name: Singhalesisch
+    name: Singhalesisch
 sk:
-  name: Slowakisch
+    name: Slowakisch
 sl:
-  name: Slowenisch
+    name: Slowenisch
 so:
-  name: Somali
+    name: Somali
 es:
-  name: Spanisch
+    name: Spanisch
 sw:
-  name: Suaheli
+    name: Suaheli
 sv:
-  name: Schwedisch
+    name: Schwedisch
 tl:
-  name: Tagalog
+    name: Tagalog
 ta:
-  name: Tamil
+    name: Tamil
 te:
-  name: Telugu
+    name: Telugu
 th:
-  name: Thailändisch
+    name: Thailändisch
 bo:
-  name: Tibetisch
+    name: Tibetisch
 ti:
-  name: Tigrinya
+    name: Tigrinya
 to:
-  name: Tongaisch
+    name: Tongaisch
 tr:
-  name: Türkisch
+    name: Türkisch
 uk:
-  name: Ukrainisch
+    name: Ukrainisch
 ur:
-  name: Urdu
+    name: Urdu
 ug:
-  name: Uigurisch
+    name: Uigurisch
 uz:
-  name: Usbekisch
+    name: Usbekisch
 vi:
-  name: Vietnamesisch
+    name: Vietnamesisch
 cy:
-  name: Walisisch
+    name: Walisisch
 fy:
-  name: Westfriesisch
+    name: Westfriesisch
 yi:
-  name: Jiddisch
+    name: Jiddisch
 yo:
-  name: Yoruba
+    name: Yoruba
 zu:
-  name: Zulu
+    name: Zulu

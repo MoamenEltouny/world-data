@@ -1,242 +1,242 @@
 af:
-  name: afrikáans
+    name: afrikáans
 ak:
-  name: akan
+    name: akan
 sq:
-  name: albanés
+    name: albanés
 am:
-  name: amárico
+    name: amárico
 ar:
-  name: árabe
+    name: árabe
 hy:
-  name: armenio
+    name: armenio
 as:
-  name: asamés
+    name: asamés
 az:
-  name: azerbaiyano
+    name: azerbaiyano
 bm:
-  name: bambara
+    name: bambara
 eu:
-  name: euskera
+    name: euskera
 be:
-  name: bielorruso
+    name: bielorruso
 bn:
-  name: bengalí
+    name: bengalí
 bs:
-  name: bosnio
+    name: bosnio
 br:
-  name: bretón
+    name: bretón
 bg:
-  name: búlgaro
+    name: búlgaro
 my:
-  name: birmano
+    name: birmano
 ca:
-  name: catalán
+    name: catalán
 zh:
-  name: chino
+    name: chino
 kw:
-  name: córnico
+    name: córnico
 hr:
-  name: croata
+    name: croata
 cs:
-  name: checo
+    name: checo
 da:
-  name: danés
+    name: danés
 nl:
-  name: neerlandés
+    name: neerlandés
 dz:
-  name: dzongkha
+    name: dzongkha
 en:
-  name: inglés
+    name: inglés
 eo:
-  name: esperanto
+    name: esperanto
 et:
-  name: estonio
+    name: estonio
 ee:
-  name: ewé
+    name: ewé
 fo:
-  name: feroés
+    name: feroés
 fi:
-  name: finés
+    name: finés
 fr:
-  name: francés
+    name: francés
 ff:
-  name: fula
+    name: fula
 gl:
-  name: gallego
+    name: gallego
 lg:
-  name: ganda
+    name: ganda
 ka:
-  name: georgiano
+    name: georgiano
 de:
-  name: alemán
+    name: alemán
 el:
-  name: griego
+    name: griego
 gu:
-  name: guyaratí
+    name: guyaratí
 ha:
-  name: hausa
+    name: hausa
 he:
-  name: hebreo
+    name: hebreo
 hi:
-  name: hindi
+    name: hindi
 hu:
-  name: húngaro
+    name: húngaro
 is:
-  name: islandés
+    name: islandés
 ig:
-  name: igbo
+    name: igbo
 id:
-  name: indonesio
+    name: indonesio
 ga:
-  name: irlandés
+    name: irlandés
 it:
-  name: italiano
+    name: italiano
 ja:
-  name: japonés
+    name: japonés
 kl:
-  name: groenlandés
+    name: groenlandés
 kn:
-  name: canarés
+    name: canarés
 ks:
-  name: cachemiro
+    name: cachemiro
 kk:
-  name: kazajo
+    name: kazajo
 km:
-  name: jemer
+    name: jemer
 ki:
-  name: kikuyu
+    name: kikuyu
 rw:
-  name: kinyarwanda
+    name: kinyarwanda
 ko:
-  name: coreano
+    name: coreano
 ky:
-  name: kirguís
+    name: kirguís
 lo:
-  name: laosiano
+    name: laosiano
 lv:
-  name: letón
+    name: letón
 ln:
-  name: lingala
+    name: lingala
 lt:
-  name: lituano
+    name: lituano
 lu:
-  name: luba-katanga
+    name: luba-katanga
 lb:
-  name: luxemburgués
+    name: luxemburgués
 mk:
-  name: macedonio
+    name: macedonio
 mg:
-  name: malgache
+    name: malgache
 ms:
-  name: malayo
+    name: malayo
 ml:
-  name: malayalam
+    name: malayalam
 mt:
-  name: maltés
+    name: maltés
 gv:
-  name: manés
+    name: manés
 mr:
-  name: maratí
+    name: maratí
 mn:
-  name: mongol
+    name: mongol
 ne:
-  name: nepalí
+    name: nepalí
 nd:
-  name: 'ndebele del norte'
+    name: 'ndebele del norte'
 se:
-  name: 'sami septentrional'
+    name: 'sami septentrional'
 'no':
-  name: noruego
+    name: noruego
 nb:
-  name: 'bokmal noruego'
+    name: 'bokmal noruego'
 nn:
-  name: 'nynorsk noruego'
+    name: 'nynorsk noruego'
 or:
-  name: oriya
+    name: oriya
 om:
-  name: oromo
+    name: oromo
 os:
-  name: osético
+    name: osético
 ps:
-  name: pastún
+    name: pastún
 fa:
-  name: persa
+    name: persa
 pl:
-  name: polaco
+    name: polaco
 pt:
-  name: portugués
+    name: portugués
 pa:
-  name: panyabí
+    name: panyabí
 qu:
-  name: quechua
+    name: quechua
 ro:
-  name: rumano
+    name: rumano
 rm:
-  name: romanche
+    name: romanche
 rn:
-  name: rundi
+    name: rundi
 ru:
-  name: ruso
+    name: ruso
 sg:
-  name: sango
+    name: sango
 gd:
-  name: 'gaélico escocés'
+    name: 'gaélico escocés'
 sr:
-  name: serbio
+    name: serbio
 sh:
-  name: serbocroata
+    name: serbocroata
 sn:
-  name: shona
+    name: shona
 ii:
-  name: 'yi de Sichuan'
+    name: 'yi de Sichuan'
 si:
-  name: cingalés
+    name: cingalés
 sk:
-  name: eslovaco
+    name: eslovaco
 sl:
-  name: esloveno
+    name: esloveno
 so:
-  name: somalí
+    name: somalí
 es:
-  name: español
+    name: español
 sw:
-  name: suajili
+    name: suajili
 sv:
-  name: sueco
+    name: sueco
 tl:
-  name: tagalo
+    name: tagalo
 ta:
-  name: tamil
+    name: tamil
 te:
-  name: telugu
+    name: telugu
 th:
-  name: tailandés
+    name: tailandés
 bo:
-  name: tibetano
+    name: tibetano
 ti:
-  name: tigriña
+    name: tigriña
 to:
-  name: tongano
+    name: tongano
 tr:
-  name: turco
+    name: turco
 uk:
-  name: ucraniano
+    name: ucraniano
 ur:
-  name: urdu
+    name: urdu
 ug:
-  name: uigur
+    name: uigur
 uz:
-  name: uzbeko
+    name: uzbeko
 vi:
-  name: vietnamita
+    name: vietnamita
 cy:
-  name: galés
+    name: galés
 fy:
-  name: 'frisón occidental'
+    name: 'frisón occidental'
 yi:
-  name: yidis
+    name: yidis
 yo:
-  name: yoruba
+    name: yoruba
 zu:
-  name: zulú
+    name: zulú

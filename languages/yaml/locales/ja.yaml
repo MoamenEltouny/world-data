@@ -1,242 +1,242 @@
 af:
-  name: アフリカーンス語
+    name: アフリカーンス語
 ak:
-  name: アカン語
+    name: アカン語
 sq:
-  name: アルバニア語
+    name: アルバニア語
 am:
-  name: アムハラ語
+    name: アムハラ語
 ar:
-  name: アラビア語
+    name: アラビア語
 hy:
-  name: アルメニア語
+    name: アルメニア語
 as:
-  name: アッサム語
+    name: アッサム語
 az:
-  name: アゼルバイジャン語
+    name: アゼルバイジャン語
 bm:
-  name: バンバラ語
+    name: バンバラ語
 eu:
-  name: バスク語
+    name: バスク語
 be:
-  name: ベラルーシ語
+    name: ベラルーシ語
 bn:
-  name: ベンガル語
+    name: ベンガル語
 bs:
-  name: ボスニア語
+    name: ボスニア語
 br:
-  name: ブルトン語
+    name: ブルトン語
 bg:
-  name: ブルガリア語
+    name: ブルガリア語
 my:
-  name: ビルマ語
+    name: ビルマ語
 ca:
-  name: カタロニア語
+    name: カタロニア語
 zh:
-  name: 中国語
+    name: 中国語
 kw:
-  name: コーンウォール語
+    name: コーンウォール語
 hr:
-  name: クロアチア語
+    name: クロアチア語
 cs:
-  name: チェコ語
+    name: チェコ語
 da:
-  name: デンマーク語
+    name: デンマーク語
 nl:
-  name: オランダ語
+    name: オランダ語
 dz:
-  name: ゾンカ語
+    name: ゾンカ語
 en:
-  name: 英語
+    name: 英語
 eo:
-  name: エスペラント語
+    name: エスペラント語
 et:
-  name: エストニア語
+    name: エストニア語
 ee:
-  name: エウェ語
+    name: エウェ語
 fo:
-  name: フェロー語
+    name: フェロー語
 fi:
-  name: フィンランド語
+    name: フィンランド語
 fr:
-  name: フランス語
+    name: フランス語
 ff:
-  name: フラ語
+    name: フラ語
 gl:
-  name: ガリシア語
+    name: ガリシア語
 lg:
-  name: ガンダ語
+    name: ガンダ語
 ka:
-  name: グルジア語
+    name: グルジア語
 de:
-  name: ドイツ語
+    name: ドイツ語
 el:
-  name: ギリシャ語
+    name: ギリシャ語
 gu:
-  name: グジャラート語
+    name: グジャラート語
 ha:
-  name: ハウサ語
+    name: ハウサ語
 he:
-  name: ヘブライ語
+    name: ヘブライ語
 hi:
-  name: ヒンディー語
+    name: ヒンディー語
 hu:
-  name: ハンガリー語
+    name: ハンガリー語
 is:
-  name: アイスランド語
+    name: アイスランド語
 ig:
-  name: イボ語
+    name: イボ語
 id:
-  name: インドネシア語
+    name: インドネシア語
 ga:
-  name: アイルランド語
+    name: アイルランド語
 it:
-  name: イタリア語
+    name: イタリア語
 ja:
-  name: 日本語
+    name: 日本語
 kl:
-  name: カラリス語
+    name: カラリス語
 kn:
-  name: カンナダ語
+    name: カンナダ語
 ks:
-  name: カシミール語
+    name: カシミール語
 kk:
-  name: カザフ語
+    name: カザフ語
 km:
-  name: クメール語
+    name: クメール語
 ki:
-  name: キクユ語
+    name: キクユ語
 rw:
-  name: キニヤルワンダ語
+    name: キニヤルワンダ語
 ko:
-  name: 韓国語
+    name: 韓国語
 ky:
-  name: キルギス語
+    name: キルギス語
 lo:
-  name: ラオ語
+    name: ラオ語
 lv:
-  name: ラトビア語
+    name: ラトビア語
 ln:
-  name: リンガラ語
+    name: リンガラ語
 lt:
-  name: リトアニア語
+    name: リトアニア語
 lu:
-  name: ルバ・カタンガ語
+    name: ルバ・カタンガ語
 lb:
-  name: ルクセンブルク語
+    name: ルクセンブルク語
 mk:
-  name: マケドニア語
+    name: マケドニア語
 mg:
-  name: マダガスカル語
+    name: マダガスカル語
 ms:
-  name: マレー語
+    name: マレー語
 ml:
-  name: マラヤーラム語
+    name: マラヤーラム語
 mt:
-  name: マルタ語
+    name: マルタ語
 gv:
-  name: マン島語
+    name: マン島語
 mr:
-  name: マラーティー語
+    name: マラーティー語
 mn:
-  name: モンゴル語
+    name: モンゴル語
 ne:
-  name: ネパール語
+    name: ネパール語
 nd:
-  name: 北ンデベレ語
+    name: 北ンデベレ語
 se:
-  name: 北サーミ語
+    name: 北サーミ語
 'no':
-  name: ノルウェー語
+    name: ノルウェー語
 nb:
-  name: ノルウェー・ブークモール
+    name: ノルウェー・ブークモール
 nn:
-  name: ノルウェー・ニーノシュク
+    name: ノルウェー・ニーノシュク
 or:
-  name: オリヤ語
+    name: オリヤ語
 om:
-  name: オロモ語
+    name: オロモ語
 os:
-  name: オセット語
+    name: オセット語
 ps:
-  name: パシュトー語
+    name: パシュトー語
 fa:
-  name: ペルシャ語
+    name: ペルシャ語
 pl:
-  name: ポーランド語
+    name: ポーランド語
 pt:
-  name: ポルトガル語
+    name: ポルトガル語
 pa:
-  name: パンジャブ語
+    name: パンジャブ語
 qu:
-  name: ケチュア語
+    name: ケチュア語
 ro:
-  name: ルーマニア語
+    name: ルーマニア語
 rm:
-  name: ロマンシュ語
+    name: ロマンシュ語
 rn:
-  name: ルンディ語
+    name: ルンディ語
 ru:
-  name: ロシア語
+    name: ロシア語
 sg:
-  name: サンゴ語
+    name: サンゴ語
 gd:
-  name: スコットランド・ゲール語
+    name: スコットランド・ゲール語
 sr:
-  name: セルビア語
+    name: セルビア語
 sh:
-  name: セルビア・クロアチア語
+    name: セルビア・クロアチア語
 sn:
-  name: ショナ語
+    name: ショナ語
 ii:
-  name: 四川イ語
+    name: 四川イ語
 si:
-  name: シンハラ語
+    name: シンハラ語
 sk:
-  name: スロバキア語
+    name: スロバキア語
 sl:
-  name: スロベニア語
+    name: スロベニア語
 so:
-  name: ソマリ語
+    name: ソマリ語
 es:
-  name: スペイン語
+    name: スペイン語
 sw:
-  name: スワヒリ語
+    name: スワヒリ語
 sv:
-  name: スウェーデン語
+    name: スウェーデン語
 tl:
-  name: タガログ語
+    name: タガログ語
 ta:
-  name: タミル語
+    name: タミル語
 te:
-  name: テルグ語
+    name: テルグ語
 th:
-  name: タイ語
+    name: タイ語
 bo:
-  name: チベット語
+    name: チベット語
 ti:
-  name: ティグリニャ語
+    name: ティグリニャ語
 to:
-  name: トンガ語
+    name: トンガ語
 tr:
-  name: トルコ語
+    name: トルコ語
 uk:
-  name: ウクライナ語
+    name: ウクライナ語
 ur:
-  name: ウルドゥー語
+    name: ウルドゥー語
 ug:
-  name: ウイグル語
+    name: ウイグル語
 uz:
-  name: ウズベク語
+    name: ウズベク語
 vi:
-  name: ベトナム語
+    name: ベトナム語
 cy:
-  name: ウェールズ語
+    name: ウェールズ語
 fy:
-  name: 西フリジア語
+    name: 西フリジア語
 yi:
-  name: イディッシュ語
+    name: イディッシュ語
 yo:
-  name: ヨルバ語
+    name: ヨルバ語
 zu:
-  name: ズールー語
+    name: ズールー語

@@ -1,242 +1,242 @@
 af:
-  name: Afrikaans
+    name: Afrikaans
 ak:
-  name: Akan
+    name: Akan
 sq:
-  name: Albanian
+    name: Albanian
 am:
-  name: Amharic
+    name: Amharic
 ar:
-  name: Arabic
+    name: Arabic
 hy:
-  name: Armenian
+    name: Armenian
 as:
-  name: Assamese
+    name: Assamese
 az:
-  name: Azerbaijani
+    name: Azerbaijani
 bm:
-  name: Bambara
+    name: Bambara
 eu:
-  name: Basque
+    name: Basque
 be:
-  name: Belarusian
+    name: Belarusian
 bn:
-  name: Bengali
+    name: Bengali
 bs:
-  name: Bosnian
+    name: Bosnian
 br:
-  name: Breton
+    name: Breton
 bg:
-  name: Bulgarian
+    name: Bulgarian
 my:
-  name: Burmese
+    name: Burmese
 ca:
-  name: Catalan
+    name: Catalan
 zh:
-  name: Chinese
+    name: Chinese
 kw:
-  name: Cornish
+    name: Cornish
 hr:
-  name: Croatian
+    name: Croatian
 cs:
-  name: Czech
+    name: Czech
 da:
-  name: Danish
+    name: Danish
 nl:
-  name: Dutch
+    name: Dutch
 dz:
-  name: Dzongkha
+    name: Dzongkha
 en:
-  name: English
+    name: English
 eo:
-  name: Esperanto
+    name: Esperanto
 et:
-  name: Estonian
+    name: Estonian
 ee:
-  name: Ewe
+    name: Ewe
 fo:
-  name: Faroese
+    name: Faroese
 fi:
-  name: Finnish
+    name: Finnish
 fr:
-  name: French
+    name: French
 ff:
-  name: Fulah
+    name: Fulah
 gl:
-  name: Galician
+    name: Galician
 lg:
-  name: Ganda
+    name: Ganda
 ka:
-  name: Georgian
+    name: Georgian
 de:
-  name: German
+    name: German
 el:
-  name: Greek
+    name: Greek
 gu:
-  name: Gujarati
+    name: Gujarati
 ha:
-  name: Hausa
+    name: Hausa
 he:
-  name: Hebrew
+    name: Hebrew
 hi:
-  name: Hindi
+    name: Hindi
 hu:
-  name: Hungarian
+    name: Hungarian
 is:
-  name: Icelandic
+    name: Icelandic
 ig:
-  name: Igbo
+    name: Igbo
 id:
-  name: Indonesian
+    name: Indonesian
 ga:
-  name: Irish
+    name: Irish
 it:
-  name: Italian
+    name: Italian
 ja:
-  name: Japanese
+    name: Japanese
 kl:
-  name: Kalaallisut
+    name: Kalaallisut
 kn:
-  name: Kannada
+    name: Kannada
 ks:
-  name: Kashmiri
+    name: Kashmiri
 kk:
-  name: Kazakh
+    name: Kazakh
 km:
-  name: Khmer
+    name: Khmer
 ki:
-  name: Kikuyu
+    name: Kikuyu
 rw:
-  name: Kinyarwanda
+    name: Kinyarwanda
 ko:
-  name: Korean
+    name: Korean
 ky:
-  name: Kyrgyz
+    name: Kyrgyz
 lo:
-  name: Lao
+    name: Lao
 lv:
-  name: Latvian
+    name: Latvian
 ln:
-  name: Lingala
+    name: Lingala
 lt:
-  name: Lithuanian
+    name: Lithuanian
 lu:
-  name: Luba-Katanga
+    name: Luba-Katanga
 lb:
-  name: Luxembourgish
+    name: Luxembourgish
 mk:
-  name: Macedonian
+    name: Macedonian
 mg:
-  name: Malagasy
+    name: Malagasy
 ms:
-  name: Malay
+    name: Malay
 ml:
-  name: Malayalam
+    name: Malayalam
 mt:
-  name: Maltese
+    name: Maltese
 gv:
-  name: Manx
+    name: Manx
 mr:
-  name: Marathi
+    name: Marathi
 mn:
-  name: Mongolian
+    name: Mongolian
 ne:
-  name: Nepali
+    name: Nepali
 nd:
-  name: 'North Ndebele'
+    name: 'North Ndebele'
 se:
-  name: 'Northern Sami'
+    name: 'Northern Sami'
 'no':
-  name: Norwegian
+    name: Norwegian
 nb:
-  name: 'Norwegian Bokmål'
+    name: 'Norwegian Bokmål'
 nn:
-  name: 'Norwegian Nynorsk'
+    name: 'Norwegian Nynorsk'
 or:
-  name: Oriya
+    name: Oriya
 om:
-  name: Oromo
+    name: Oromo
 os:
-  name: Ossetic
+    name: Ossetic
 ps:
-  name: Pashto
+    name: Pashto
 fa:
-  name: Persian
+    name: Persian
 pl:
-  name: Polish
+    name: Polish
 pt:
-  name: Portuguese
+    name: Portuguese
 pa:
-  name: Punjabi
+    name: Punjabi
 qu:
-  name: Quechua
+    name: Quechua
 ro:
-  name: Romanian
+    name: Romanian
 rm:
-  name: Romansh
+    name: Romansh
 rn:
-  name: Rundi
+    name: Rundi
 ru:
-  name: Russian
+    name: Russian
 sg:
-  name: Sango
+    name: Sango
 gd:
-  name: 'Scottish Gaelic'
+    name: 'Scottish Gaelic'
 sr:
-  name: Serbian
+    name: Serbian
 sh:
-  name: Serbo-Croatian
+    name: Serbo-Croatian
 sn:
-  name: Shona
+    name: Shona
 ii:
-  name: 'Sichuan Yi'
+    name: 'Sichuan Yi'
 si:
-  name: Sinhala
+    name: Sinhala
 sk:
-  name: Slovak
+    name: Slovak
 sl:
-  name: Slovenian
+    name: Slovenian
 so:
-  name: Somali
+    name: Somali
 es:
-  name: Spanish
+    name: Spanish
 sw:
-  name: Swahili
+    name: Swahili
 sv:
-  name: Swedish
+    name: Swedish
 tl:
-  name: Tagalog
+    name: Tagalog
 ta:
-  name: Tamil
+    name: Tamil
 te:
-  name: Telugu
+    name: Telugu
 th:
-  name: Thai
+    name: Thai
 bo:
-  name: Tibetan
+    name: Tibetan
 ti:
-  name: Tigrinya
+    name: Tigrinya
 to:
-  name: Tongan
+    name: Tongan
 tr:
-  name: Turkish
+    name: Turkish
 uk:
-  name: Ukrainian
+    name: Ukrainian
 ur:
-  name: Urdu
+    name: Urdu
 ug:
-  name: Uyghur
+    name: Uyghur
 uz:
-  name: Uzbek
+    name: Uzbek
 vi:
-  name: Vietnamese
+    name: Vietnamese
 cy:
-  name: Welsh
+    name: Welsh
 fy:
-  name: 'Western Frisian'
+    name: 'Western Frisian'
 yi:
-  name: Yiddish
+    name: Yiddish
 yo:
-  name: Yoruba
+    name: Yoruba
 zu:
-  name: Zulu
+    name: Zulu
