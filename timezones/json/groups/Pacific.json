@@ -1,0 +1,382 @@
+{
+    "Pacific/Midway": {
+        "dst": false,
+        "offset": -39600,
+        "label": {
+            "text": "(UTC-11:00)",
+            "operator": "-",
+            "hours": 11,
+            "minutes": 0
+        }
+    },
+    "Pacific/Niue": {
+        "dst": false,
+        "offset": -39600,
+        "label": {
+            "text": "(UTC-11:00)",
+            "operator": "-",
+            "hours": 11,
+            "minutes": 0
+        }
+    },
+    "Pacific/Pago_Pago": {
+        "dst": false,
+        "offset": -39600,
+        "label": {
+            "text": "(UTC-11:00)",
+            "operator": "-",
+            "hours": 11,
+            "minutes": 0
+        }
+    },
+    "Pacific/Honolulu": {
+        "dst": false,
+        "offset": -36000,
+        "label": {
+            "text": "(UTC-10:00)",
+            "operator": "-",
+            "hours": 10,
+            "minutes": 0
+        }
+    },
+    "Pacific/Rarotonga": {
+        "dst": false,
+        "offset": -36000,
+        "label": {
+            "text": "(UTC-10:00)",
+            "operator": "-",
+            "hours": 10,
+            "minutes": 0
+        }
+    },
+    "Pacific/Tahiti": {
+        "dst": false,
+        "offset": -36000,
+        "label": {
+            "text": "(UTC-10:00)",
+            "operator": "-",
+            "hours": 10,
+            "minutes": 0
+        }
+    },
+    "Pacific/Marquesas": {
+        "dst": false,
+        "offset": -34200,
+        "label": {
+            "text": "(UTC-09:30)",
+            "operator": "-",
+            "hours": 9,
+            "minutes": 30
+        }
+    },
+    "Pacific/Gambier": {
+        "dst": false,
+        "offset": -32400,
+        "label": {
+            "text": "(UTC-09:00)",
+            "operator": "-",
+            "hours": 9,
+            "minutes": 0
+        }
+    },
+    "Pacific/Pitcairn": {
+        "dst": false,
+        "offset": -28800,
+        "label": {
+            "text": "(UTC-08:00)",
+            "operator": "-",
+            "hours": 8,
+            "minutes": 0
+        }
+    },
+    "Pacific/Galapagos": {
+        "dst": false,
+        "offset": -21600,
+        "label": {
+            "text": "(UTC-06:00)",
+            "operator": "-",
+            "hours": 6,
+            "minutes": 0
+        }
+    },
+    "Pacific/Easter": {
+        "dst": true,
+        "offset": -18000,
+        "label": {
+            "text": "(UTC-05:00)",
+            "operator": "-",
+            "hours": 5,
+            "minutes": 0
+        }
+    },
+    "Pacific/Palau": {
+        "dst": false,
+        "offset": 32400,
+        "label": {
+            "text": "(UTC+09:00)",
+            "operator": "+",
+            "hours": 9,
+            "minutes": 0
+        }
+    },
+    "Pacific/Chuuk": {
+        "dst": false,
+        "offset": 36000,
+        "label": {
+            "text": "(UTC+10:00)",
+            "operator": "+",
+            "hours": 10,
+            "minutes": 0
+        }
+    },
+    "Pacific/Guam": {
+        "dst": false,
+        "offset": 36000,
+        "label": {
+            "text": "(UTC+10:00)",
+            "operator": "+",
+            "hours": 10,
+            "minutes": 0
+        }
+    },
+    "Pacific/Port_Moresby": {
+        "dst": false,
+        "offset": 36000,
+        "label": {
+            "text": "(UTC+10:00)",
+            "operator": "+",
+            "hours": 10,
+            "minutes": 0
+        }
+    },
+    "Pacific/Saipan": {
+        "dst": false,
+        "offset": 36000,
+        "label": {
+            "text": "(UTC+10:00)",
+            "operator": "+",
+            "hours": 10,
+            "minutes": 0
+        }
+    },
+    "Pacific/Bougainville": {
+        "dst": false,
+        "offset": 39600,
+        "label": {
+            "text": "(UTC+11:00)",
+            "operator": "+",
+            "hours": 11,
+            "minutes": 0
+        }
+    },
+    "Pacific/Efate": {
+        "dst": false,
+        "offset": 39600,
+        "label": {
+            "text": "(UTC+11:00)",
+            "operator": "+",
+            "hours": 11,
+            "minutes": 0
+        }
+    },
+    "Pacific/Guadalcanal": {
+        "dst": false,
+        "offset": 39600,
+        "label": {
+            "text": "(UTC+11:00)",
+            "operator": "+",
+            "hours": 11,
+            "minutes": 0
+        }
+    },
+    "Pacific/Kosrae": {
+        "dst": false,
+        "offset": 39600,
+        "label": {
+            "text": "(UTC+11:00)",
+            "operator": "+",
+            "hours": 11,
+            "minutes": 0
+        }
+    },
+    "Pacific/Norfolk": {
+        "dst": false,
+        "offset": 39600,
+        "label": {
+            "text": "(UTC+11:00)",
+            "operator": "+",
+            "hours": 11,
+            "minutes": 0
+        }
+    },
+    "Pacific/Noumea": {
+        "dst": false,
+        "offset": 39600,
+        "label": {
+            "text": "(UTC+11:00)",
+            "operator": "+",
+            "hours": 11,
+            "minutes": 0
+        }
+    },
+    "Pacific/Pohnpei": {
+        "dst": false,
+        "offset": 39600,
+        "label": {
+            "text": "(UTC+11:00)",
+            "operator": "+",
+            "hours": 11,
+            "minutes": 0
+        }
+    },
+    "Pacific/Auckland": {
+        "dst": false,
+        "offset": 43200,
+        "label": {
+            "text": "(UTC+12:00)",
+            "operator": "+",
+            "hours": 12,
+            "minutes": 0
+        }
+    },
+    "Pacific/Fiji": {
+        "dst": false,
+        "offset": 43200,
+        "label": {
+            "text": "(UTC+12:00)",
+            "operator": "+",
+            "hours": 12,
+            "minutes": 0
+        }
+    },
+    "Pacific/Funafuti": {
+        "dst": false,
+        "offset": 43200,
+        "label": {
+            "text": "(UTC+12:00)",
+            "operator": "+",
+            "hours": 12,
+            "minutes": 0
+        }
+    },
+    "Pacific/Kwajalein": {
+        "dst": false,
+        "offset": 43200,
+        "label": {
+            "text": "(UTC+12:00)",
+            "operator": "+",
+            "hours": 12,
+            "minutes": 0
+        }
+    },
+    "Pacific/Majuro": {
+        "dst": false,
+        "offset": 43200,
+        "label": {
+            "text": "(UTC+12:00)",
+            "operator": "+",
+            "hours": 12,
+            "minutes": 0
+        }
+    },
+    "Pacific/Nauru": {
+        "dst": false,
+        "offset": 43200,
+        "label": {
+            "text": "(UTC+12:00)",
+            "operator": "+",
+            "hours": 12,
+            "minutes": 0
+        }
+    },
+    "Pacific/Tarawa": {
+        "dst": false,
+        "offset": 43200,
+        "label": {
+            "text": "(UTC+12:00)",
+            "operator": "+",
+            "hours": 12,
+            "minutes": 0
+        }
+    },
+    "Pacific/Wake": {
+        "dst": false,
+        "offset": 43200,
+        "label": {
+            "text": "(UTC+12:00)",
+            "operator": "+",
+            "hours": 12,
+            "minutes": 0
+        }
+    },
+    "Pacific/Wallis": {
+        "dst": false,
+        "offset": 43200,
+        "label": {
+            "text": "(UTC+12:00)",
+            "operator": "+",
+            "hours": 12,
+            "minutes": 0
+        }
+    },
+    "Pacific/Chatham": {
+        "dst": false,
+        "offset": 45900,
+        "label": {
+            "text": "(UTC+12:45)",
+            "operator": "+",
+            "hours": 12,
+            "minutes": 45
+        }
+    },
+    "Pacific/Apia": {
+        "dst": false,
+        "offset": 46800,
+        "label": {
+            "text": "(UTC+13:00)",
+            "operator": "+",
+            "hours": 13,
+            "minutes": 0
+        }
+    },
+    "Pacific/Fakaofo": {
+        "dst": false,
+        "offset": 46800,
+        "label": {
+            "text": "(UTC+13:00)",
+            "operator": "+",
+            "hours": 13,
+            "minutes": 0
+        }
+    },
+    "Pacific/Kanton": {
+        "dst": false,
+        "offset": 46800,
+        "label": {
+            "text": "(UTC+13:00)",
+            "operator": "+",
+            "hours": 13,
+            "minutes": 0
+        }
+    },
+    "Pacific/Tongatapu": {
+        "dst": false,
+        "offset": 46800,
+        "label": {
+            "text": "(UTC+13:00)",
+            "operator": "+",
+            "hours": 13,
+            "minutes": 0
+        }
+    },
+    "Pacific/Kiritimati": {
+        "dst": false,
+        "offset": 50400,
+        "label": {
+            "text": "(UTC+14:00)",
+            "operator": "+",
+            "hours": 14,
+            "minutes": 0
+        }
+    }
+}
