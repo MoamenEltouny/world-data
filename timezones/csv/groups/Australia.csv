@@ -1,0 +1,12 @@
+name,dst,offset,label_text,label_operator,label_hours,label_minutes
+Australia/Perth,No,28800,(UTC+08:00),+,8,0
+Australia/Eucla,No,31500,(UTC+08:45),+,8,45
+Australia/Adelaide,No,34200,(UTC+09:30),+,9,30
+Australia/Broken_Hill,No,34200,(UTC+09:30),+,9,30
+Australia/Darwin,No,34200,(UTC+09:30),+,9,30
+Australia/Brisbane,No,36000,(UTC+10:00),+,10,0
+Australia/Hobart,No,36000,(UTC+10:00),+,10,0
+Australia/Lindeman,No,36000,(UTC+10:00),+,10,0
+Australia/Melbourne,No,36000,(UTC+10:00),+,10,0
+Australia/Sydney,No,36000,(UTC+10:00),+,10,0
+Australia/Lord_Howe,No,37800,(UTC+10:30),+,10,30

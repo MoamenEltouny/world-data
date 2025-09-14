@@ -1,0 +1,12 @@
+name,dst,offset,label_text,label_operator,label_hours,label_minutes
+Indian/Antananarivo,No,10800,(UTC+03:00),+,3,0
+Indian/Comoro,No,10800,(UTC+03:00),+,3,0
+Indian/Mayotte,No,10800,(UTC+03:00),+,3,0
+Indian/Mahe,No,14400,(UTC+04:00),+,4,0
+Indian/Mauritius,No,14400,(UTC+04:00),+,4,0
+Indian/Reunion,No,14400,(UTC+04:00),+,4,0
+Indian/Kerguelen,No,18000,(UTC+05:00),+,5,0
+Indian/Maldives,No,18000,(UTC+05:00),+,5,0
+Indian/Chagos,No,21600,(UTC+06:00),+,6,0
+Indian/Cocos,No,23400,(UTC+06:30),+,6,30
+Indian/Christmas,No,25200,(UTC+07:00),+,7,0

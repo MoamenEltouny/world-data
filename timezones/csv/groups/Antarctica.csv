@@ -1,0 +1,12 @@
+name,dst,offset,label_text,label_operator,label_hours,label_minutes
+Antarctica/Palmer,No,-10800,(UTC-03:00),-,3,0
+Antarctica/Rothera,No,-10800,(UTC-03:00),-,3,0
+Antarctica/Troll,Yes,7200,(UTC+02:00),+,2,0
+Antarctica/Syowa,No,10800,(UTC+03:00),+,3,0
+Antarctica/Mawson,No,18000,(UTC+05:00),+,5,0
+Antarctica/Vostok,No,18000,(UTC+05:00),+,5,0
+Antarctica/Davis,No,25200,(UTC+07:00),+,7,0
+Antarctica/Casey,No,28800,(UTC+08:00),+,8,0
+Antarctica/DumontDUrville,No,36000,(UTC+10:00),+,10,0
+Antarctica/Macquarie,No,36000,(UTC+10:00),+,10,0
+Antarctica/McMurdo,No,43200,(UTC+12:00),+,12,0

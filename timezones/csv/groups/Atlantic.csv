@@ -1,0 +1,11 @@
+name,dst,offset,label_text,label_operator,label_hours,label_minutes
+Atlantic/Bermuda,Yes,-10800,(UTC-03:00),-,3,0
+Atlantic/Stanley,No,-10800,(UTC-03:00),-,3,0
+Atlantic/South_Georgia,No,-7200,(UTC-02:00),-,2,0
+Atlantic/Cape_Verde,No,-3600,(UTC-01:00),-,1,0
+Atlantic/Azores,Yes,0,(UTC+00:00),+,0,0
+Atlantic/Reykjavik,No,0,(UTC+00:00),+,0,0
+Atlantic/St_Helena,No,0,(UTC+00:00),+,0,0
+Atlantic/Canary,Yes,3600,(UTC+01:00),+,1,0
+Atlantic/Faroe,Yes,3600,(UTC+01:00),+,1,0
+Atlantic/Madeira,Yes,3600,(UTC+01:00),+,1,0
