@@ -1,0 +1,584 @@
+<?php
+
+return [
+    'Europe/Dublin' => [
+        'dst' => true,
+        'offset' => 3600,
+        'label' => [
+            'text' => '(UTC+01:00)',
+            'operator' => '+',
+            'hours' => 1,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Guernsey' => [
+        'dst' => true,
+        'offset' => 3600,
+        'label' => [
+            'text' => '(UTC+01:00)',
+            'operator' => '+',
+            'hours' => 1,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Isle_of_Man' => [
+        'dst' => true,
+        'offset' => 3600,
+        'label' => [
+            'text' => '(UTC+01:00)',
+            'operator' => '+',
+            'hours' => 1,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Jersey' => [
+        'dst' => true,
+        'offset' => 3600,
+        'label' => [
+            'text' => '(UTC+01:00)',
+            'operator' => '+',
+            'hours' => 1,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Lisbon' => [
+        'dst' => true,
+        'offset' => 3600,
+        'label' => [
+            'text' => '(UTC+01:00)',
+            'operator' => '+',
+            'hours' => 1,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/London' => [
+        'dst' => true,
+        'offset' => 3600,
+        'label' => [
+            'text' => '(UTC+01:00)',
+            'operator' => '+',
+            'hours' => 1,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Amsterdam' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Andorra' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Belgrade' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Berlin' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Bratislava' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Brussels' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Budapest' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Busingen' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Copenhagen' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Gibraltar' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Kaliningrad' => [
+        'dst' => false,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Ljubljana' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Luxembourg' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Madrid' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Malta' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Monaco' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Oslo' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Paris' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Podgorica' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Prague' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Rome' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/San_Marino' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Sarajevo' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Skopje' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Stockholm' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Tirane' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Vaduz' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Vatican' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Vienna' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Warsaw' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Zagreb' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Zurich' => [
+        'dst' => true,
+        'offset' => 7200,
+        'label' => [
+            'text' => '(UTC+02:00)',
+            'operator' => '+',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Athens' => [
+        'dst' => true,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Bucharest' => [
+        'dst' => true,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Chisinau' => [
+        'dst' => true,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Helsinki' => [
+        'dst' => true,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Istanbul' => [
+        'dst' => false,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Kirov' => [
+        'dst' => false,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Kyiv' => [
+        'dst' => true,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Mariehamn' => [
+        'dst' => true,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Minsk' => [
+        'dst' => false,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Moscow' => [
+        'dst' => false,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Riga' => [
+        'dst' => true,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Simferopol' => [
+        'dst' => false,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Sofia' => [
+        'dst' => true,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Tallinn' => [
+        'dst' => true,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Vilnius' => [
+        'dst' => true,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Volgograd' => [
+        'dst' => false,
+        'offset' => 10800,
+        'label' => [
+            'text' => '(UTC+03:00)',
+            'operator' => '+',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Astrakhan' => [
+        'dst' => false,
+        'offset' => 14400,
+        'label' => [
+            'text' => '(UTC+04:00)',
+            'operator' => '+',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Samara' => [
+        'dst' => false,
+        'offset' => 14400,
+        'label' => [
+            'text' => '(UTC+04:00)',
+            'operator' => '+',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Saratov' => [
+        'dst' => false,
+        'offset' => 14400,
+        'label' => [
+            'text' => '(UTC+04:00)',
+            'operator' => '+',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'Europe/Ulyanovsk' => [
+        'dst' => false,
+        'offset' => 14400,
+        'label' => [
+            'text' => '(UTC+04:00)',
+            'operator' => '+',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ]
+];

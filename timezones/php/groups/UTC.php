@@ -1,0 +1,14 @@
+<?php
+
+return [
+    'UTC' => [
+        'dst' => false,
+        'offset' => 0,
+        'label' => [
+            'text' => '(UTC+00:00)',
+            'operator' => '+',
+            'hours' => 0,
+            'minutes' => 0
+        ]
+    ]
+];

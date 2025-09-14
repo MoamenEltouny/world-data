@@ -1,0 +1,104 @@
+<?php
+
+return [
+    'Atlantic/Bermuda' => [
+        'dst' => true,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Atlantic/Stanley' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'Atlantic/South_Georgia' => [
+        'dst' => false,
+        'offset' => -7200,
+        'label' => [
+            'text' => '(UTC-02:00)',
+            'operator' => '-',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'Atlantic/Cape_Verde' => [
+        'dst' => false,
+        'offset' => -3600,
+        'label' => [
+            'text' => '(UTC-01:00)',
+            'operator' => '-',
+            'hours' => 1,
+            'minutes' => 0
+        ]
+    ],
+    'Atlantic/Azores' => [
+        'dst' => true,
+        'offset' => 0,
+        'label' => [
+            'text' => '(UTC+00:00)',
+            'operator' => '+',
+            'hours' => 0,
+            'minutes' => 0
+        ]
+    ],
+    'Atlantic/Reykjavik' => [
+        'dst' => false,
+        'offset' => 0,
+        'label' => [
+            'text' => '(UTC+00:00)',
+            'operator' => '+',
+            'hours' => 0,
+            'minutes' => 0
+        ]
+    ],
+    'Atlantic/St_Helena' => [
+        'dst' => false,
+        'offset' => 0,
+        'label' => [
+            'text' => '(UTC+00:00)',
+            'operator' => '+',
+            'hours' => 0,
+            'minutes' => 0
+        ]
+    ],
+    'Atlantic/Canary' => [
+        'dst' => true,
+        'offset' => 3600,
+        'label' => [
+            'text' => '(UTC+01:00)',
+            'operator' => '+',
+            'hours' => 1,
+            'minutes' => 0
+        ]
+    ],
+    'Atlantic/Faroe' => [
+        'dst' => true,
+        'offset' => 3600,
+        'label' => [
+            'text' => '(UTC+01:00)',
+            'operator' => '+',
+            'hours' => 1,
+            'minutes' => 0
+        ]
+    ],
+    'Atlantic/Madeira' => [
+        'dst' => true,
+        'offset' => 3600,
+        'label' => [
+            'text' => '(UTC+01:00)',
+            'operator' => '+',
+            'hours' => 1,
+            'minutes' => 0
+        ]
+    ]
+];

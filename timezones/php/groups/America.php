@@ -1,0 +1,1444 @@
+<?php
+
+return [
+    'America/Adak' => [
+        'dst' => true,
+        'offset' => -32400,
+        'label' => [
+            'text' => '(UTC-09:00)',
+            'operator' => '-',
+            'hours' => 9,
+            'minutes' => 0
+        ]
+    ],
+    'America/Anchorage' => [
+        'dst' => true,
+        'offset' => -28800,
+        'label' => [
+            'text' => '(UTC-08:00)',
+            'operator' => '-',
+            'hours' => 8,
+            'minutes' => 0
+        ]
+    ],
+    'America/Juneau' => [
+        'dst' => true,
+        'offset' => -28800,
+        'label' => [
+            'text' => '(UTC-08:00)',
+            'operator' => '-',
+            'hours' => 8,
+            'minutes' => 0
+        ]
+    ],
+    'America/Metlakatla' => [
+        'dst' => true,
+        'offset' => -28800,
+        'label' => [
+            'text' => '(UTC-08:00)',
+            'operator' => '-',
+            'hours' => 8,
+            'minutes' => 0
+        ]
+    ],
+    'America/Nome' => [
+        'dst' => true,
+        'offset' => -28800,
+        'label' => [
+            'text' => '(UTC-08:00)',
+            'operator' => '-',
+            'hours' => 8,
+            'minutes' => 0
+        ]
+    ],
+    'America/Sitka' => [
+        'dst' => true,
+        'offset' => -28800,
+        'label' => [
+            'text' => '(UTC-08:00)',
+            'operator' => '-',
+            'hours' => 8,
+            'minutes' => 0
+        ]
+    ],
+    'America/Yakutat' => [
+        'dst' => true,
+        'offset' => -28800,
+        'label' => [
+            'text' => '(UTC-08:00)',
+            'operator' => '-',
+            'hours' => 8,
+            'minutes' => 0
+        ]
+    ],
+    'America/Creston' => [
+        'dst' => false,
+        'offset' => -25200,
+        'label' => [
+            'text' => '(UTC-07:00)',
+            'operator' => '-',
+            'hours' => 7,
+            'minutes' => 0
+        ]
+    ],
+    'America/Dawson' => [
+        'dst' => false,
+        'offset' => -25200,
+        'label' => [
+            'text' => '(UTC-07:00)',
+            'operator' => '-',
+            'hours' => 7,
+            'minutes' => 0
+        ]
+    ],
+    'America/Dawson_Creek' => [
+        'dst' => false,
+        'offset' => -25200,
+        'label' => [
+            'text' => '(UTC-07:00)',
+            'operator' => '-',
+            'hours' => 7,
+            'minutes' => 0
+        ]
+    ],
+    'America/Fort_Nelson' => [
+        'dst' => false,
+        'offset' => -25200,
+        'label' => [
+            'text' => '(UTC-07:00)',
+            'operator' => '-',
+            'hours' => 7,
+            'minutes' => 0
+        ]
+    ],
+    'America/Hermosillo' => [
+        'dst' => false,
+        'offset' => -25200,
+        'label' => [
+            'text' => '(UTC-07:00)',
+            'operator' => '-',
+            'hours' => 7,
+            'minutes' => 0
+        ]
+    ],
+    'America/Los_Angeles' => [
+        'dst' => true,
+        'offset' => -25200,
+        'label' => [
+            'text' => '(UTC-07:00)',
+            'operator' => '-',
+            'hours' => 7,
+            'minutes' => 0
+        ]
+    ],
+    'America/Mazatlan' => [
+        'dst' => false,
+        'offset' => -25200,
+        'label' => [
+            'text' => '(UTC-07:00)',
+            'operator' => '-',
+            'hours' => 7,
+            'minutes' => 0
+        ]
+    ],
+    'America/Phoenix' => [
+        'dst' => false,
+        'offset' => -25200,
+        'label' => [
+            'text' => '(UTC-07:00)',
+            'operator' => '-',
+            'hours' => 7,
+            'minutes' => 0
+        ]
+    ],
+    'America/Tijuana' => [
+        'dst' => true,
+        'offset' => -25200,
+        'label' => [
+            'text' => '(UTC-07:00)',
+            'operator' => '-',
+            'hours' => 7,
+            'minutes' => 0
+        ]
+    ],
+    'America/Vancouver' => [
+        'dst' => true,
+        'offset' => -25200,
+        'label' => [
+            'text' => '(UTC-07:00)',
+            'operator' => '-',
+            'hours' => 7,
+            'minutes' => 0
+        ]
+    ],
+    'America/Whitehorse' => [
+        'dst' => false,
+        'offset' => -25200,
+        'label' => [
+            'text' => '(UTC-07:00)',
+            'operator' => '-',
+            'hours' => 7,
+            'minutes' => 0
+        ]
+    ],
+    'America/Bahia_Banderas' => [
+        'dst' => false,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Belize' => [
+        'dst' => false,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Boise' => [
+        'dst' => true,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Cambridge_Bay' => [
+        'dst' => true,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Chihuahua' => [
+        'dst' => false,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Ciudad_Juarez' => [
+        'dst' => true,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Costa_Rica' => [
+        'dst' => false,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Denver' => [
+        'dst' => true,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Edmonton' => [
+        'dst' => true,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/El_Salvador' => [
+        'dst' => false,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Guatemala' => [
+        'dst' => false,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Inuvik' => [
+        'dst' => true,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Managua' => [
+        'dst' => false,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Merida' => [
+        'dst' => false,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Mexico_City' => [
+        'dst' => false,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Monterrey' => [
+        'dst' => false,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Regina' => [
+        'dst' => false,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Swift_Current' => [
+        'dst' => false,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Tegucigalpa' => [
+        'dst' => false,
+        'offset' => -21600,
+        'label' => [
+            'text' => '(UTC-06:00)',
+            'operator' => '-',
+            'hours' => 6,
+            'minutes' => 0
+        ]
+    ],
+    'America/Atikokan' => [
+        'dst' => false,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Bogota' => [
+        'dst' => false,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Cancun' => [
+        'dst' => false,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Cayman' => [
+        'dst' => false,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Chicago' => [
+        'dst' => true,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Eirunepe' => [
+        'dst' => false,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Guayaquil' => [
+        'dst' => false,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Indiana/Knox' => [
+        'dst' => true,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Indiana/Tell_City' => [
+        'dst' => true,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Jamaica' => [
+        'dst' => false,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Lima' => [
+        'dst' => false,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Matamoros' => [
+        'dst' => true,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Menominee' => [
+        'dst' => true,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/North_Dakota/Beulah' => [
+        'dst' => true,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/North_Dakota/Center' => [
+        'dst' => true,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/North_Dakota/New_Salem' => [
+        'dst' => true,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Ojinaga' => [
+        'dst' => true,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Panama' => [
+        'dst' => false,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Rankin_Inlet' => [
+        'dst' => true,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Resolute' => [
+        'dst' => true,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Rio_Branco' => [
+        'dst' => false,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Winnipeg' => [
+        'dst' => true,
+        'offset' => -18000,
+        'label' => [
+            'text' => '(UTC-05:00)',
+            'operator' => '-',
+            'hours' => 5,
+            'minutes' => 0
+        ]
+    ],
+    'America/Anguilla' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Antigua' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Aruba' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Barbados' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Blanc-Sablon' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Boa_Vista' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Campo_Grande' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Caracas' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Cuiaba' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Curacao' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Detroit' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Dominica' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Grand_Turk' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Grenada' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Guadeloupe' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Guyana' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Havana' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Indiana/Indianapolis' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Indiana/Marengo' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Indiana/Petersburg' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Indiana/Vevay' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Indiana/Vincennes' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Indiana/Winamac' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Iqaluit' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Kentucky/Louisville' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Kentucky/Monticello' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Kralendijk' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/La_Paz' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Lower_Princes' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Manaus' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Marigot' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Martinique' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Montserrat' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Nassau' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/New_York' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Port-au-Prince' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Port_of_Spain' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Porto_Velho' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Puerto_Rico' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Santo_Domingo' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/St_Barthelemy' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/St_Kitts' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/St_Lucia' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/St_Thomas' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/St_Vincent' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Toronto' => [
+        'dst' => true,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Tortola' => [
+        'dst' => false,
+        'offset' => -14400,
+        'label' => [
+            'text' => '(UTC-04:00)',
+            'operator' => '-',
+            'hours' => 4,
+            'minutes' => 0
+        ]
+    ],
+    'America/Araguaina' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Argentina/Buenos_Aires' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Argentina/Catamarca' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Argentina/Cordoba' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Argentina/Jujuy' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Argentina/La_Rioja' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Argentina/Mendoza' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Argentina/Rio_Gallegos' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Argentina/Salta' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Argentina/San_Juan' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Argentina/San_Luis' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Argentina/Tucuman' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Argentina/Ushuaia' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Asuncion' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Bahia' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Belem' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Cayenne' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Coyhaique' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Fortaleza' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Glace_Bay' => [
+        'dst' => true,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Goose_Bay' => [
+        'dst' => true,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Halifax' => [
+        'dst' => true,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Maceio' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Moncton' => [
+        'dst' => true,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Montevideo' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Paramaribo' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Punta_Arenas' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Recife' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Santarem' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Santiago' => [
+        'dst' => true,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Sao_Paulo' => [
+        'dst' => false,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/Thule' => [
+        'dst' => true,
+        'offset' => -10800,
+        'label' => [
+            'text' => '(UTC-03:00)',
+            'operator' => '-',
+            'hours' => 3,
+            'minutes' => 0
+        ]
+    ],
+    'America/St_Johns' => [
+        'dst' => true,
+        'offset' => -9000,
+        'label' => [
+            'text' => '(UTC-02:30)',
+            'operator' => '-',
+            'hours' => 2,
+            'minutes' => 30
+        ]
+    ],
+    'America/Miquelon' => [
+        'dst' => true,
+        'offset' => -7200,
+        'label' => [
+            'text' => '(UTC-02:00)',
+            'operator' => '-',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'America/Noronha' => [
+        'dst' => false,
+        'offset' => -7200,
+        'label' => [
+            'text' => '(UTC-02:00)',
+            'operator' => '-',
+            'hours' => 2,
+            'minutes' => 0
+        ]
+    ],
+    'America/Nuuk' => [
+        'dst' => true,
+        'offset' => -3600,
+        'label' => [
+            'text' => '(UTC-01:00)',
+            'operator' => '-',
+            'hours' => 1,
+            'minutes' => 0
+        ]
+    ],
+    'America/Scoresbysund' => [
+        'dst' => true,
+        'offset' => -3600,
+        'label' => [
+            'text' => '(UTC-01:00)',
+            'operator' => '-',
+            'hours' => 1,
+            'minutes' => 0
+        ]
+    ],
+    'America/Danmarkshavn' => [
+        'dst' => false,
+        'offset' => 0,
+        'label' => [
+            'text' => '(UTC+00:00)',
+            'operator' => '+',
+            'hours' => 0,
+            'minutes' => 0
+        ]
+    ]
+];
