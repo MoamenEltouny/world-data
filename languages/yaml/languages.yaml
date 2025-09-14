@@ -1,484 +1,484 @@
 af:
-  iso3: afr
-  native: Afrikaans
-  rtl: false
+    iso3: afr
+    native: Afrikaans
+    rtl: false
 ak:
-  iso3: aka
-  native: Akan
-  rtl: false
+    iso3: aka
+    native: Akan
+    rtl: false
 sq:
-  iso3: sqi
-  native: shqip
-  rtl: false
+    iso3: sqi
+    native: shqip
+    rtl: false
 am:
-  iso3: amh
-  native: አማርኛ
-  rtl: false
+    iso3: amh
+    native: አማርኛ
+    rtl: false
 ar:
-  iso3: ara
-  native: العربية
-  rtl: true
+    iso3: ara
+    native: العربية
+    rtl: true
 hy:
-  iso3: hye
-  native: հայերեն
-  rtl: false
+    iso3: hye
+    native: հայերեն
+    rtl: false
 as:
-  iso3: asm
-  native: অসমীয়া
-  rtl: false
+    iso3: asm
+    native: অসমীয়া
+    rtl: false
 az:
-  iso3: aze
-  native: azərbaycan
-  rtl: false
+    iso3: aze
+    native: azərbaycan
+    rtl: false
 bm:
-  iso3: bam
-  native: bamanakan
-  rtl: false
+    iso3: bam
+    native: bamanakan
+    rtl: false
 eu:
-  iso3: eus
-  native: euskara
-  rtl: false
+    iso3: eus
+    native: euskara
+    rtl: false
 be:
-  iso3: bel
-  native: беларуская
-  rtl: false
+    iso3: bel
+    native: беларуская
+    rtl: false
 bn:
-  iso3: ben
-  native: বাংলা
-  rtl: false
+    iso3: ben
+    native: বাংলা
+    rtl: false
 bs:
-  iso3: bos
-  native: bosanski
-  rtl: false
+    iso3: bos
+    native: bosanski
+    rtl: false
 br:
-  iso3: bre
-  native: brezhoneg
-  rtl: false
+    iso3: bre
+    native: brezhoneg
+    rtl: false
 bg:
-  iso3: bul
-  native: български
-  rtl: false
+    iso3: bul
+    native: български
+    rtl: false
 my:
-  iso3: mya
-  native: ဗမာ
-  rtl: false
+    iso3: mya
+    native: ဗမာ
+    rtl: false
 ca:
-  iso3: cat
-  native: català
-  rtl: false
+    iso3: cat
+    native: català
+    rtl: false
 zh:
-  iso3: zho
-  native: 中文
-  rtl: false
+    iso3: zho
+    native: 中文
+    rtl: false
 kw:
-  iso3: cor
-  native: kernewek
-  rtl: false
+    iso3: cor
+    native: kernewek
+    rtl: false
 hr:
-  iso3: hrv
-  native: hrvatski
-  rtl: false
+    iso3: hrv
+    native: hrvatski
+    rtl: false
 cs:
-  iso3: ces
-  native: čeština
-  rtl: false
+    iso3: ces
+    native: čeština
+    rtl: false
 da:
-  iso3: dan
-  native: dansk
-  rtl: false
+    iso3: dan
+    native: dansk
+    rtl: false
 nl:
-  iso3: nld
-  native: Nederlands
-  rtl: false
+    iso3: nld
+    native: Nederlands
+    rtl: false
 dz:
-  iso3: dzo
-  native: རྫོང་ཁ
-  rtl: false
+    iso3: dzo
+    native: རྫོང་ཁ
+    rtl: false
 en:
-  iso3: eng
-  native: English
-  rtl: false
+    iso3: eng
+    native: English
+    rtl: false
 eo:
-  iso3: epo
-  native: Esperanto
-  rtl: false
+    iso3: epo
+    native: Esperanto
+    rtl: false
 et:
-  iso3: est
-  native: eesti
-  rtl: false
+    iso3: est
+    native: eesti
+    rtl: false
 ee:
-  iso3: ewe
-  native: eʋegbe
-  rtl: false
+    iso3: ewe
+    native: eʋegbe
+    rtl: false
 fo:
-  iso3: fao
-  native: føroyskt
-  rtl: false
+    iso3: fao
+    native: føroyskt
+    rtl: false
 fi:
-  iso3: fin
-  native: suomi
-  rtl: false
+    iso3: fin
+    native: suomi
+    rtl: false
 fr:
-  iso3: fra
-  native: français
-  rtl: false
+    iso3: fra
+    native: français
+    rtl: false
 ff:
-  iso3: ful
-  native: Pulaar
-  rtl: false
+    iso3: ful
+    native: Pulaar
+    rtl: false
 gl:
-  iso3: glg
-  native: galego
-  rtl: false
+    iso3: glg
+    native: galego
+    rtl: false
 lg:
-  iso3: lug
-  native: Luganda
-  rtl: false
+    iso3: lug
+    native: Luganda
+    rtl: false
 ka:
-  iso3: kat
-  native: ქართული
-  rtl: false
+    iso3: kat
+    native: ქართული
+    rtl: false
 de:
-  iso3: deu
-  native: Deutsch
-  rtl: false
+    iso3: deu
+    native: Deutsch
+    rtl: false
 el:
-  iso3: ell
-  native: Ελληνικά
-  rtl: false
+    iso3: ell
+    native: Ελληνικά
+    rtl: false
 gu:
-  iso3: guj
-  native: ગુજરાતી
-  rtl: false
+    iso3: guj
+    native: ગુજરાતી
+    rtl: false
 ha:
-  iso3: hau
-  native: Hausa
-  rtl: true
+    iso3: hau
+    native: Hausa
+    rtl: true
 he:
-  iso3: heb
-  native: עברית
-  rtl: true
+    iso3: heb
+    native: עברית
+    rtl: true
 hi:
-  iso3: hin
-  native: हिन्दी
-  rtl: false
+    iso3: hin
+    native: हिन्दी
+    rtl: false
 hu:
-  iso3: hun
-  native: magyar
-  rtl: false
+    iso3: hun
+    native: magyar
+    rtl: false
 is:
-  iso3: isl
-  native: íslenska
-  rtl: false
+    iso3: isl
+    native: íslenska
+    rtl: false
 ig:
-  iso3: ibo
-  native: Igbo
-  rtl: false
+    iso3: ibo
+    native: Igbo
+    rtl: false
 id:
-  iso3: ind
-  native: 'Bahasa Indonesia'
-  rtl: false
+    iso3: ind
+    native: 'Bahasa Indonesia'
+    rtl: false
 ga:
-  iso3: gle
-  native: Gaeilge
-  rtl: false
+    iso3: gle
+    native: Gaeilge
+    rtl: false
 it:
-  iso3: ita
-  native: italiano
-  rtl: false
+    iso3: ita
+    native: italiano
+    rtl: false
 ja:
-  iso3: jpn
-  native: 日本語
-  rtl: false
+    iso3: jpn
+    native: 日本語
+    rtl: false
 kl:
-  iso3: kal
-  native: kalaallisut
-  rtl: false
+    iso3: kal
+    native: kalaallisut
+    rtl: false
 kn:
-  iso3: kan
-  native: ಕನ್ನಡ
-  rtl: false
+    iso3: kan
+    native: ಕನ್ನಡ
+    rtl: false
 ks:
-  iso3: kas
-  native: کٲشُر
-  rtl: true
+    iso3: kas
+    native: کٲشُر
+    rtl: true
 kk:
-  iso3: kaz
-  native: 'қазақ тілі'
-  rtl: false
+    iso3: kaz
+    native: 'қазақ тілі'
+    rtl: false
 km:
-  iso3: khm
-  native: ខ្មែរ
-  rtl: false
+    iso3: khm
+    native: ខ្មែរ
+    rtl: false
 ki:
-  iso3: kik
-  native: Gikuyu
-  rtl: false
+    iso3: kik
+    native: Gikuyu
+    rtl: false
 rw:
-  iso3: kin
-  native: Kinyarwanda
-  rtl: false
+    iso3: kin
+    native: Kinyarwanda
+    rtl: false
 ko:
-  iso3: kor
-  native: 한국어
-  rtl: false
+    iso3: kor
+    native: 한국어
+    rtl: false
 ky:
-  iso3: kir
-  native: кыргызча
-  rtl: false
+    iso3: kir
+    native: кыргызча
+    rtl: false
 lo:
-  iso3: lao
-  native: ລາວ
-  rtl: false
+    iso3: lao
+    native: ລາວ
+    rtl: false
 lv:
-  iso3: lav
-  native: latviešu
-  rtl: false
+    iso3: lav
+    native: latviešu
+    rtl: false
 ln:
-  iso3: lin
-  native: lingála
-  rtl: false
+    iso3: lin
+    native: lingála
+    rtl: false
 lt:
-  iso3: lit
-  native: lietuvių
-  rtl: false
+    iso3: lit
+    native: lietuvių
+    rtl: false
 lu:
-  iso3: lub
-  native: Tshiluba
-  rtl: false
+    iso3: lub
+    native: Tshiluba
+    rtl: false
 lb:
-  iso3: ltz
-  native: Lëtzebuergesch
-  rtl: false
+    iso3: ltz
+    native: Lëtzebuergesch
+    rtl: false
 mk:
-  iso3: mkd
-  native: македонски
-  rtl: false
+    iso3: mkd
+    native: македонски
+    rtl: false
 mg:
-  iso3: mlg
-  native: Malagasy
-  rtl: false
+    iso3: mlg
+    native: Malagasy
+    rtl: false
 ms:
-  iso3: msa
-  native: 'Bahasa Melayu'
-  rtl: false
+    iso3: msa
+    native: 'Bahasa Melayu'
+    rtl: false
 ml:
-  iso3: mal
-  native: മലയാളം
-  rtl: false
+    iso3: mal
+    native: മലയാളം
+    rtl: false
 mt:
-  iso3: mlt
-  native: Malti
-  rtl: false
+    iso3: mlt
+    native: Malti
+    rtl: false
 gv:
-  iso3: glv
-  native: Gaelg
-  rtl: false
+    iso3: glv
+    native: Gaelg
+    rtl: false
 mr:
-  iso3: mar
-  native: मराठी
-  rtl: false
+    iso3: mar
+    native: मराठी
+    rtl: false
 mn:
-  iso3: mon
-  native: монгол
-  rtl: false
+    iso3: mon
+    native: монгол
+    rtl: false
 ne:
-  iso3: nep
-  native: नेपाली
-  rtl: false
+    iso3: nep
+    native: नेपाली
+    rtl: false
 nd:
-  iso3: nde
-  native: isiNdebele
-  rtl: false
+    iso3: nde
+    native: isiNdebele
+    rtl: false
 se:
-  iso3: sme
-  native: davvisámegiella
-  rtl: false
+    iso3: sme
+    native: davvisámegiella
+    rtl: false
 'no':
-  iso3: nor
-  native: norsk
-  rtl: false
+    iso3: nor
+    native: norsk
+    rtl: false
 nb:
-  iso3: nob
-  native: 'norsk bokmål'
-  rtl: false
+    iso3: nob
+    native: 'norsk bokmål'
+    rtl: false
 nn:
-  iso3: nno
-  native: nynorsk
-  rtl: false
+    iso3: nno
+    native: nynorsk
+    rtl: false
 or:
-  iso3: ori
-  native: ଓଡ଼ିଆ
-  rtl: false
+    iso3: ori
+    native: ଓଡ଼ିଆ
+    rtl: false
 om:
-  iso3: orm
-  native: Oromoo
-  rtl: false
+    iso3: orm
+    native: Oromoo
+    rtl: false
 os:
-  iso3: oss
-  native: ирон
-  rtl: false
+    iso3: oss
+    native: ирон
+    rtl: false
 ps:
-  iso3: pus
-  native: پښتو
-  rtl: true
+    iso3: pus
+    native: پښتو
+    rtl: true
 fa:
-  iso3: fas
-  native: فارسی
-  rtl: true
+    iso3: fas
+    native: فارسی
+    rtl: true
 pl:
-  iso3: pol
-  native: polski
-  rtl: false
+    iso3: pol
+    native: polski
+    rtl: false
 pt:
-  iso3: por
-  native: português
-  rtl: false
+    iso3: por
+    native: português
+    rtl: false
 pa:
-  iso3: pan
-  native: ਪੰਜਾਬੀ
-  rtl: false
+    iso3: pan
+    native: ਪੰਜਾਬੀ
+    rtl: false
 qu:
-  iso3: que
-  native: Runasimi
-  rtl: false
+    iso3: que
+    native: Runasimi
+    rtl: false
 ro:
-  iso3: ron
-  native: română
-  rtl: false
+    iso3: ron
+    native: română
+    rtl: false
 rm:
-  iso3: roh
-  native: rumantsch
-  rtl: false
+    iso3: roh
+    native: rumantsch
+    rtl: false
 rn:
-  iso3: run
-  native: Ikirundi
-  rtl: false
+    iso3: run
+    native: Ikirundi
+    rtl: false
 ru:
-  iso3: rus
-  native: русский
-  rtl: false
+    iso3: rus
+    native: русский
+    rtl: false
 sg:
-  iso3: sag
-  native: Sängö
-  rtl: false
+    iso3: sag
+    native: Sängö
+    rtl: false
 gd:
-  iso3: gla
-  native: Gàidhlig
-  rtl: false
+    iso3: gla
+    native: Gàidhlig
+    rtl: false
 sr:
-  iso3: srp
-  native: српски
-  rtl: false
+    iso3: srp
+    native: српски
+    rtl: false
 sh:
-  iso3: hbs
-  native: Srpskohrvatski
-  rtl: false
+    iso3: hbs
+    native: Srpskohrvatski
+    rtl: false
 sn:
-  iso3: sna
-  native: chiShona
-  rtl: false
+    iso3: sna
+    native: chiShona
+    rtl: false
 ii:
-  iso3: iii
-  native: ꆈꌠꉙ
-  rtl: false
+    iso3: iii
+    native: ꆈꌠꉙ
+    rtl: false
 si:
-  iso3: sin
-  native: සිංහල
-  rtl: false
+    iso3: sin
+    native: සිංහල
+    rtl: false
 sk:
-  iso3: slk
-  native: slovenčina
-  rtl: false
+    iso3: slk
+    native: slovenčina
+    rtl: false
 sl:
-  iso3: slv
-  native: slovenščina
-  rtl: false
+    iso3: slv
+    native: slovenščina
+    rtl: false
 so:
-  iso3: som
-  native: Soomaali
-  rtl: false
+    iso3: som
+    native: Soomaali
+    rtl: false
 es:
-  iso3: spa
-  native: español
-  rtl: false
+    iso3: spa
+    native: español
+    rtl: false
 sw:
-  iso3: swa
-  native: Kiswahili
-  rtl: false
+    iso3: swa
+    native: Kiswahili
+    rtl: false
 sv:
-  iso3: swe
-  native: svenska
-  rtl: false
+    iso3: swe
+    native: svenska
+    rtl: false
 tl:
-  iso3: tgl
-  native: Tagalog
-  rtl: false
+    iso3: tgl
+    native: Tagalog
+    rtl: false
 ta:
-  iso3: tam
-  native: தமிழ்
-  rtl: false
+    iso3: tam
+    native: தமிழ்
+    rtl: false
 te:
-  iso3: tel
-  native: తెలుగు
-  rtl: false
+    iso3: tel
+    native: తెలుగు
+    rtl: false
 th:
-  iso3: tha
-  native: ไทย
-  rtl: false
+    iso3: tha
+    native: ไทย
+    rtl: false
 bo:
-  iso3: bod
-  native: བོད་སྐད་
-  rtl: false
+    iso3: bod
+    native: བོད་སྐད་
+    rtl: false
 ti:
-  iso3: tir
-  native: ትግርኛ
-  rtl: false
+    iso3: tir
+    native: ትግርኛ
+    rtl: false
 to:
-  iso3: ton
-  native: 'lea fakatonga'
-  rtl: false
+    iso3: ton
+    native: 'lea fakatonga'
+    rtl: false
 tr:
-  iso3: tur
-  native: Türkçe
-  rtl: false
+    iso3: tur
+    native: Türkçe
+    rtl: false
 uk:
-  iso3: ukr
-  native: українська
-  rtl: false
+    iso3: ukr
+    native: українська
+    rtl: false
 ur:
-  iso3: urd
-  native: اردو
-  rtl: true
+    iso3: urd
+    native: اردو
+    rtl: true
 ug:
-  iso3: uig
-  native: ئۇيغۇرچە
-  rtl: false
+    iso3: uig
+    native: ئۇيغۇرچە
+    rtl: false
 uz:
-  iso3: uzb
-  native: oʻzbekcha
-  rtl: true
+    iso3: uzb
+    native: oʻzbekcha
+    rtl: true
 vi:
-  iso3: vie
-  native: 'Tiếng Việt'
-  rtl: false
+    iso3: vie
+    native: 'Tiếng Việt'
+    rtl: false
 cy:
-  iso3: cym
-  native: Cymraeg
-  rtl: false
+    iso3: cym
+    native: Cymraeg
+    rtl: false
 fy:
-  iso3: fry
-  native: West-Frysk
-  rtl: false
+    iso3: fry
+    native: West-Frysk
+    rtl: false
 yi:
-  iso3: yid
-  native: ייִדיש
-  rtl: true
+    iso3: yid
+    native: ייִדיש
+    rtl: true
 yo:
-  iso3: yor
-  native: 'Èdè Yorùbá'
-  rtl: false
+    iso3: yor
+    native: 'Èdè Yorùbá'
+    rtl: false
 zu:
-  iso3: zul
-  native: isiZulu
-  rtl: false
+    iso3: zul
+    native: isiZulu
+    rtl: false
