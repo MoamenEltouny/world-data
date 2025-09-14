@@ -403,7 +403,7 @@ return [
 	],
 	'LSL' => [
 		'name' => 'Loti do Lesoto',
-		'major' => 'loti (maloti]',
+		'major' => 'loti (maloti)',
 		'minor' => 'sente',
 	],
 	'LTL' => [
