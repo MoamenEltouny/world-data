@@ -1,616 +1,616 @@
 AED:
-  name: 阿联酋迪拉姆
-  major: 迪拉姆
-  minor: 菲尔
+    name: 阿联酋迪拉姆
+    major: 迪拉姆
+    minor: 菲尔
 AFN:
-  name: 阿富汗尼
-  major: 阿富汗尼
-  minor: 普尔
+    name: 阿富汗尼
+    major: 阿富汗尼
+    minor: 普尔
 ALL:
-  name: 阿尔巴尼亚列克
-  major: 列克
-  minor: 金达尔克
+    name: 阿尔巴尼亚列克
+    major: 列克
+    minor: 金达尔克
 AMD:
-  name: 亚美尼亚德拉姆
-  major: 德拉姆
-  minor: 卢马
+    name: 亚美尼亚德拉姆
+    major: 德拉姆
+    minor: 卢马
 AOA:
-  name: 安哥拉宽扎
-  major: 宽扎
-  minor: 分
+    name: 安哥拉宽扎
+    major: 宽扎
+    minor: 分
 ARS:
-  name: 阿根廷比索
-  major: 比索
-  minor: 分
+    name: 阿根廷比索
+    major: 比索
+    minor: 分
 AUD:
-  name: 澳大利亚元
-  major: 元
-  minor: 分
+    name: 澳大利亚元
+    major: 元
+    minor: 分
 AWG:
-  name: 阿鲁巴弗罗林
-  major: 弗罗林
-  minor: 分
+    name: 阿鲁巴弗罗林
+    major: 弗罗林
+    minor: 分
 AZN:
-  name: 阿塞拜疆马纳特
-  major: 马纳特
-  minor: 戈比
+    name: 阿塞拜疆马纳特
+    major: 马纳特
+    minor: 戈比
 BAM:
-  name: 波黑可兑换马克
-  major: 可兑换马克
-  minor: 芬尼
+    name: 波黑可兑换马克
+    major: 可兑换马克
+    minor: 芬尼
 BBD:
-  name: 巴巴多斯元
-  major: 元
-  minor: 分
+    name: 巴巴多斯元
+    major: 元
+    minor: 分
 BDT:
-  name: 孟加拉塔卡
-  major: 塔卡
-  minor: 波伊沙
+    name: 孟加拉塔卡
+    major: 塔卡
+    minor: 波伊沙
 BGN:
-  name: 保加利亚列弗
-  major: 列弗
-  minor: 斯托丁卡
+    name: 保加利亚列弗
+    major: 列弗
+    minor: 斯托丁卡
 BHD:
-  name: 巴林第纳尔
-  major: 第纳尔
-  minor: 菲尔
+    name: 巴林第纳尔
+    major: 第纳尔
+    minor: 菲尔
 BIF:
-  name: 布隆迪法郎
-  major: 法郎
-  minor: 生丁
+    name: 布隆迪法郎
+    major: 法郎
+    minor: 生丁
 BMD:
-  name: 百慕大元
-  major: 元
-  minor: 分
+    name: 百慕大元
+    major: 元
+    minor: 分
 BND:
-  name: 文莱元
-  major: 元
-  minor: 分
+    name: 文莱元
+    major: 元
+    minor: 分
 BOB:
-  name: 玻利维亚诺
-  major: 玻利维亚诺
-  minor: 分
+    name: 玻利维亚诺
+    major: 玻利维亚诺
+    minor: 分
 BRL:
-  name: 巴西雷亚尔
-  major: 雷亚尔
-  minor: 分
+    name: 巴西雷亚尔
+    major: 雷亚尔
+    minor: 分
 BSD:
-  name: 巴哈马元
-  major: 元
-  minor: 分
+    name: 巴哈马元
+    major: 元
+    minor: 分
 BTC:
-  name: 比特币
-  major: 比特币
-  minor: 毫比特
+    name: 比特币
+    major: 比特币
+    minor: 毫比特
 BTN:
-  name: 不丹努尔特鲁姆
-  major: 努尔特鲁姆
-  minor: 切图姆
+    name: 不丹努尔特鲁姆
+    major: 努尔特鲁姆
+    minor: 切图姆
 BWP:
-  name: 博茨瓦纳普拉
-  major: 普拉
-  minor: 特贝
+    name: 博茨瓦纳普拉
+    major: 普拉
+    minor: 特贝
 BYR:
-  name: 白俄罗斯卢布
-  major: 卢布
-  minor: 戈比
+    name: 白俄罗斯卢布
+    major: 卢布
+    minor: 戈比
 BZD:
-  name: 伯利兹元
-  major: 元
-  minor: 分
+    name: 伯利兹元
+    major: 元
+    minor: 分
 CAD:
-  name: 加拿大元
-  major: 元
-  minor: 分
+    name: 加拿大元
+    major: 元
+    minor: 分
 CDF:
-  name: 刚果法郎
-  major: 法郎
-  minor: 生丁
+    name: 刚果法郎
+    major: 法郎
+    minor: 生丁
 CHF:
-  name: 瑞士法郎
-  major: 法郎
-  minor: 生丁
+    name: 瑞士法郎
+    major: 法郎
+    minor: 生丁
 CLP:
-  name: 智利比索
-  major: 比索
-  minor: 分
+    name: 智利比索
+    major: 比索
+    minor: 分
 CNY:
-  name: 人民币
-  major: 元
-  minor: 分
+    name: 人民币
+    major: 元
+    minor: 分
 COP:
-  name: 哥伦比亚比索
-  major: 比索
-  minor: 分
+    name: 哥伦比亚比索
+    major: 比索
+    minor: 分
 CRC:
-  name: 哥斯达黎加科朗
-  major: 科朗
-  minor: 分
+    name: 哥斯达黎加科朗
+    major: 科朗
+    minor: 分
 CUP:
-  name: 古巴比索
-  major: 比索
-  minor: 分
+    name: 古巴比索
+    major: 比索
+    minor: 分
 CVE:
-  name: 佛得角埃斯库多
-  major: 埃斯库多
-  minor: 分
+    name: 佛得角埃斯库多
+    major: 埃斯库多
+    minor: 分
 CZK:
-  name: 捷克克朗
-  major: 克朗
-  minor: 哈勒尔
+    name: 捷克克朗
+    major: 克朗
+    minor: 哈勒尔
 DJF:
-  name: 吉布提法郎
-  major: 法郎
-  minor: 生丁
+    name: 吉布提法郎
+    major: 法郎
+    minor: 生丁
 DKK:
-  name: 丹麦克朗
-  major: 克朗
-  minor: 欧尔
+    name: 丹麦克朗
+    major: 克朗
+    minor: 欧尔
 DOP:
-  name: 多米尼加比索
-  major: 比索
-  minor: 分
+    name: 多米尼加比索
+    major: 比索
+    minor: 分
 DZD:
-  name: 阿尔及利亚第纳尔
-  major: 第纳尔
-  minor: 分
+    name: 阿尔及利亚第纳尔
+    major: 第纳尔
+    minor: 分
 EGP:
-  name: 埃及镑
-  major: 镑
-  minor: 皮阿斯特
+    name: 埃及镑
+    major: 镑
+    minor: 皮阿斯特
 ERN:
-  name: 厄立特里亚纳克法
-  major: 纳克法
-  minor: 分
+    name: 厄立特里亚纳克法
+    major: 纳克法
+    minor: 分
 ETB:
-  name: 埃塞俄比亚比尔
-  major: 比尔
-  minor: 桑提姆
+    name: 埃塞俄比亚比尔
+    major: 比尔
+    minor: 桑提姆
 ETH:
-  name: 以太坊
-  major: 以太币
-  minor: gwei
+    name: 以太坊
+    major: 以太币
+    minor: gwei
 EUR:
-  name: 欧元
-  major: 欧元
-  minor: 分
+    name: 欧元
+    major: 欧元
+    minor: 分
 FJD:
-  name: 斐济元
-  major: 元
-  minor: 分
+    name: 斐济元
+    major: 元
+    minor: 分
 FKP:
-  name: 福克兰群岛镑
-  major: 镑
-  minor: 便士
+    name: 福克兰群岛镑
+    major: 镑
+    minor: 便士
 GBP:
-  name: 英镑
-  major: 镑
-  minor: 便士
+    name: 英镑
+    major: 镑
+    minor: 便士
 GEL:
-  name: 格鲁吉亚拉里
-  major: 拉里
-  minor: 泰特里
+    name: 格鲁吉亚拉里
+    major: 拉里
+    minor: 泰特里
 GHS:
-  name: 加纳塞地
-  major: 塞地
-  minor: 佩塞瓦
+    name: 加纳塞地
+    major: 塞地
+    minor: 佩塞瓦
 GIP:
-  name: 直布罗陀镑
-  major: 镑
-  minor: 便士
+    name: 直布罗陀镑
+    major: 镑
+    minor: 便士
 GMD:
-  name: 冈比亚达拉西
-  major: 达拉西
-  minor: 布图
+    name: 冈比亚达拉西
+    major: 达拉西
+    minor: 布图
 GNF:
-  name: 几内亚法郎
-  major: 法郎
-  minor: 生丁
+    name: 几内亚法郎
+    major: 法郎
+    minor: 生丁
 GTQ:
-  name: 危地马拉格查尔
-  major: 格查尔
-  minor: 分
+    name: 危地马拉格查尔
+    major: 格查尔
+    minor: 分
 GYD:
-  name: 圭亚那元
-  major: 元
-  minor: 分
+    name: 圭亚那元
+    major: 元
+    minor: 分
 HKD:
-  name: 港元
-  major: 元
-  minor: 分
+    name: 港元
+    major: 元
+    minor: 分
 HNL:
-  name: 洪都拉斯伦皮拉
-  major: 伦皮拉
-  minor: 分
+    name: 洪都拉斯伦皮拉
+    major: 伦皮拉
+    minor: 分
 HRK:
-  name: 克罗地亚库纳
-  major: 库纳
-  minor: 利帕
+    name: 克罗地亚库纳
+    major: 库纳
+    minor: 利帕
 HTG:
-  name: 海地古德
-  major: 古德
-  minor: 生丁
+    name: 海地古德
+    major: 古德
+    minor: 生丁
 HUF:
-  name: 匈牙利福林
-  major: 福林
-  minor: 菲勒
+    name: 匈牙利福林
+    major: 福林
+    minor: 菲勒
 IDR:
-  name: 印尼盾
-  major: 盾
-  minor: 仙
+    name: 印尼盾
+    major: 盾
+    minor: 仙
 ILS:
-  name: 以色列新谢克尔
-  major: 谢克尔
-  minor: 阿戈罗特
+    name: 以色列新谢克尔
+    major: 谢克尔
+    minor: 阿戈罗特
 INR:
-  name: 印度卢比
-  major: 卢比
-  minor: 派萨
+    name: 印度卢比
+    major: 卢比
+    minor: 派萨
 IQD:
-  name: 伊拉克第纳尔
-  major: 第纳尔
-  minor: 菲尔
+    name: 伊拉克第纳尔
+    major: 第纳尔
+    minor: 菲尔
 IRR:
-  name: 伊朗里亚尔
-  major: 里亚尔
-  minor: 第纳尔
+    name: 伊朗里亚尔
+    major: 里亚尔
+    minor: 第纳尔
 ISK:
-  name: 冰岛克朗
-  major: 克朗
-  minor: 埃伊里
+    name: 冰岛克朗
+    major: 克朗
+    minor: 埃伊里
 JMD:
-  name: 牙买加元
-  major: 元
-  minor: 分
+    name: 牙买加元
+    major: 元
+    minor: 分
 JOD:
-  name: 约旦第纳尔
-  major: 第纳尔
-  minor: 皮阿斯特
+    name: 约旦第纳尔
+    major: 第纳尔
+    minor: 皮阿斯特
 JPY:
-  name: 日元
-  major: 日元
-  minor: 钱
+    name: 日元
+    major: 日元
+    minor: 钱
 KES:
-  name: 肯尼亚先令
-  major: 先令
-  minor: 分
+    name: 肯尼亚先令
+    major: 先令
+    minor: 分
 KGS:
-  name: 吉尔吉斯斯坦索姆
-  major: 索姆
-  minor: 提因
+    name: 吉尔吉斯斯坦索姆
+    major: 索姆
+    minor: 提因
 KHR:
-  name: 柬埔寨瑞尔
-  major: 瑞尔
-  minor: 卡克
+    name: 柬埔寨瑞尔
+    major: 瑞尔
+    minor: 卡克
 KMF:
-  name: 科摩罗法郎
-  major: 法郎
-  minor: 生丁
+    name: 科摩罗法郎
+    major: 法郎
+    minor: 生丁
 KPW:
-  name: 朝鲜圆
-  major: 圆
-  minor: 全
+    name: 朝鲜圆
+    major: 圆
+    minor: 全
 KRW:
-  name: 韩元
-  major: 韩元
-  minor: 钱
+    name: 韩元
+    major: 韩元
+    minor: 钱
 KWD:
-  name: 科威特第纳尔
-  major: 第纳尔
-  minor: 菲尔
+    name: 科威特第纳尔
+    major: 第纳尔
+    minor: 菲尔
 KYD:
-  name: 开曼群岛元
-  major: 元
-  minor: 分
+    name: 开曼群岛元
+    major: 元
+    minor: 分
 KZT:
-  name: 哈萨克斯坦坚戈
-  major: 坚戈
-  minor: 铁因
+    name: 哈萨克斯坦坚戈
+    major: 坚戈
+    minor: 铁因
 LAK:
-  name: 老挝基普
-  major: 基普
-  minor: 阿特
+    name: 老挝基普
+    major: 基普
+    minor: 阿特
 LBP:
-  name: 黎巴嫩镑
-  major: 镑
-  minor: 皮阿斯特
+    name: 黎巴嫩镑
+    major: 镑
+    minor: 皮阿斯特
 LRD:
-  name: 利比里亚元
-  major: 元
-  minor: 分
+    name: 利比里亚元
+    major: 元
+    minor: 分
 LSL:
-  name: 莱索托洛蒂
-  major: 洛蒂（马洛蒂）
-  minor: 分
+    name: 莱索托洛蒂
+    major: 洛蒂（马洛蒂）
+    minor: 分
 LTL:
-  name: 立陶宛立特
-  major: 立特
-  minor: 分
+    name: 立陶宛立特
+    major: 立特
+    minor: 分
 LYD:
-  name: 利比亚第纳尔
-  major: 第纳尔
-  minor: 迪尔哈姆
+    name: 利比亚第纳尔
+    major: 第纳尔
+    minor: 迪尔哈姆
 MAD:
-  name: 摩洛哥迪拉姆
-  major: 迪拉姆
-  minor: 桑提姆
+    name: 摩洛哥迪拉姆
+    major: 迪拉姆
+    minor: 桑提姆
 MDL:
-  name: 摩尔多瓦列伊
-  major: 列伊
-  minor: 巴尼
+    name: 摩尔多瓦列伊
+    major: 列伊
+    minor: 巴尼
 MGA:
-  name: 马达加斯加阿里亚里
-  major: 阿里亚里
-  minor: 伊赖姆比兰贾
+    name: 马达加斯加阿里亚里
+    major: 阿里亚里
+    minor: 伊赖姆比兰贾
 MKD:
-  name: 马其顿第纳尔
-  major: 第纳尔
-  minor: 第尼
+    name: 马其顿第纳尔
+    major: 第纳尔
+    minor: 第尼
 MMK:
-  name: 缅甸元
-  major: 元
-  minor: 分
+    name: 缅甸元
+    major: 元
+    minor: 分
 MNT:
-  name: 蒙古图格里克
-  major: 图格里克
-  minor: 蒙戈
+    name: 蒙古图格里克
+    major: 图格里克
+    minor: 蒙戈
 MOP:
-  name: 澳门元
-  major: 元
-  minor: 仙
+    name: 澳门元
+    major: 元
+    minor: 仙
 MRO:
-  name: 毛里塔尼亚乌吉亚
-  major: 乌吉亚
-  minor: 胡姆斯
+    name: 毛里塔尼亚乌吉亚
+    major: 乌吉亚
+    minor: 胡姆斯
 MUR:
-  name: 毛里求斯卢比
-  major: 卢比
-  minor: 分
+    name: 毛里求斯卢比
+    major: 卢比
+    minor: 分
 MVR:
-  name: 马尔代夫拉菲亚
-  major: 拉菲亚
-  minor: 拉里
+    name: 马尔代夫拉菲亚
+    major: 拉菲亚
+    minor: 拉里
 MWK:
-  name: 马拉维克瓦查
-  major: 克瓦查
-  minor: 坦巴拉
+    name: 马拉维克瓦查
+    major: 克瓦查
+    minor: 坦巴拉
 MXN:
-  name: 墨西哥比索
-  major: 比索
-  minor: 分
+    name: 墨西哥比索
+    major: 比索
+    minor: 分
 MYR:
-  name: 马来西亚林吉特
-  major: 林吉特
-  minor: 仙
+    name: 马来西亚林吉特
+    major: 林吉特
+    minor: 仙
 MZN:
-  name: 莫桑比克梅蒂卡尔
-  major: 梅蒂卡尔
-  minor: 分
+    name: 莫桑比克梅蒂卡尔
+    major: 梅蒂卡尔
+    minor: 分
 NAD:
-  name: 纳米比亚元
-  major: 元
-  minor: 分
+    name: 纳米比亚元
+    major: 元
+    minor: 分
 NGN:
-  name: 尼日利亚奈拉
-  major: 奈拉
-  minor: 科博
+    name: 尼日利亚奈拉
+    major: 奈拉
+    minor: 科博
 NIO:
-  name: 尼加拉瓜科多巴
-  major: 科多巴
-  minor: 分
+    name: 尼加拉瓜科多巴
+    major: 科多巴
+    minor: 分
 NOK:
-  name: 挪威克朗
-  major: 克朗
-  minor: 欧尔
+    name: 挪威克朗
+    major: 克朗
+    minor: 欧尔
 NPR:
-  name: 尼泊尔卢比
-  major: 卢比
-  minor: 派萨
+    name: 尼泊尔卢比
+    major: 卢比
+    minor: 派萨
 NZD:
-  name: 新西兰元
-  major: 元
-  minor: 分
+    name: 新西兰元
+    major: 元
+    minor: 分
 OMR:
-  name: 阿曼里亚尔
-  major: 里亚尔
-  minor: 拜萨
+    name: 阿曼里亚尔
+    major: 里亚尔
+    minor: 拜萨
 PAB:
-  name: 巴拿马巴波亚
-  major: 巴波亚
-  minor: 分
+    name: 巴拿马巴波亚
+    major: 巴波亚
+    minor: 分
 PEN:
-  name: 秘鲁新索尔
-  major: 新索尔
-  minor: 分
+    name: 秘鲁新索尔
+    major: 新索尔
+    minor: 分
 PGK:
-  name: 巴布亚新几内亚基那
-  major: 基那
-  minor: 托亚
+    name: 巴布亚新几内亚基那
+    major: 基那
+    minor: 托亚
 PHP:
-  name: 菲律宾比索
-  major: 比索
-  minor: 分
+    name: 菲律宾比索
+    major: 比索
+    minor: 分
 PKR:
-  name: 巴基斯坦卢比
-  major: 卢比
-  minor: 派萨
+    name: 巴基斯坦卢比
+    major: 卢比
+    minor: 派萨
 PLN:
-  name: 波兰兹罗提
-  major: 兹罗提
-  minor: 格罗希
+    name: 波兰兹罗提
+    major: 兹罗提
+    minor: 格罗希
 PYG:
-  name: 巴拉圭瓜拉尼
-  major: 瓜拉尼
-  minor: 分
+    name: 巴拉圭瓜拉尼
+    major: 瓜拉尼
+    minor: 分
 QAR:
-  name: 卡塔尔里亚尔
-  major: 里亚尔
-  minor: 迪拉姆
+    name: 卡塔尔里亚尔
+    major: 里亚尔
+    minor: 迪拉姆
 RON:
-  name: 罗马尼亚列伊
-  major: 列伊
-  minor: 巴尼
+    name: 罗马尼亚列伊
+    major: 列伊
+    minor: 巴尼
 RSD:
-  name: 塞尔维亚第纳尔
-  major: 第纳尔
-  minor: 帕拉
+    name: 塞尔维亚第纳尔
+    major: 第纳尔
+    minor: 帕拉
 RUB:
-  name: 俄罗斯卢布
-  major: 卢布
-  minor: 戈比
+    name: 俄罗斯卢布
+    major: 卢布
+    minor: 戈比
 RWF:
-  name: 卢旺达法郎
-  major: 法郎
-  minor: 生丁
+    name: 卢旺达法郎
+    major: 法郎
+    minor: 生丁
 SAR:
-  name: 沙特里亚尔
-  major: 里亚尔
-  minor: 哈拉拉
+    name: 沙特里亚尔
+    major: 里亚尔
+    minor: 哈拉拉
 SBD:
-  name: 所罗门群岛元
-  major: 元
-  minor: 分
+    name: 所罗门群岛元
+    major: 元
+    minor: 分
 SCR:
-  name: 塞舌尔卢比
-  major: 卢比
-  minor: 分
+    name: 塞舌尔卢比
+    major: 卢比
+    minor: 分
 SDG:
-  name: 苏丹镑
-  major: 镑
-  minor: 皮阿斯特
+    name: 苏丹镑
+    major: 镑
+    minor: 皮阿斯特
 SEK:
-  name: 瑞典克朗
-  major: 克朗
-  minor: 欧雷
+    name: 瑞典克朗
+    major: 克朗
+    minor: 欧雷
 SGD:
-  name: 新加坡元
-  major: 元
-  minor: 分
+    name: 新加坡元
+    major: 元
+    minor: 分
 SHP:
-  name: 圣赫勒拿镑
-  major: 镑
-  minor: 便士
+    name: 圣赫勒拿镑
+    major: 镑
+    minor: 便士
 SLL:
-  name: 塞拉利昂利昂
-  major: 利昂
-  minor: 分
+    name: 塞拉利昂利昂
+    major: 利昂
+    minor: 分
 SOS:
-  name: 索马里先令
-  major: 先令
-  minor: 分
+    name: 索马里先令
+    major: 先令
+    minor: 分
 SRD:
-  name: 苏里南元
-  major: 元
-  minor: 分
+    name: 苏里南元
+    major: 元
+    minor: 分
 STD:
-  name: 圣多美和普林西比多布拉
-  major: 多布拉
-  minor: 生丁
+    name: 圣多美和普林西比多布拉
+    major: 多布拉
+    minor: 生丁
 SYP:
-  name: 叙利亚镑
-  major: 镑
-  minor: 皮阿斯特
+    name: 叙利亚镑
+    major: 镑
+    minor: 皮阿斯特
 SZL:
-  name: 斯威士兰里兰吉尼
-  major: 里兰吉尼
-  minor: 分
+    name: 斯威士兰里兰吉尼
+    major: 里兰吉尼
+    minor: 分
 THB:
-  name: 泰铢
-  major: 铢
-  minor: 萨当
+    name: 泰铢
+    major: 铢
+    minor: 萨当
 TJS:
-  name: 塔吉克斯坦索莫尼
-  major: 索莫尼
-  minor: 迪拉姆
+    name: 塔吉克斯坦索莫尼
+    major: 索莫尼
+    minor: 迪拉姆
 TMT:
-  name: 土库曼斯坦马纳特
-  major: 马纳特
-  minor: 坚戈
+    name: 土库曼斯坦马纳特
+    major: 马纳特
+    minor: 坚戈
 TND:
-  name: 突尼斯第纳尔
-  major: 第纳尔
-  minor: 米利姆
+    name: 突尼斯第纳尔
+    major: 第纳尔
+    minor: 米利姆
 TOP:
-  name: 汤加潘加
-  major: 潘加
-  minor: 分
+    name: 汤加潘加
+    major: 潘加
+    minor: 分
 TRY:
-  name: 土耳其里拉
-  major: 里拉
-  minor: 库鲁斯
+    name: 土耳其里拉
+    major: 里拉
+    minor: 库鲁斯
 TTD:
-  name: 特立尼达和多巴哥元
-  major: 元
-  minor: 分
+    name: 特立尼达和多巴哥元
+    major: 元
+    minor: 分
 TWD:
-  name: 新台币
-  major: 元
-  minor: 角
+    name: 新台币
+    major: 元
+    minor: 角
 TZS:
-  name: 坦桑尼亚先令
-  major: 先令
-  minor: 分
+    name: 坦桑尼亚先令
+    major: 先令
+    minor: 分
 UAH:
-  name: 乌克兰格里夫纳
-  major: 格里夫纳
-  minor: 戈比
+    name: 乌克兰格里夫纳
+    major: 格里夫纳
+    minor: 戈比
 UGX:
-  name: 乌干达先令
-  major: 先令
-  minor: 分
+    name: 乌干达先令
+    major: 先令
+    minor: 分
 USD:
-  name: 美元
-  major: 元
-  minor: 分
+    name: 美元
+    major: 元
+    minor: 分
 UYU:
-  name: 乌拉圭比索
-  major: 比索
-  minor: 分
+    name: 乌拉圭比索
+    major: 比索
+    minor: 分
 UZS:
-  name: 乌兹别克斯坦索姆
-  major: 索姆
-  minor: 提因
+    name: 乌兹别克斯坦索姆
+    major: 索姆
+    minor: 提因
 VEF:
-  name: 委内瑞拉玻利瓦尔
-  major: 玻利瓦尔
-  minor: 分
+    name: 委内瑞拉玻利瓦尔
+    major: 玻利瓦尔
+    minor: 分
 VND:
-  name: 越南盾
-  major: 盾
-  minor: 苏
+    name: 越南盾
+    major: 盾
+    minor: 苏
 VUV:
-  name: 瓦努阿图瓦图
-  major: 瓦图
-  minor: ''
+    name: 瓦努阿图瓦图
+    major: 瓦图
+    minor: ''
 WST:
-  name: 萨摩亚塔拉
-  major: 塔拉
-  minor: 分
+    name: 萨摩亚塔拉
+    major: 塔拉
+    minor: 分
 XAF:
-  name: 中非法郎
-  major: 法郎
-  minor: 生丁
+    name: 中非法郎
+    major: 法郎
+    minor: 生丁
 XCD:
-  name: 东加勒比元
-  major: 元
-  minor: 分
+    name: 东加勒比元
+    major: 元
+    minor: 分
 XOF:
-  name: 西非法郎
-  major: 法郎
-  minor: 生丁
+    name: 西非法郎
+    major: 法郎
+    minor: 生丁
 XPF:
-  name: 太平洋法郎
-  major: 法郎
-  minor: 生丁
+    name: 太平洋法郎
+    major: 法郎
+    minor: 生丁
 YER:
-  name: 也门里亚尔
-  major: 里亚尔
-  minor: 菲尔
+    name: 也门里亚尔
+    major: 里亚尔
+    minor: 菲尔
 ZAR:
-  name: 南非兰特
-  major: 兰特
-  minor: 分
+    name: 南非兰特
+    major: 兰特
+    minor: 分
 ZMW:
-  name: 赞比亚克瓦查
-  major: 克瓦查
-  minor: 恩格韦
+    name: 赞比亚克瓦查
+    major: 克瓦查
+    minor: 恩格韦

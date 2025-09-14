@@ -1,616 +1,616 @@
 AED:
-  name: 'Дирхам ОАЭ'
-  major: дирхам
-  minor: филс
+    name: 'Дирхам ОАЭ'
+    major: дирхам
+    minor: филс
 AFN:
-  name: Афгани
-  major: афгани
-  minor: пул
+    name: Афгани
+    major: афгани
+    minor: пул
 ALL:
-  name: 'Албанский лек'
-  major: лек
-  minor: киндарка
+    name: 'Албанский лек'
+    major: лек
+    minor: киндарка
 AMD:
-  name: 'Армянский драм'
-  major: драм
-  minor: лума
+    name: 'Армянский драм'
+    major: драм
+    minor: лума
 AOA:
-  name: 'Ангольская кванза'
-  major: кванза
-  minor: сентимо
+    name: 'Ангольская кванза'
+    major: кванза
+    minor: сентимо
 ARS:
-  name: 'Аргентинское песо'
-  major: песо
-  minor: сентаво
+    name: 'Аргентинское песо'
+    major: песо
+    minor: сентаво
 AUD:
-  name: 'Австралийский доллар'
-  major: доллар
-  minor: цент
+    name: 'Австралийский доллар'
+    major: доллар
+    minor: цент
 AWG:
-  name: 'Арубанский флорин'
-  major: флорин
-  minor: цент
+    name: 'Арубанский флорин'
+    major: флорин
+    minor: цент
 AZN:
-  name: 'Азербайджанский манат'
-  major: манат
-  minor: кепик
+    name: 'Азербайджанский манат'
+    major: манат
+    minor: кепик
 BAM:
-  name: 'Боснийская конвертируемая марка'
-  major: марка
-  minor: фенинг
+    name: 'Боснийская конвертируемая марка'
+    major: марка
+    minor: фенинг
 BBD:
-  name: 'Барбадосский доллар'
-  major: доллар
-  minor: цент
+    name: 'Барбадосский доллар'
+    major: доллар
+    minor: цент
 BDT:
-  name: 'Бангладешская така'
-  major: така
-  minor: пойша
+    name: 'Бангладешская така'
+    major: така
+    minor: пойша
 BGN:
-  name: 'Болгарский лев'
-  major: лев
-  minor: стотинка
+    name: 'Болгарский лев'
+    major: лев
+    minor: стотинка
 BHD:
-  name: 'Бахрейнский динар'
-  major: динар
-  minor: филс
+    name: 'Бахрейнский динар'
+    major: динар
+    minor: филс
 BIF:
-  name: 'Бурундийский франк'
-  major: франк
-  minor: сантим
+    name: 'Бурундийский франк'
+    major: франк
+    minor: сантим
 BMD:
-  name: 'Бермудский доллар'
-  major: доллар
-  minor: цент
+    name: 'Бермудский доллар'
+    major: доллар
+    minor: цент
 BND:
-  name: 'Брунейский доллар'
-  major: доллар
-  minor: цент
+    name: 'Брунейский доллар'
+    major: доллар
+    minor: цент
 BOB:
-  name: 'Боливийский боливиано'
-  major: боливиано
-  minor: сентаво
+    name: 'Боливийский боливиано'
+    major: боливиано
+    minor: сентаво
 BRL:
-  name: 'Бразильский реал'
-  major: реал
-  minor: сентаво
+    name: 'Бразильский реал'
+    major: реал
+    minor: сентаво
 BSD:
-  name: 'Багамский доллар'
-  major: доллар
-  minor: цент
+    name: 'Багамский доллар'
+    major: доллар
+    minor: цент
 BTC:
-  name: Биткоин
-  major: биткоин
-  minor: миллибиткоин
+    name: Биткоин
+    major: биткоин
+    minor: миллибиткоин
 BTN:
-  name: Нгултрум
-  major: нгултрум
-  minor: чхертум
+    name: Нгултрум
+    major: нгултрум
+    minor: чхертум
 BWP:
-  name: 'Пула Ботсваны'
-  major: пула
-  minor: тебе
+    name: 'Пула Ботсваны'
+    major: пула
+    minor: тебе
 BYR:
-  name: 'Белорусский рубль'
-  major: рубль
-  minor: копейка
+    name: 'Белорусский рубль'
+    major: рубль
+    minor: копейка
 BZD:
-  name: 'Белизский доллар'
-  major: доллар
-  minor: цент
+    name: 'Белизский доллар'
+    major: доллар
+    minor: цент
 CAD:
-  name: 'Канадский доллар'
-  major: доллар
-  minor: цент
+    name: 'Канадский доллар'
+    major: доллар
+    minor: цент
 CDF:
-  name: 'Конголезский франк'
-  major: франк
-  minor: сантим
+    name: 'Конголезский франк'
+    major: франк
+    minor: сантим
 CHF:
-  name: 'Швейцарский франк'
-  major: франк
-  minor: раппен
+    name: 'Швейцарский франк'
+    major: франк
+    minor: раппен
 CLP:
-  name: 'Чилийское песо'
-  major: песо
-  minor: сентаво
+    name: 'Чилийское песо'
+    major: песо
+    minor: сентаво
 CNY:
-  name: 'Китайский юань'
-  major: юань
-  minor: фэнь
+    name: 'Китайский юань'
+    major: юань
+    minor: фэнь
 COP:
-  name: 'Колумбийское песо'
-  major: песо
-  minor: сентаво
+    name: 'Колумбийское песо'
+    major: песо
+    minor: сентаво
 CRC:
-  name: 'Костариканский колон'
-  major: колон
-  minor: сентаво
+    name: 'Костариканский колон'
+    major: колон
+    minor: сентаво
 CUP:
-  name: 'Кубинское песо'
-  major: песо
-  minor: сентаво
+    name: 'Кубинское песо'
+    major: песо
+    minor: сентаво
 CVE:
-  name: 'Эскудо Кабо-Верде'
-  major: эскудо
-  minor: сентаво
+    name: 'Эскудо Кабо-Верде'
+    major: эскудо
+    minor: сентаво
 CZK:
-  name: 'Чешская крона'
-  major: крона
-  minor: галер
+    name: 'Чешская крона'
+    major: крона
+    minor: галер
 DJF:
-  name: 'Джибутийский франк'
-  major: франк
-  minor: сантим
+    name: 'Джибутийский франк'
+    major: франк
+    minor: сантим
 DKK:
-  name: 'Датская крона'
-  major: крона
-  minor: эре
+    name: 'Датская крона'
+    major: крона
+    minor: эре
 DOP:
-  name: 'Доминиканское песо'
-  major: песо
-  minor: сентаво
+    name: 'Доминиканское песо'
+    major: песо
+    minor: сентаво
 DZD:
-  name: 'Алжирский динар'
-  major: динар
-  minor: сантим
+    name: 'Алжирский динар'
+    major: динар
+    minor: сантим
 EGP:
-  name: 'Египетский фунт'
-  major: фунт
-  minor: пиастр
+    name: 'Египетский фунт'
+    major: фунт
+    minor: пиастр
 ERN:
-  name: 'Эритрейская накфа'
-  major: накфа
-  minor: цент
+    name: 'Эритрейская накфа'
+    major: накфа
+    minor: цент
 ETB:
-  name: 'Эфиопский быр'
-  major: быр
-  minor: сантим
+    name: 'Эфиопский быр'
+    major: быр
+    minor: сантим
 ETH:
-  name: Эфириум
-  major: эфир
-  minor: гвей
+    name: Эфириум
+    major: эфир
+    minor: гвей
 EUR:
-  name: Евро
-  major: евро
-  minor: цент
+    name: Евро
+    major: евро
+    minor: цент
 FJD:
-  name: 'Доллар Фиджи'
-  major: доллар
-  minor: цент
+    name: 'Доллар Фиджи'
+    major: доллар
+    minor: цент
 FKP:
-  name: 'Фунт Фолклендских островов'
-  major: фунт
-  minor: пенс
+    name: 'Фунт Фолклендских островов'
+    major: фунт
+    minor: пенс
 GBP:
-  name: 'Британский фунт стерлингов'
-  major: фунт
-  minor: пенс
+    name: 'Британский фунт стерлингов'
+    major: фунт
+    minor: пенс
 GEL:
-  name: 'Грузинский лари'
-  major: лари
-  minor: тэтри
+    name: 'Грузинский лари'
+    major: лари
+    minor: тэтри
 GHS:
-  name: 'Ганский седи'
-  major: седи
-  minor: песева
+    name: 'Ганский седи'
+    major: седи
+    minor: песева
 GIP:
-  name: 'Гибралтарский фунт'
-  major: фунт
-  minor: пенс
+    name: 'Гибралтарский фунт'
+    major: фунт
+    minor: пенс
 GMD:
-  name: Даласи
-  major: даласи
-  minor: бутут
+    name: Даласи
+    major: даласи
+    minor: бутут
 GNF:
-  name: 'Гвинейский франк'
-  major: франк
-  minor: сантим
+    name: 'Гвинейский франк'
+    major: франк
+    minor: сантим
 GTQ:
-  name: 'Гватемальский кетсаль'
-  major: кетсаль
-  minor: сентаво
+    name: 'Гватемальский кетсаль'
+    major: кетсаль
+    minor: сентаво
 GYD:
-  name: 'Гайанский доллар'
-  major: доллар
-  minor: цент
+    name: 'Гайанский доллар'
+    major: доллар
+    minor: цент
 HKD:
-  name: 'Гонконгский доллар'
-  major: доллар
-  minor: цент
+    name: 'Гонконгский доллар'
+    major: доллар
+    minor: цент
 HNL:
-  name: 'Гондурасская лемпира'
-  major: лемпира
-  minor: сентаво
+    name: 'Гондурасская лемпира'
+    major: лемпира
+    minor: сентаво
 HRK:
-  name: 'Хорватская куна'
-  major: куна
-  minor: липа
+    name: 'Хорватская куна'
+    major: куна
+    minor: липа
 HTG:
-  name: 'Гурд Гаити'
-  major: гурд
-  minor: сантим
+    name: 'Гурд Гаити'
+    major: гурд
+    minor: сантим
 HUF:
-  name: 'Венгерский форинт'
-  major: форинт
-  minor: филлер
+    name: 'Венгерский форинт'
+    major: форинт
+    minor: филлер
 IDR:
-  name: 'Индонезийская рупия'
-  major: рупия
-  minor: сен
+    name: 'Индонезийская рупия'
+    major: рупия
+    minor: сен
 ILS:
-  name: 'Новый израильский шекель'
-  major: шекель
-  minor: агорот
+    name: 'Новый израильский шекель'
+    major: шекель
+    minor: агорот
 INR:
-  name: 'Индийская рупия'
-  major: рупия
-  minor: пайса
+    name: 'Индийская рупия'
+    major: рупия
+    minor: пайса
 IQD:
-  name: 'Иракский динар'
-  major: динар
-  minor: филс
+    name: 'Иракский динар'
+    major: динар
+    minor: филс
 IRR:
-  name: 'Иранский риал'
-  major: риал
-  minor: динар
+    name: 'Иранский риал'
+    major: риал
+    minor: динар
 ISK:
-  name: 'Исландская крона'
-  major: крона
-  minor: эйрир
+    name: 'Исландская крона'
+    major: крона
+    minor: эйрир
 JMD:
-  name: 'Ямайский доллар'
-  major: доллар
-  minor: цент
+    name: 'Ямайский доллар'
+    major: доллар
+    minor: цент
 JOD:
-  name: 'Иорданский динар'
-  major: динар
-  minor: пиастр
+    name: 'Иорданский динар'
+    major: динар
+    minor: пиастр
 JPY:
-  name: 'Японская иена'
-  major: иена
-  minor: сен
+    name: 'Японская иена'
+    major: иена
+    minor: сен
 KES:
-  name: 'Кенийский шиллинг'
-  major: шиллинг
-  minor: цент
+    name: 'Кенийский шиллинг'
+    major: шиллинг
+    minor: цент
 KGS:
-  name: 'Киргизский сом'
-  major: сом
-  minor: тыйын
+    name: 'Киргизский сом'
+    major: сом
+    minor: тыйын
 KHR:
-  name: 'Камбоджийский риель'
-  major: риель
-  minor: как
+    name: 'Камбоджийский риель'
+    major: риель
+    minor: как
 KMF:
-  name: 'Франк Коморских островов'
-  major: франк
-  minor: сантим
+    name: 'Франк Коморских островов'
+    major: франк
+    minor: сантим
 KPW:
-  name: 'Северокорейская вона'
-  major: вона
-  minor: чон
+    name: 'Северокорейская вона'
+    major: вона
+    minor: чон
 KRW:
-  name: 'Южнокорейская вона'
-  major: вона
-  minor: чон
+    name: 'Южнокорейская вона'
+    major: вона
+    minor: чон
 KWD:
-  name: 'Кувейтский динар'
-  major: динар
-  minor: филс
+    name: 'Кувейтский динар'
+    major: динар
+    minor: филс
 KYD:
-  name: 'Доллар Каймановых островов'
-  major: доллар
-  minor: цент
+    name: 'Доллар Каймановых островов'
+    major: доллар
+    minor: цент
 KZT:
-  name: 'Казахстанский тенге'
-  major: тенге
-  minor: тиын
+    name: 'Казахстанский тенге'
+    major: тенге
+    minor: тиын
 LAK:
-  name: 'Лаосский кип'
-  major: кип
-  minor: ат
+    name: 'Лаосский кип'
+    major: кип
+    minor: ат
 LBP:
-  name: 'Ливанский фунт'
-  major: фунт
-  minor: пиастр
+    name: 'Ливанский фунт'
+    major: фунт
+    minor: пиастр
 LRD:
-  name: 'Либерийский доллар'
-  major: доллар
-  minor: цент
+    name: 'Либерийский доллар'
+    major: доллар
+    minor: цент
 LSL:
-  name: 'Лоти Лесото'
-  major: 'лоти (малоти)'
-  minor: сенте
+    name: 'Лоти Лесото'
+    major: 'лоти (малоти)'
+    minor: сенте
 LTL:
-  name: 'Литовский лит'
-  major: лит
-  minor: центас
+    name: 'Литовский лит'
+    major: лит
+    minor: центас
 LYD:
-  name: 'Ливийский динар'
-  major: динар
-  minor: дирхам
+    name: 'Ливийский динар'
+    major: динар
+    minor: дирхам
 MAD:
-  name: 'Марокканский дирхам'
-  major: дирхам
-  minor: сантим
+    name: 'Марокканский дирхам'
+    major: дирхам
+    minor: сантим
 MDL:
-  name: 'Молдавский лей'
-  major: лей
-  minor: бань
+    name: 'Молдавский лей'
+    major: лей
+    minor: бань
 MGA:
-  name: 'Малагасийский ариари'
-  major: ариари
-  minor: ираимбиланджа
+    name: 'Малагасийский ариари'
+    major: ариари
+    minor: ираимбиланджа
 MKD:
-  name: 'Македонский денар'
-  major: денар
-  minor: дени
+    name: 'Македонский денар'
+    major: денар
+    minor: дени
 MMK:
-  name: 'Мьянманский кьят'
-  major: кьят
-  minor: пья
+    name: 'Мьянманский кьят'
+    major: кьят
+    minor: пья
 MNT:
-  name: 'Монгольский тугрик'
-  major: тугрик
-  minor: мөнгө
+    name: 'Монгольский тугрик'
+    major: тугрик
+    minor: мөнгө
 MOP:
-  name: 'Патака Макао'
-  major: патака
-  minor: аво
+    name: 'Патака Макао'
+    major: патака
+    minor: аво
 MRO:
-  name: 'Мавританская угия'
-  major: угия
-  minor: хумс
+    name: 'Мавританская угия'
+    major: угия
+    minor: хумс
 MUR:
-  name: 'Маврикийская рупия'
-  major: рупия
-  minor: цент
+    name: 'Маврикийская рупия'
+    major: рупия
+    minor: цент
 MVR:
-  name: 'Мальдивская руфия'
-  major: руфия
-  minor: лаари
+    name: 'Мальдивская руфия'
+    major: руфия
+    minor: лаари
 MWK:
-  name: 'Малавийская квача'
-  major: квача
-  minor: тамбала
+    name: 'Малавийская квача'
+    major: квача
+    minor: тамбала
 MXN:
-  name: 'Мексиканское песо'
-  major: песо
-  minor: сентаво
+    name: 'Мексиканское песо'
+    major: песо
+    minor: сентаво
 MYR:
-  name: 'Малайзийский ринггит'
-  major: ринггит
-  minor: сен
+    name: 'Малайзийский ринггит'
+    major: ринггит
+    minor: сен
 MZN:
-  name: 'Мозамбикский метикал'
-  major: метикал
-  minor: сентаво
+    name: 'Мозамбикский метикал'
+    major: метикал
+    minor: сентаво
 NAD:
-  name: 'Доллар Намибии'
-  major: доллар
-  minor: цент
+    name: 'Доллар Намибии'
+    major: доллар
+    minor: цент
 NGN:
-  name: 'Нигерийская найра'
-  major: найра
-  minor: кобо
+    name: 'Нигерийская найра'
+    major: найра
+    minor: кобо
 NIO:
-  name: 'Никарагуанская кордоба'
-  major: кордоба
-  minor: сентаво
+    name: 'Никарагуанская кордоба'
+    major: кордоба
+    minor: сентаво
 NOK:
-  name: 'Норвежская крона'
-  major: крона
-  minor: эре
+    name: 'Норвежская крона'
+    major: крона
+    minor: эре
 NPR:
-  name: 'Непальская рупия'
-  major: рупия
-  minor: пайса
+    name: 'Непальская рупия'
+    major: рупия
+    minor: пайса
 NZD:
-  name: 'Новозеландский доллар'
-  major: доллар
-  minor: цент
+    name: 'Новозеландский доллар'
+    major: доллар
+    minor: цент
 OMR:
-  name: 'Оманский риал'
-  major: риал
-  minor: байса
+    name: 'Оманский риал'
+    major: риал
+    minor: байса
 PAB:
-  name: 'Панамский бальбоа'
-  major: бальбоа
-  minor: центесимо
+    name: 'Панамский бальбоа'
+    major: бальбоа
+    minor: центесимо
 PEN:
-  name: 'Перуанский соль'
-  major: соль
-  minor: сентаво
+    name: 'Перуанский соль'
+    major: соль
+    minor: сентаво
 PGK:
-  name: 'Кина Папуа — Новой Гвинеи'
-  major: кина
-  minor: тоя
+    name: 'Кина Папуа — Новой Гвинеи'
+    major: кина
+    minor: тоя
 PHP:
-  name: 'Филиппинское песо'
-  major: песо
-  minor: сентиимо
+    name: 'Филиппинское песо'
+    major: песо
+    minor: сентиимо
 PKR:
-  name: 'Пакистанская рупия'
-  major: рупия
-  minor: пайса
+    name: 'Пакистанская рупия'
+    major: рупия
+    minor: пайса
 PLN:
-  name: 'Польский злотый'
-  major: злотый
-  minor: грош
+    name: 'Польский злотый'
+    major: злотый
+    minor: грош
 PYG:
-  name: 'Парагвайский гуарани'
-  major: гуарани
-  minor: сентаво
+    name: 'Парагвайский гуарани'
+    major: гуарани
+    minor: сентаво
 QAR:
-  name: 'Катарский риал'
-  major: риал
-  minor: дирхам
+    name: 'Катарский риал'
+    major: риал
+    minor: дирхам
 RON:
-  name: 'Румынский лей'
-  major: лей
-  minor: бани
+    name: 'Румынский лей'
+    major: лей
+    minor: бани
 RSD:
-  name: 'Сербский динар'
-  major: динар
-  minor: пара
+    name: 'Сербский динар'
+    major: динар
+    minor: пара
 RUB:
-  name: 'Российский рубль'
-  major: рубль
-  minor: копейка
+    name: 'Российский рубль'
+    major: рубль
+    minor: копейка
 RWF:
-  name: 'Франк Руанды'
-  major: франк
-  minor: сантим
+    name: 'Франк Руанды'
+    major: франк
+    minor: сантим
 SAR:
-  name: 'Саудовский риял'
-  major: риал
-  minor: халала
+    name: 'Саудовский риял'
+    major: риал
+    minor: халала
 SBD:
-  name: 'Доллар Соломоновых островов'
-  major: доллар
-  minor: цент
+    name: 'Доллар Соломоновых островов'
+    major: доллар
+    minor: цент
 SCR:
-  name: 'Сейшельская рупия'
-  major: рупия
-  minor: цент
+    name: 'Сейшельская рупия'
+    major: рупия
+    minor: цент
 SDG:
-  name: 'Суданский фунт'
-  major: фунт
-  minor: пиастр
+    name: 'Суданский фунт'
+    major: фунт
+    minor: пиастр
 SEK:
-  name: 'Шведская крона'
-  major: крона
-  minor: эре
+    name: 'Шведская крона'
+    major: крона
+    minor: эре
 SGD:
-  name: 'Сингапурский доллар'
-  major: доллар
-  minor: цент
+    name: 'Сингапурский доллар'
+    major: доллар
+    minor: цент
 SHP:
-  name: 'Фунт Святой Елены'
-  major: фунт
-  minor: пенс
+    name: 'Фунт Святой Елены'
+    major: фунт
+    minor: пенс
 SLL:
-  name: 'Леоне Сьерра-Леоне'
-  major: леоне
-  minor: цент
+    name: 'Леоне Сьерра-Леоне'
+    major: леоне
+    minor: цент
 SOS:
-  name: 'Сомалийский шиллинг'
-  major: шиллинг
-  minor: сенти
+    name: 'Сомалийский шиллинг'
+    major: шиллинг
+    minor: сенти
 SRD:
-  name: 'Суринамский доллар'
-  major: доллар
-  minor: цент
+    name: 'Суринамский доллар'
+    major: доллар
+    minor: цент
 STD:
-  name: 'Добра Сан-Томе и Принсипи'
-  major: добра
-  minor: сантим
+    name: 'Добра Сан-Томе и Принсипи'
+    major: добра
+    minor: сантим
 SYP:
-  name: 'Сирийский фунт'
-  major: фунт
-  minor: пиастр
+    name: 'Сирийский фунт'
+    major: фунт
+    minor: пиастр
 SZL:
-  name: 'Свазилендский лилангени'
-  major: лилангени
-  minor: цент
+    name: 'Свазилендский лилангени'
+    major: лилангени
+    minor: цент
 THB:
-  name: 'Тайский бат'
-  major: бат
-  minor: сатанг
+    name: 'Тайский бат'
+    major: бат
+    minor: сатанг
 TJS:
-  name: 'Таджикский сомони'
-  major: сомони
-  minor: дирам
+    name: 'Таджикский сомони'
+    major: сомони
+    minor: дирам
 TMT:
-  name: 'Туркменский манат'
-  major: манат
-  minor: тенге
+    name: 'Туркменский манат'
+    major: манат
+    minor: тенге
 TND:
-  name: 'Тунисский динар'
-  major: динар
-  minor: миллим
+    name: 'Тунисский динар'
+    major: динар
+    minor: миллим
 TOP:
-  name: 'Тонганская паанга'
-  major: хау
-  minor: сенити
+    name: 'Тонганская паанга'
+    major: хау
+    minor: сенити
 TRY:
-  name: 'Турецкая лира'
-  major: лира
-  minor: куруш
+    name: 'Турецкая лира'
+    major: лира
+    minor: куруш
 TTD:
-  name: 'Доллар Тринидада и Тобаго'
-  major: доллар
-  minor: цент
+    name: 'Доллар Тринидада и Тобаго'
+    major: доллар
+    minor: цент
 TWD:
-  name: 'Новый тайваньский доллар'
-  major: доллар
-  minor: цзяо
+    name: 'Новый тайваньский доллар'
+    major: доллар
+    minor: цзяо
 TZS:
-  name: 'Танзанийский шиллинг'
-  major: шиллинг
-  minor: цент
+    name: 'Танзанийский шиллинг'
+    major: шиллинг
+    minor: цент
 UAH:
-  name: 'Украинская гривна'
-  major: гривна
-  minor: копейка
+    name: 'Украинская гривна'
+    major: гривна
+    minor: копейка
 UGX:
-  name: 'Угандийский шиллинг'
-  major: шиллинг
-  minor: цент
+    name: 'Угандийский шиллинг'
+    major: шиллинг
+    minor: цент
 USD:
-  name: 'Доллар США'
-  major: доллар
-  minor: цент
+    name: 'Доллар США'
+    major: доллар
+    minor: цент
 UYU:
-  name: 'Уругвайское песо'
-  major: песо
-  minor: сентаво
+    name: 'Уругвайское песо'
+    major: песо
+    minor: сентаво
 UZS:
-  name: 'Узбекский сум'
-  major: сум
-  minor: тийин
+    name: 'Узбекский сум'
+    major: сум
+    minor: тийин
 VEF:
-  name: 'Венесуэльский боливар'
-  major: боливар
-  minor: сентаво
+    name: 'Венесуэльский боливар'
+    major: боливар
+    minor: сентаво
 VND:
-  name: 'Вьетнамский донг'
-  major: донг
-  minor: су
+    name: 'Вьетнамский донг'
+    major: донг
+    minor: су
 VUV:
-  name: 'Вату Вануату'
-  major: вату
-  minor: ''
+    name: 'Вату Вануату'
+    major: вату
+    minor: ''
 WST:
-  name: 'Самоанская тала'
-  major: тала
-  minor: сене
+    name: 'Самоанская тала'
+    major: тала
+    minor: сене
 XAF:
-  name: 'Франк КФА BEAC'
-  major: франк
-  minor: сантим
+    name: 'Франк КФА BEAC'
+    major: франк
+    minor: сантим
 XCD:
-  name: 'Восточно-карибский доллар'
-  major: доллар
-  minor: цент
+    name: 'Восточно-карибский доллар'
+    major: доллар
+    minor: цент
 XOF:
-  name: 'Франк КФА BCEAO'
-  major: франк
-  minor: сантим
+    name: 'Франк КФА BCEAO'
+    major: франк
+    minor: сантим
 XPF:
-  name: 'Франк КФП'
-  major: франк
-  minor: сантим
+    name: 'Франк КФП'
+    major: франк
+    minor: сантим
 YER:
-  name: 'Йеменский риал'
-  major: риал
-  minor: филс
+    name: 'Йеменский риал'
+    major: риал
+    minor: филс
 ZAR:
-  name: 'Южноафриканский ранд'
-  major: ранд
-  minor: цент
+    name: 'Южноафриканский ранд'
+    major: ранд
+    minor: цент
 ZMW:
-  name: 'Замбийская квача'
-  major: квача
-  minor: нгве
+    name: 'Замбийская квача'
+    major: квача
+    minor: нгве

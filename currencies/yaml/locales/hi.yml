@@ -1,616 +1,616 @@
 AED:
-  name: 'संयुक्त अरब अमीरात दिरहम'
-  major: दिरहम
-  minor: फिल्स
+    name: 'संयुक्त अरब अमीरात दिरहम'
+    major: दिरहम
+    minor: फिल्स
 AFN:
-  name: 'अफ़ग़ान अफ़ग़ानी'
-  major: अफ़ग़ानी
-  minor: पुल
+    name: 'अफ़ग़ान अफ़ग़ानी'
+    major: अफ़ग़ानी
+    minor: पुल
 ALL:
-  name: 'अल्बानियाई लेक'
-  major: लेक
-  minor: किंदार्के
+    name: 'अल्बानियाई लेक'
+    major: लेक
+    minor: किंदार्के
 AMD:
-  name: 'आर्मीनियाई द्राम'
-  major: द्राम
-  minor: लुमा
+    name: 'आर्मीनियाई द्राम'
+    major: द्राम
+    minor: लुमा
 AOA:
-  name: 'अंगोला क्वांज़ा'
-  major: क्वांज़ा
-  minor: सेंटिमोस
+    name: 'अंगोला क्वांज़ा'
+    major: क्वांज़ा
+    minor: सेंटिमोस
 ARS:
-  name: 'अर्जेंटीना पेसो'
-  major: पेसो
-  minor: सेंटावो
+    name: 'अर्जेंटीना पेसो'
+    major: पेसो
+    minor: सेंटावो
 AUD:
-  name: 'ऑस्ट्रेलियाई डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'ऑस्ट्रेलियाई डॉलर'
+    major: डॉलर
+    minor: सेंट
 AWG:
-  name: 'अरूबा फ्लोरिन'
-  major: फ्लोरिन
-  minor: सेंट
+    name: 'अरूबा फ्लोरिन'
+    major: फ्लोरिन
+    minor: सेंट
 AZN:
-  name: 'अज़रबैजानी मनात'
-  major: मनात
-  minor: क़ेपिक
+    name: 'अज़रबैजानी मनात'
+    major: मनात
+    minor: क़ेपिक
 BAM:
-  name: 'बोस्निया-हर्ज़ेगोविना परिवर्तनीय मार्क'
-  major: 'परिवर्तनीय मार्क'
-  minor: फेनिंग
+    name: 'बोस्निया-हर्ज़ेगोविना परिवर्तनीय मार्क'
+    major: 'परिवर्तनीय मार्क'
+    minor: फेनिंग
 BBD:
-  name: 'बारबाडोस डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'बारबाडोस डॉलर'
+    major: डॉलर
+    minor: सेंट
 BDT:
-  name: 'बांग्लादेशी टका'
-  major: टका
-  minor: पैशा
+    name: 'बांग्लादेशी टका'
+    major: टका
+    minor: पैशा
 BGN:
-  name: 'बुल्गारियाई लेव'
-  major: लेव
-  minor: स्टोटिंकी
+    name: 'बुल्गारियाई लेव'
+    major: लेव
+    minor: स्टोटिंकी
 BHD:
-  name: 'बहरीनी दिनार'
-  major: दिनार
-  minor: फिल्स
+    name: 'बहरीनी दिनार'
+    major: दिनार
+    minor: फिल्स
 BIF:
-  name: 'बुरुंडी फ्रैंक'
-  major: फ्रैंक
-  minor: सेंटाइम
+    name: 'बुरुंडी फ्रैंक'
+    major: फ्रैंक
+    minor: सेंटाइम
 BMD:
-  name: 'बरमूडा डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'बरमूडा डॉलर'
+    major: डॉलर
+    minor: सेंट
 BND:
-  name: 'ब्रुनेई डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'ब्रुनेई डॉलर'
+    major: डॉलर
+    minor: सेंट
 BOB:
-  name: 'बोलिवियाई बोलिवियानो'
-  major: बोलिवियानो
-  minor: सेंटावो
+    name: 'बोलिवियाई बोलिवियानो'
+    major: बोलिवियानो
+    minor: सेंटावो
 BRL:
-  name: 'ब्राज़ीलियाई रियाल'
-  major: रियाल
-  minor: सेंटावो
+    name: 'ब्राज़ीलियाई रियाल'
+    major: रियाल
+    minor: सेंटावो
 BSD:
-  name: 'बहामाई डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'बहामाई डॉलर'
+    major: डॉलर
+    minor: सेंट
 BTC:
-  name: बिटकॉइन
-  major: बिटकॉइन
-  minor: मिलिबिटकॉइन
+    name: बिटकॉइन
+    major: बिटकॉइन
+    minor: मिलिबिटकॉइन
 BTN:
-  name: नगुलट्रम
-  major: नगुलट्रम
-  minor: छेर्तुम
+    name: नगुलट्रम
+    major: नगुलट्रम
+    minor: छेर्तुम
 BWP:
-  name: 'बोत्सवाना पुला'
-  major: पुला
-  minor: थेबे
+    name: 'बोत्सवाना पुला'
+    major: पुला
+    minor: थेबे
 BYR:
-  name: 'बेलारूसी रूबल'
-  major: रूबल
-  minor: कापेयका
+    name: 'बेलारूसी रूबल'
+    major: रूबल
+    minor: कापेयका
 BZD:
-  name: 'बेलीज डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'बेलीज डॉलर'
+    major: डॉलर
+    minor: सेंट
 CAD:
-  name: 'कनाडाई डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'कनाडाई डॉलर'
+    major: डॉलर
+    minor: सेंट
 CDF:
-  name: 'कोंगोली फ्रैंक'
-  major: फ्रैंक
-  minor: सेंटाइम
+    name: 'कोंगोली फ्रैंक'
+    major: फ्रैंक
+    minor: सेंटाइम
 CHF:
-  name: 'स्विस फ्रैंक'
-  major: फ्रैंक
-  minor: राप्पेन
+    name: 'स्विस फ्रैंक'
+    major: फ्रैंक
+    minor: राप्पेन
 CLP:
-  name: 'चिली पेसो'
-  major: पेसो
-  minor: सेंटावो
+    name: 'चिली पेसो'
+    major: पेसो
+    minor: सेंटावो
 CNY:
-  name: 'चीनी युआन'
-  major: युआन
-  minor: फेन
+    name: 'चीनी युआन'
+    major: युआन
+    minor: फेन
 COP:
-  name: 'कोलंबियाई पेसो'
-  major: पेसो
-  minor: सेंटावो
+    name: 'कोलंबियाई पेसो'
+    major: पेसो
+    minor: सेंटावो
 CRC:
-  name: 'कोस्टा रिका कोलोन'
-  major: कोलोन
-  minor: पेंस
+    name: 'कोस्टा रिका कोलोन'
+    major: कोलोन
+    minor: पेंस
 CUP:
-  name: 'क्यूबा पेसो'
-  major: पेसो
-  minor: सेंटावो
+    name: 'क्यूबा पेसो'
+    major: पेसो
+    minor: सेंटावो
 CVE:
-  name: 'केप वर्डियन एस्कुडो'
-  major: एस्कुडो
-  minor: सेंटावो
+    name: 'केप वर्डियन एस्कुडो'
+    major: एस्कुडो
+    minor: सेंटावो
 CZK:
-  name: 'चेक कोरुना'
-  major: कोरुना
-  minor: हालेर्ज़
+    name: 'चेक कोरुना'
+    major: कोरुना
+    minor: हालेर्ज़
 DJF:
-  name: 'जिबूती फ्रैंक'
-  major: फ्रैंक
-  minor: सेंटाइम
+    name: 'जिबूती फ्रैंक'
+    major: फ्रैंक
+    minor: सेंटाइम
 DKK:
-  name: 'डेनिश क्रोन'
-  major: क्रोनर
-  minor: क्रोनर
+    name: 'डेनिश क्रोन'
+    major: क्रोनर
+    minor: क्रोनर
 DOP:
-  name: 'डोमिनिकन पेसो'
-  major: पेसो
-  minor: सेंटावो
+    name: 'डोमिनिकन पेसो'
+    major: पेसो
+    minor: सेंटावो
 DZD:
-  name: 'अल्जीरियाई दिनार'
-  major: दिनार
-  minor: संतिम
+    name: 'अल्जीरियाई दिनार'
+    major: दिनार
+    minor: संतिम
 EGP:
-  name: 'मिस्र पाउंड'
-  major: पाउंड
-  minor: पियास्त्र
+    name: 'मिस्र पाउंड'
+    major: पाउंड
+    minor: पियास्त्र
 ERN:
-  name: 'एरीट्रियन नाफ्का'
-  major: नाफ्का
-  minor: सेंट
+    name: 'एरीट्रियन नाफ्का'
+    major: नाफ्का
+    minor: सेंट
 ETB:
-  name: 'इथियोपियाई बिर्र'
-  major: बिर्र
-  minor: संतिम
+    name: 'इथियोपियाई बिर्र'
+    major: बिर्र
+    minor: संतिम
 ETH:
-  name: एथेरियम
-  major: ईथर
-  minor: ग्वेई
+    name: एथेरियम
+    major: ईथर
+    minor: ग्वेई
 EUR:
-  name: यूरो
-  major: यूरो
-  minor: सेंट
+    name: यूरो
+    major: यूरो
+    minor: सेंट
 FJD:
-  name: 'फिजी डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'फिजी डॉलर'
+    major: डॉलर
+    minor: सेंट
 FKP:
-  name: 'फॉकलैंड द्वीप पाउंड'
-  major: पाउंड
-  minor: पेंस
+    name: 'फॉकलैंड द्वीप पाउंड'
+    major: पाउंड
+    minor: पेंस
 GBP:
-  name: 'ब्रिटिश पाउंड स्टर्लिंग'
-  major: पाउंड
-  minor: पेंस
+    name: 'ब्रिटिश पाउंड स्टर्लिंग'
+    major: पाउंड
+    minor: पेंस
 GEL:
-  name: 'जॉर्जियाई लारी'
-  major: लारी
-  minor: तेत्री
+    name: 'जॉर्जियाई लारी'
+    major: लारी
+    minor: तेत्री
 GHS:
-  name: 'घानाई सेडी'
-  major: सेडी
-  minor: पेसवा
+    name: 'घानाई सेडी'
+    major: सेडी
+    minor: पेसवा
 GIP:
-  name: 'जिब्राल्टर पाउंड'
-  major: पाउंड
-  minor: पेंस
+    name: 'जिब्राल्टर पाउंड'
+    major: पाउंड
+    minor: पेंस
 GMD:
-  name: दलासी
-  major: दलासी
-  minor: बुटुट
+    name: दलासी
+    major: दलासी
+    minor: बुटुट
 GNF:
-  name: 'गिनी फ्रैंक'
-  major: फ्रैंक
-  minor: सेंटाइम
+    name: 'गिनी फ्रैंक'
+    major: फ्रैंक
+    minor: सेंटाइम
 GTQ:
-  name: 'ग्वाटेमाला क्वेट्ज़ल'
-  major: क्वेट्ज़ल
-  minor: सेंटावो
+    name: 'ग्वाटेमाला क्वेट्ज़ल'
+    major: क्वेट्ज़ल
+    minor: सेंटावो
 GYD:
-  name: 'गयाना डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'गयाना डॉलर'
+    major: डॉलर
+    minor: सेंट
 HKD:
-  name: 'हांगकांग डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'हांगकांग डॉलर'
+    major: डॉलर
+    minor: सेंट
 HNL:
-  name: 'होंडुरन लेम्पिरा'
-  major: लेम्पिरा
-  minor: सेंटावो
+    name: 'होंडुरन लेम्पिरा'
+    major: लेम्पिरा
+    minor: सेंटावो
 HRK:
-  name: 'क्रोएशियाई कुना'
-  major: कुना
-  minor: लीपा
+    name: 'क्रोएशियाई कुना'
+    major: कुना
+    minor: लीपा
 HTG:
-  name: 'हैती गूर्ड'
-  major: गूर्ड
-  minor: सेंटाइम
+    name: 'हैती गूर्ड'
+    major: गूर्ड
+    minor: सेंटाइम
 HUF:
-  name: 'हंगेरियन फोरिंट'
-  major: फोरिंट
-  minor: फिलेर
+    name: 'हंगेरियन फोरिंट'
+    major: फोरिंट
+    minor: फिलेर
 IDR:
-  name: 'इंडोनेशियाई रुपिया'
-  major: रुपिया
-  minor: सेन
+    name: 'इंडोनेशियाई रुपिया'
+    major: रुपिया
+    minor: सेन
 ILS:
-  name: 'इज़राइली न्यू शेकेल'
-  major: शेकेल
-  minor: अगोरत
+    name: 'इज़राइली न्यू शेकेल'
+    major: शेकेल
+    minor: अगोरत
 INR:
-  name: 'भारतीय रुपया'
-  major: रुपया
-  minor: पैसा
+    name: 'भारतीय रुपया'
+    major: रुपया
+    minor: पैसा
 IQD:
-  name: 'इराकी दिनार'
-  major: दिनार
-  minor: फिल्स
+    name: 'इराकी दिनार'
+    major: दिनार
+    minor: फिल्स
 IRR:
-  name: 'ईरानी रियाल'
-  major: रियाल
-  minor: दिनार
+    name: 'ईरानी रियाल'
+    major: रियाल
+    minor: दिनार
 ISK:
-  name: 'आइसलैंडिक क्रोना'
-  major: क्रोना
-  minor: एयरिर
+    name: 'आइसलैंडिक क्रोना'
+    major: क्रोना
+    minor: एयरिर
 JMD:
-  name: 'जमैका डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'जमैका डॉलर'
+    major: डॉलर
+    minor: सेंट
 JOD:
-  name: 'जॉर्डनियन दिनार'
-  major: दिनार
-  minor: पियास्त्र
+    name: 'जॉर्डनियन दिनार'
+    major: दिनार
+    minor: पियास्त्र
 JPY:
-  name: 'जापानी येन'
-  major: येन
-  minor: सेन
+    name: 'जापानी येन'
+    major: येन
+    minor: सेन
 KES:
-  name: 'केन्याई शिलिंग'
-  major: शिलिंग
-  minor: सेंट
+    name: 'केन्याई शिलिंग'
+    major: शिलिंग
+    minor: सेंट
 KGS:
-  name: 'किर्गिज़स्तानी सोम'
-  major: सोम
-  minor: त्यिन
+    name: 'किर्गिज़स्तानी सोम'
+    major: सोम
+    minor: त्यिन
 KHR:
-  name: 'कंबोडियन रियल'
-  major: रियल
-  minor: काक
+    name: 'कंबोडियन रियल'
+    major: रियल
+    minor: काक
 KMF:
-  name: 'कोमोरियन फ्रैंक'
-  major: फ्रैंक
-  minor: सेंटाइम
+    name: 'कोमोरियन फ्रैंक'
+    major: फ्रैंक
+    minor: सेंटाइम
 KPW:
-  name: 'उत्तर कोरियाई वॉन'
-  major: वॉन
-  minor: चोन
+    name: 'उत्तर कोरियाई वॉन'
+    major: वॉन
+    minor: चोन
 KRW:
-  name: 'दक्षिण कोरियाई वॉन'
-  major: वॉन
-  minor: जोन
+    name: 'दक्षिण कोरियाई वॉन'
+    major: वॉन
+    minor: जोन
 KWD:
-  name: 'कुवैती दिनार'
-  major: दिनार
-  minor: फिल्स
+    name: 'कुवैती दिनार'
+    major: दिनार
+    minor: फिल्स
 KYD:
-  name: 'केमैन द्वीप डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'केमैन द्वीप डॉलर'
+    major: डॉलर
+    minor: सेंट
 KZT:
-  name: 'कजाखस्तानी टेंगे'
-  major: टेंगे
-  minor: तिइन
+    name: 'कजाखस्तानी टेंगे'
+    major: टेंगे
+    minor: तिइन
 LAK:
-  name: 'लाओ किप'
-  major: किप
-  minor: अत्त
+    name: 'लाओ किप'
+    major: किप
+    minor: अत्त
 LBP:
-  name: 'लेबनानी पाउंड'
-  major: पाउंड
-  minor: पियास्त्र
+    name: 'लेबनानी पाउंड'
+    major: पाउंड
+    minor: पियास्त्र
 LRD:
-  name: 'लाइबेरियाई डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'लाइबेरियाई डॉलर'
+    major: डॉलर
+    minor: सेंट
 LSL:
-  name: 'लेसोथो लोटी'
-  major: 'लोटी (मालोटी)'
-  minor: सेंते
+    name: 'लेसोथो लोटी'
+    major: 'लोटी (मालोटी)'
+    minor: सेंते
 LTL:
-  name: 'लिथुआनियाई लिटास'
-  major: लिटास
-  minor: सेंटास
+    name: 'लिथुआनियाई लिटास'
+    major: लिटास
+    minor: सेंटास
 LYD:
-  name: 'लीबियाई दिनार'
-  major: दिनार
-  minor: दिरहम
+    name: 'लीबियाई दिनार'
+    major: दिनार
+    minor: दिरहम
 MAD:
-  name: 'मोरक्कन दिरहम'
-  major: दिरहम
-  minor: संतिम
+    name: 'मोरक्कन दिरहम'
+    major: दिरहम
+    minor: संतिम
 MDL:
-  name: 'मोल्दोवन लियू'
-  major: लियू
-  minor: बान
+    name: 'मोल्दोवन लियू'
+    major: लियू
+    minor: बान
 MGA:
-  name: 'मालागासी आरियारी'
-  major: आरियारी
-  minor: इराइम्बिलांजा
+    name: 'मालागासी आरियारी'
+    major: आरियारी
+    minor: इराइम्बिलांजा
 MKD:
-  name: 'मैसिडोनियन दिनार'
-  major: दिनार
-  minor: देनी
+    name: 'मैसिडोनियन दिनार'
+    major: दिनार
+    minor: देनी
 MMK:
-  name: 'म्यांमार क्यात'
-  major: क्यात
-  minor: प्या
+    name: 'म्यांमार क्यात'
+    major: क्यात
+    minor: प्या
 MNT:
-  name: 'मंगोलियाई तुग्रिक'
-  major: तुग्रिक
-  minor: मोंगो
+    name: 'मंगोलियाई तुग्रिक'
+    major: तुग्रिक
+    minor: मोंगो
 MOP:
-  name: 'मकानीज पटाका'
-  major: पटाका
-  minor: हो
+    name: 'मकानीज पटाका'
+    major: पटाका
+    minor: हो
 MRO:
-  name: 'मॉरिटानियन औगुइया'
-  major: औगुइया
-  minor: खौम्स
+    name: 'मॉरिटानियन औगुइया'
+    major: औगुइया
+    minor: खौम्स
 MUR:
-  name: 'मॉरीशस रुपया'
-  major: रुपया
-  minor: सेंट
+    name: 'मॉरीशस रुपया'
+    major: रुपया
+    minor: सेंट
 MVR:
-  name: 'मालदीवियन रूफिया'
-  major: रूफिया
-  minor: लारी
+    name: 'मालदीवियन रूफिया'
+    major: रूफिया
+    minor: लारी
 MWK:
-  name: 'मलावी क्वाचा'
-  major: क्वाचा
-  minor: टंबाला
+    name: 'मलावी क्वाचा'
+    major: क्वाचा
+    minor: टंबाला
 MXN:
-  name: 'मेक्सिकन पेसो'
-  major: डॉलर
-  minor: सेंटावो
+    name: 'मेक्सिकन पेसो'
+    major: डॉलर
+    minor: सेंटावो
 MYR:
-  name: 'मलेशियाई रिंगित'
-  major: रिंगित
-  minor: सेन
+    name: 'मलेशियाई रिंगित'
+    major: रिंगित
+    minor: सेन
 MZN:
-  name: 'मोज़ाम्बिकन मेटिकल'
-  major: मेटिकल
-  minor: सेंटावो
+    name: 'मोज़ाम्बिकन मेटिकल'
+    major: मेटिकल
+    minor: सेंटावो
 NAD:
-  name: 'नामीबियाई डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'नामीबियाई डॉलर'
+    major: डॉलर
+    minor: सेंट
 NGN:
-  name: 'नाइजीरियाई नायरा'
-  major: नायरा
-  minor: कोबो
+    name: 'नाइजीरियाई नायरा'
+    major: नायरा
+    minor: कोबो
 NIO:
-  name: 'निकारागुआन कोरडोबा'
-  major: कोरडोबा
-  minor: सेंटावो
+    name: 'निकारागुआन कोरडोबा'
+    major: कोरडोबा
+    minor: सेंटावो
 NOK:
-  name: 'नॉर्वेजियन क्रोन'
-  major: क्रोन
-  minor: ओरे
+    name: 'नॉर्वेजियन क्रोन'
+    major: क्रोन
+    minor: ओरे
 NPR:
-  name: 'नेपाली रुपया'
-  major: रुपया
-  minor: पैसा
+    name: 'नेपाली रुपया'
+    major: रुपया
+    minor: पैसा
 NZD:
-  name: 'न्यूजीलैंड डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'न्यूजीलैंड डॉलर'
+    major: डॉलर
+    minor: सेंट
 OMR:
-  name: 'ओमानी रियाल'
-  major: रियाल
-  minor: बैसा
+    name: 'ओमानी रियाल'
+    major: रियाल
+    minor: बैसा
 PAB:
-  name: 'पनामानियन बालबोआ'
-  major: बालबोआ
-  minor: सेंट
+    name: 'पनामानियन बालबोआ'
+    major: बालबोआ
+    minor: सेंट
 PEN:
-  name: 'पेरुवियन न्यूवो सोल'
-  major: 'न्यूवो सोल'
-  minor: सेंट
+    name: 'पेरुवियन न्यूवो सोल'
+    major: 'न्यूवो सोल'
+    minor: सेंट
 PGK:
-  name: 'पापुआ न्यू गिनी कीना'
-  major: कीना
-  minor: टोएआ
+    name: 'पापुआ न्यू गिनी कीना'
+    major: कीना
+    minor: टोएआ
 PHP:
-  name: 'फिलिपीनी पेसो'
-  major: पेसो
-  minor: सेंटिमो
+    name: 'फिलिपीनी पेसो'
+    major: पेसो
+    minor: सेंटिमो
 PKR:
-  name: 'पाकिस्तानी रुपया'
-  major: रुपया
-  minor: पैसा
+    name: 'पाकिस्तानी रुपया'
+    major: रुपया
+    minor: पैसा
 PLN:
-  name: 'पोलिश ज़्लॉटी'
-  major: ज़्लॉटी
-  minor: ग्रोस्ज़
+    name: 'पोलिश ज़्लॉटी'
+    major: ज़्लॉटी
+    minor: ग्रोस्ज़
 PYG:
-  name: 'पैराग्वेयाई गुआरानी'
-  major: गुआरानी
-  minor: सेंट
+    name: 'पैराग्वेयाई गुआरानी'
+    major: गुआरानी
+    minor: सेंट
 QAR:
-  name: 'क़तरी रियाल'
-  major: रियाल
-  minor: दिरहम
+    name: 'क़तरी रियाल'
+    major: रियाल
+    minor: दिरहम
 RON:
-  name: 'रोमानियाई लियू'
-  major: लियू
-  minor: बानी
+    name: 'रोमानियाई लियू'
+    major: लियू
+    minor: बानी
 RSD:
-  name: 'सर्बियाई दिनार'
-  major: दिनार
-  minor: पारा
+    name: 'सर्बियाई दिनार'
+    major: दिनार
+    minor: पारा
 RUB:
-  name: 'रूसी रूबल'
-  major: रूबल
-  minor: कोपेका
+    name: 'रूसी रूबल'
+    major: रूबल
+    minor: कोपेका
 RWF:
-  name: 'रवांडा फ्रैंक'
-  major: फ्रैंक
-  minor: सेंटाइम
+    name: 'रवांडा फ्रैंक'
+    major: फ्रैंक
+    minor: सेंटाइम
 SAR:
-  name: 'सऊदी रियाल'
-  major: रियाल
-  minor: हालाला
+    name: 'सऊदी रियाल'
+    major: रियाल
+    minor: हालाला
 SBD:
-  name: 'सोलोमन द्वीप डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'सोलोमन द्वीप डॉलर'
+    major: डॉलर
+    minor: सेंट
 SCR:
-  name: 'सेशेलोइस रुपया'
-  major: रुपया
-  minor: सेंट
+    name: 'सेशेलोइस रुपया'
+    major: रुपया
+    minor: सेंट
 SDG:
-  name: 'सूडानी पाउंड'
-  major: पाउंड
-  minor: पियास्त्र
+    name: 'सूडानी पाउंड'
+    major: पाउंड
+    minor: पियास्त्र
 SEK:
-  name: 'स्वीडिश क्रोना'
-  major: क्रोना
-  minor: ओरेन
+    name: 'स्वीडिश क्रोना'
+    major: क्रोना
+    minor: ओरेन
 SGD:
-  name: 'सिंगापुर डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'सिंगापुर डॉलर'
+    major: डॉलर
+    minor: सेंट
 SHP:
-  name: 'सेंट हेलेना पाउंड'
-  major: पाउंड
-  minor: पेंस
+    name: 'सेंट हेलेना पाउंड'
+    major: पाउंड
+    minor: पेंस
 SLL:
-  name: 'सिएरा लियोनियन लिओन'
-  major: लिओन
-  minor: सेंट
+    name: 'सिएरा लियोनियन लिओन'
+    major: लिओन
+    minor: सेंट
 SOS:
-  name: 'सोमाली शिलिंग'
-  major: शिलिंग
-  minor: सेंटी
+    name: 'सोमाली शिलिंग'
+    major: शिलिंग
+    minor: सेंटी
 SRD:
-  name: 'सूरीनाम डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'सूरीनाम डॉलर'
+    major: डॉलर
+    minor: सेंट
 STD:
-  name: 'साओ टोमे और प्रिंसिपे डोब्रा'
-  major: डोब्रा
-  minor: सेंटाइम
+    name: 'साओ टोमे और प्रिंसिपे डोब्रा'
+    major: डोब्रा
+    minor: सेंटाइम
 SYP:
-  name: 'सीरियाई पाउंड'
-  major: पाउंड
-  minor: पियास्त्र
+    name: 'सीरियाई पाउंड'
+    major: पाउंड
+    minor: पियास्त्र
 SZL:
-  name: 'स्वाज़ी लिलांगेनी'
-  major: लिलांगेनी
-  minor: सेंट
+    name: 'स्वाज़ी लिलांगेनी'
+    major: लिलांगेनी
+    minor: सेंट
 THB:
-  name: 'थाई बहत'
-  major: बहत
-  minor: सातांग
+    name: 'थाई बहत'
+    major: बहत
+    minor: सातांग
 TJS:
-  name: 'ताजिकिस्तानी सोमोनी'
-  major: सोमोनी
-  minor: दिरम
+    name: 'ताजिकिस्तानी सोमोनी'
+    major: सोमोनी
+    minor: दिरम
 TMT:
-  name: 'तुर्कमेनिस्तान मनात'
-  major: मनात
-  minor: तेंगे
+    name: 'तुर्कमेनिस्तान मनात'
+    major: मनात
+    minor: तेंगे
 TND:
-  name: 'ट्यूनीशियाई दिनार'
-  major: दिनार
-  minor: मिलिम
+    name: 'ट्यूनीशियाई दिनार'
+    major: दिनार
+    minor: मिलिम
 TOP:
-  name: 'टोंगन पांगा'
-  major: हाउ
-  minor: सेनिति
+    name: 'टोंगन पांगा'
+    major: हाउ
+    minor: सेनिति
 TRY:
-  name: 'तुर्की लीरा'
-  major: लीरा
-  minor: कुरुश
+    name: 'तुर्की लीरा'
+    major: लीरा
+    minor: कुरुश
 TTD:
-  name: 'त्रिनिदाद और टोबैगो डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'त्रिनिदाद और टोबैगो डॉलर'
+    major: डॉलर
+    minor: सेंट
 TWD:
-  name: 'न्यू ताइवान डॉलर'
-  major: डॉलर
-  minor: जियाओ
+    name: 'न्यू ताइवान डॉलर'
+    major: डॉलर
+    minor: जियाओ
 TZS:
-  name: 'तंजानियाई शिलिंग'
-  major: शिलिंग
-  minor: सेंट
+    name: 'तंजानियाई शिलिंग'
+    major: शिलिंग
+    minor: सेंट
 UAH:
-  name: 'यूक्रेनी ह्रीव्निया'
-  major: ह्रीव्निया
-  minor: कोपियका
+    name: 'यूक्रेनी ह्रीव्निया'
+    major: ह्रीव्निया
+    minor: कोपियका
 UGX:
-  name: 'युगांडा शिलिंग'
-  major: शिलिंग
-  minor: सेंट
+    name: 'युगांडा शिलिंग'
+    major: शिलिंग
+    minor: सेंट
 USD:
-  name: 'अमेरिकी डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'अमेरिकी डॉलर'
+    major: डॉलर
+    minor: सेंट
 UYU:
-  name: 'उरुग्वे पेसो'
-  major: पेसो
-  minor: सेंट
+    name: 'उरुग्वे पेसो'
+    major: पेसो
+    minor: सेंट
 UZS:
-  name: 'उज़्बेकिस्तानी सोम'
-  major: सोम
-  minor: तियिन
+    name: 'उज़्बेकिस्तानी सोम'
+    major: सोम
+    minor: तियिन
 VEF:
-  name: 'वेनेजुएलन बोलिवर'
-  major: 'बोलिवारेस फुएर्तेस'
-  minor: सेंट
+    name: 'वेनेजुएलन बोलिवर'
+    major: 'बोलिवारेस फुएर्तेस'
+    minor: सेंट
 VND:
-  name: 'वियतनामी डोंग'
-  major: डोंग
-  minor: सू
+    name: 'वियतनामी डोंग'
+    major: डोंग
+    minor: सू
 VUV:
-  name: 'वानुअतु वातु'
-  major: वातु
-  minor: ''
+    name: 'वानुअतु वातु'
+    major: वातु
+    minor: ''
 WST:
-  name: 'समोअन टाला'
-  major: टाला
-  minor: सेने
+    name: 'समोअन टाला'
+    major: टाला
+    minor: सेने
 XAF:
-  name: 'सीएफए फ्रैंक बीईएसी'
-  major: फ्रैंक
-  minor: सेंटाइम
+    name: 'सीएफए फ्रैंक बीईएसी'
+    major: फ्रैंक
+    minor: सेंटाइम
 XCD:
-  name: 'ईस्टर्न कैरेबियन डॉलर'
-  major: डॉलर
-  minor: सेंट
+    name: 'ईस्टर्न कैरेबियन डॉलर'
+    major: डॉलर
+    minor: सेंट
 XOF:
-  name: 'सीएफए फ्रैंक बीसीईएओ'
-  major: फ्रैंक
-  minor: सेंटाइम
+    name: 'सीएफए फ्रैंक बीसीईएओ'
+    major: फ्रैंक
+    minor: सेंटाइम
 XPF:
-  name: 'सीएफपी फ्रैंक'
-  major: फ्रैंक
-  minor: सेंटाइम
+    name: 'सीएफपी फ्रैंक'
+    major: फ्रैंक
+    minor: सेंटाइम
 YER:
-  name: 'यमनी रियाल'
-  major: रियाल
-  minor: फिल्स
+    name: 'यमनी रियाल'
+    major: रियाल
+    minor: फिल्स
 ZAR:
-  name: 'दक्षिण अफ्रीकी रैंड'
-  major: रैंड
-  minor: सेंट
+    name: 'दक्षिण अफ्रीकी रैंड'
+    major: रैंड
+    minor: सेंट
 ZMW:
-  name: 'जाम्बियन क्वाचा'
-  major: क्वाचा
-  minor: नग्वी
+    name: 'जाम्बियन क्वाचा'
+    major: क्वाचा
+    minor: नग्वी

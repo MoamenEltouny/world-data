@@ -1,616 +1,616 @@
 AED:
-  name: 'Dirham dos Emirados Árabes Unidos'
-  major: dirhams
-  minor: fils
+    name: 'Dirham dos Emirados Árabes Unidos'
+    major: dirhams
+    minor: fils
 AFN:
-  name: 'Afegane Afegão'
-  major: afegane
-  minor: pul
+    name: 'Afegane Afegão'
+    major: afegane
+    minor: pul
 ALL:
-  name: 'Lek Albanês'
-  major: lek
-  minor: qindarkë
+    name: 'Lek Albanês'
+    major: lek
+    minor: qindarkë
 AMD:
-  name: 'Dram Armênio'
-  major: dram
-  minor: luma
+    name: 'Dram Armênio'
+    major: dram
+    minor: luma
 AOA:
-  name: 'Kwanza Angolano'
-  major: kwanza
-  minor: cêntimos
+    name: 'Kwanza Angolano'
+    major: kwanza
+    minor: cêntimos
 ARS:
-  name: 'Peso Argentino'
-  major: peso
-  minor: centavo
+    name: 'Peso Argentino'
+    major: peso
+    minor: centavo
 AUD:
-  name: 'Dólar Australiano'
-  major: dólares
-  minor: centavos
+    name: 'Dólar Australiano'
+    major: dólares
+    minor: centavos
 AWG:
-  name: 'Florim de Aruba'
-  major: florim
-  minor: centavos
+    name: 'Florim de Aruba'
+    major: florim
+    minor: centavos
 AZN:
-  name: 'Manat Azerbaijano'
-  major: manat
-  minor: qepik
+    name: 'Manat Azerbaijano'
+    major: manat
+    minor: qepik
 BAM:
-  name: 'Marco Conversível da Bósnia-Herzegovina'
-  major: 'marcos conversíveis'
-  minor: fening
+    name: 'Marco Conversível da Bósnia-Herzegovina'
+    major: 'marcos conversíveis'
+    minor: fening
 BBD:
-  name: 'Dólar de Barbados'
-  major: dólares
-  minor: centavos
+    name: 'Dólar de Barbados'
+    major: dólares
+    minor: centavos
 BDT:
-  name: 'Taka de Bangladesh'
-  major: taka
-  minor: poisha
+    name: 'Taka de Bangladesh'
+    major: taka
+    minor: poisha
 BGN:
-  name: 'Lev Búlgaro'
-  major: lev
-  minor: stotinki
+    name: 'Lev Búlgaro'
+    major: lev
+    minor: stotinki
 BHD:
-  name: 'Dinar Bareinita'
-  major: dinar
-  minor: fils
+    name: 'Dinar Bareinita'
+    major: dinar
+    minor: fils
 BIF:
-  name: 'Franco Burundiano'
-  major: franco
-  minor: centime
+    name: 'Franco Burundiano'
+    major: franco
+    minor: centime
 BMD:
-  name: 'Dólar das Bermudas'
-  major: dólares
-  minor: centavos
+    name: 'Dólar das Bermudas'
+    major: dólares
+    minor: centavos
 BND:
-  name: 'Dólar de Brunei'
-  major: dólares
-  minor: centavos
+    name: 'Dólar de Brunei'
+    major: dólares
+    minor: centavos
 BOB:
-  name: 'Boliviano Boliviano'
-  major: boliviano
-  minor: centavo
+    name: 'Boliviano Boliviano'
+    major: boliviano
+    minor: centavo
 BRL:
-  name: 'Real Brasileiro'
-  major: real
-  minor: centavo
+    name: 'Real Brasileiro'
+    major: real
+    minor: centavo
 BSD:
-  name: 'Dólar das Bahamas'
-  major: dólares
-  minor: centavos
+    name: 'Dólar das Bahamas'
+    major: dólares
+    minor: centavos
 BTC:
-  name: Bitcoin
-  major: bitcoin
-  minor: millibitcoin
+    name: Bitcoin
+    major: bitcoin
+    minor: millibitcoin
 BTN:
-  name: Ngultrum
-  major: ngultrum
-  minor: chhertum
+    name: Ngultrum
+    major: ngultrum
+    minor: chhertum
 BWP:
-  name: 'Pula de Botswana'
-  major: pula
-  minor: thebe
+    name: 'Pula de Botswana'
+    major: pula
+    minor: thebe
 BYR:
-  name: 'Rublo Bielorrusso'
-  major: rublo
-  minor: kapeyka
+    name: 'Rublo Bielorrusso'
+    major: rublo
+    minor: kapeyka
 BZD:
-  name: 'Dólar de Belize'
-  major: dólares
-  minor: centavos
+    name: 'Dólar de Belize'
+    major: dólares
+    minor: centavos
 CAD:
-  name: 'Dólar Canadense'
-  major: dólares
-  minor: centavos
+    name: 'Dólar Canadense'
+    major: dólares
+    minor: centavos
 CDF:
-  name: 'Franco Congolês'
-  major: franco
-  minor: centime
+    name: 'Franco Congolês'
+    major: franco
+    minor: centime
 CHF:
-  name: 'Franco Suíço'
-  major: franco
-  minor: rappen
+    name: 'Franco Suíço'
+    major: franco
+    minor: rappen
 CLP:
-  name: 'Peso Chileno'
-  major: peso
-  minor: centavo
+    name: 'Peso Chileno'
+    major: peso
+    minor: centavo
 CNY:
-  name: 'Yuan Chinês'
-  major: yuan
-  minor: fēn
+    name: 'Yuan Chinês'
+    major: yuan
+    minor: fēn
 COP:
-  name: 'Peso Colombiano'
-  major: peso
-  minor: centavo
+    name: 'Peso Colombiano'
+    major: peso
+    minor: centavo
 CRC:
-  name: 'Colón Costarriquenho'
-  major: colón
-  minor: centavo
+    name: 'Colón Costarriquenho'
+    major: colón
+    minor: centavo
 CUP:
-  name: 'Peso Cubano'
-  major: peso
-  minor: centavo
+    name: 'Peso Cubano'
+    major: peso
+    minor: centavo
 CVE:
-  name: 'Escudo Cabo-Verdiano'
-  major: escudo
-  minor: centavo
+    name: 'Escudo Cabo-Verdiano'
+    major: escudo
+    minor: centavo
 CZK:
-  name: 'Coroa Checa'
-  major: coroa
-  minor: haléř
+    name: 'Coroa Checa'
+    major: coroa
+    minor: haléř
 DJF:
-  name: 'Franco do Djibuti'
-  major: franco
-  minor: centime
+    name: 'Franco do Djibuti'
+    major: franco
+    minor: centime
 DKK:
-  name: 'Coroa Dinamarquesa'
-  major: coroas
-  minor: coroas
+    name: 'Coroa Dinamarquesa'
+    major: coroas
+    minor: coroas
 DOP:
-  name: 'Peso Dominicano'
-  major: peso
-  minor: centavo
+    name: 'Peso Dominicano'
+    major: peso
+    minor: centavo
 DZD:
-  name: 'Dinar Argelino'
-  major: dinar
-  minor: santeem
+    name: 'Dinar Argelino'
+    major: dinar
+    minor: santeem
 EGP:
-  name: 'Libra Egípcia'
-  major: libras
-  minor: piastres
+    name: 'Libra Egípcia'
+    major: libras
+    minor: piastres
 ERN:
-  name: 'Nakfa Eritreia'
-  major: nafka
-  minor: centavos
+    name: 'Nakfa Eritreia'
+    major: nafka
+    minor: centavos
 ETB:
-  name: 'Birr Etíope'
-  major: birr
-  minor: santim
+    name: 'Birr Etíope'
+    major: birr
+    minor: santim
 ETH:
-  name: Ethereum
-  major: ether
-  minor: gwei
+    name: Ethereum
+    major: ether
+    minor: gwei
 EUR:
-  name: Euro
-  major: euros
-  minor: centavos
+    name: Euro
+    major: euros
+    minor: centavos
 FJD:
-  name: 'Dólar de Fiji'
-  major: dólares
-  minor: centavos
+    name: 'Dólar de Fiji'
+    major: dólares
+    minor: centavos
 FKP:
-  name: 'Libra das Ilhas Malvinas'
-  major: libras
-  minor: pence
+    name: 'Libra das Ilhas Malvinas'
+    major: libras
+    minor: pence
 GBP:
-  name: 'Libra Esterlina'
-  major: libras
-  minor: pence
+    name: 'Libra Esterlina'
+    major: libras
+    minor: pence
 GEL:
-  name: 'Lari Georgiano'
-  major: lari
-  minor: tetri
+    name: 'Lari Georgiano'
+    major: lari
+    minor: tetri
 GHS:
-  name: 'Cedi Ganês'
-  major: cedi
-  minor: pesewa
+    name: 'Cedi Ganês'
+    major: cedi
+    minor: pesewa
 GIP:
-  name: 'Libra de Gibraltar'
-  major: libras
-  minor: pence
+    name: 'Libra de Gibraltar'
+    major: libras
+    minor: pence
 GMD:
-  name: Dalasi
-  major: dalasi
-  minor: butut
+    name: Dalasi
+    major: dalasi
+    minor: butut
 GNF:
-  name: 'Franco Guineense'
-  major: franco
-  minor: centime
+    name: 'Franco Guineense'
+    major: franco
+    minor: centime
 GTQ:
-  name: 'Quetzal Guatemalteco'
-  major: quetzales
-  minor: centavo
+    name: 'Quetzal Guatemalteco'
+    major: quetzales
+    minor: centavo
 GYD:
-  name: 'Dólar da Guiana'
-  major: dólares
-  minor: centavos
+    name: 'Dólar da Guiana'
+    major: dólares
+    minor: centavos
 HKD:
-  name: 'Dólar de Hong Kong'
-  major: dólares
-  minor: centavos
+    name: 'Dólar de Hong Kong'
+    major: dólares
+    minor: centavos
 HNL:
-  name: 'Lempira Hondurenha'
-  major: lempira
-  minor: centavo
+    name: 'Lempira Hondurenha'
+    major: lempira
+    minor: centavo
 HRK:
-  name: 'Kuna Croata'
-  major: kuna
-  minor: lipa
+    name: 'Kuna Croata'
+    major: kuna
+    minor: lipa
 HTG:
-  name: 'Gourde Haitiano'
-  major: gourde
-  minor: centime
+    name: 'Gourde Haitiano'
+    major: gourde
+    minor: centime
 HUF:
-  name: 'Forint Húngaro'
-  major: forint
-  minor: fillér
+    name: 'Forint Húngaro'
+    major: forint
+    minor: fillér
 IDR:
-  name: 'Rupia Indonésia'
-  major: rupia
-  minor: sen
+    name: 'Rupia Indonésia'
+    major: rupia
+    minor: sen
 ILS:
-  name: 'Novo Shekel Israelense'
-  major: shekel
-  minor: agorat
+    name: 'Novo Shekel Israelense'
+    major: shekel
+    minor: agorat
 INR:
-  name: 'Rupia Indiana'
-  major: rupia
-  minor: paisa
+    name: 'Rupia Indiana'
+    major: rupia
+    minor: paisa
 IQD:
-  name: 'Dinar Iraquiano'
-  major: dinar
-  minor: fils
+    name: 'Dinar Iraquiano'
+    major: dinar
+    minor: fils
 IRR:
-  name: 'Rial Iraniano'
-  major: rial
-  minor: dinar
+    name: 'Rial Iraniano'
+    major: rial
+    minor: dinar
 ISK:
-  name: 'Coroa Islandesa'
-  major: coroa
-  minor: eyrir
+    name: 'Coroa Islandesa'
+    major: coroa
+    minor: eyrir
 JMD:
-  name: 'Dólar Jamaicano'
-  major: dólares
-  minor: centavos
+    name: 'Dólar Jamaicano'
+    major: dólares
+    minor: centavos
 JOD:
-  name: 'Dinar Jordaniano'
-  major: dinar
-  minor: piastres
+    name: 'Dinar Jordaniano'
+    major: dinar
+    minor: piastres
 JPY:
-  name: 'Iene Japonês'
-  major: iene
-  minor: sen
+    name: 'Iene Japonês'
+    major: iene
+    minor: sen
 KES:
-  name: 'Xelim Queniano'
-  major: xelim
-  minor: centavos
+    name: 'Xelim Queniano'
+    major: xelim
+    minor: centavos
 KGS:
-  name: 'Som Quirguiz'
-  major: som
-  minor: tyiyn
+    name: 'Som Quirguiz'
+    major: som
+    minor: tyiyn
 KHR:
-  name: 'Riel Cambojano'
-  major: riel
-  minor: kak
+    name: 'Riel Cambojano'
+    major: riel
+    minor: kak
 KMF:
-  name: 'Franco Comorense'
-  major: franco
-  minor: centime
+    name: 'Franco Comorense'
+    major: franco
+    minor: centime
 KPW:
-  name: 'Won Norte-Coreano'
-  major: won
-  minor: chon
+    name: 'Won Norte-Coreano'
+    major: won
+    minor: chon
 KRW:
-  name: 'Won Sul-Coreano'
-  major: won
-  minor: jeon
+    name: 'Won Sul-Coreano'
+    major: won
+    minor: jeon
 KWD:
-  name: 'Dinar Kuwaitiano'
-  major: dinar
-  minor: fils
+    name: 'Dinar Kuwaitiano'
+    major: dinar
+    minor: fils
 KYD:
-  name: 'Dólar das Ilhas Cayman'
-  major: dólares
-  minor: centavos
+    name: 'Dólar das Ilhas Cayman'
+    major: dólares
+    minor: centavos
 KZT:
-  name: 'Tenge Cazaque'
-  major: tenge
-  minor: tïın
+    name: 'Tenge Cazaque'
+    major: tenge
+    minor: tïın
 LAK:
-  name: 'Kip Laosiano'
-  major: kip
-  minor: att
+    name: 'Kip Laosiano'
+    major: kip
+    minor: att
 LBP:
-  name: 'Libra Libanesa'
-  major: libras
-  minor: piastres
+    name: 'Libra Libanesa'
+    major: libras
+    minor: piastres
 LRD:
-  name: 'Dólar Liberiano'
-  major: dólares
-  minor: centavos
+    name: 'Dólar Liberiano'
+    major: dólares
+    minor: centavos
 LSL:
-  name: 'Loti do Lesoto'
-  major: 'loti (maloti)'
-  minor: sente
+    name: 'Loti do Lesoto'
+    major: 'loti (maloti)'
+    minor: sente
 LTL:
-  name: 'Litas Lituano'
-  major: litas
-  minor: centas
+    name: 'Litas Lituano'
+    major: litas
+    minor: centas
 LYD:
-  name: 'Dinar Líbio'
-  major: dinar
-  minor: dirham
+    name: 'Dinar Líbio'
+    major: dinar
+    minor: dirham
 MAD:
-  name: 'Dirham Marroquino'
-  major: dirhams
-  minor: santim
+    name: 'Dirham Marroquino'
+    major: dirhams
+    minor: santim
 MDL:
-  name: 'Leu Moldavo'
-  major: leu
-  minor: ban
+    name: 'Leu Moldavo'
+    major: leu
+    minor: ban
 MGA:
-  name: 'Ariary Malgaxe'
-  major: ariary
-  minor: iraimbilanja
+    name: 'Ariary Malgaxe'
+    major: ariary
+    minor: iraimbilanja
 MKD:
-  name: 'Denar Macedônio'
-  major: denar
-  minor: deni
+    name: 'Denar Macedônio'
+    major: denar
+    minor: deni
 MMK:
-  name: 'Kyat de Mianmar'
-  major: kyat
-  minor: pya
+    name: 'Kyat de Mianmar'
+    major: kyat
+    minor: pya
 MNT:
-  name: 'Tugrik Mongol'
-  major: tugrik
-  minor: möngö
+    name: 'Tugrik Mongol'
+    major: tugrik
+    minor: möngö
 MOP:
-  name: 'Pataca de Macau'
-  major: pataca
-  minor: ho
+    name: 'Pataca de Macau'
+    major: pataca
+    minor: ho
 MRO:
-  name: 'Ouguiya Mauritana'
-  major: ouguiya
-  minor: khoums
+    name: 'Ouguiya Mauritana'
+    major: ouguiya
+    minor: khoums
 MUR:
-  name: 'Rupia Mauriciana'
-  major: rupia
-  minor: centavos
+    name: 'Rupia Mauriciana'
+    major: rupia
+    minor: centavos
 MVR:
-  name: 'Rupia Maldiva'
-  major: rufiyaa
-  minor: laari
+    name: 'Rupia Maldiva'
+    major: rufiyaa
+    minor: laari
 MWK:
-  name: 'Kwacha Malauiano'
-  major: kwacha
-  minor: tambala
+    name: 'Kwacha Malauiano'
+    major: kwacha
+    minor: tambala
 MXN:
-  name: 'Peso Mexicano'
-  major: pesos
-  minor: centavo
+    name: 'Peso Mexicano'
+    major: pesos
+    minor: centavo
 MYR:
-  name: 'Ringgit Malaio'
-  major: ringgit
-  minor: sen
+    name: 'Ringgit Malaio'
+    major: ringgit
+    minor: sen
 MZN:
-  name: 'Metical Moçambicano'
-  major: metical
-  minor: centavo
+    name: 'Metical Moçambicano'
+    major: metical
+    minor: centavo
 NAD:
-  name: 'Dólar Namibiano'
-  major: dólares
-  minor: centavos
+    name: 'Dólar Namibiano'
+    major: dólares
+    minor: centavos
 NGN:
-  name: 'Naira Nigeriana'
-  major: naira
-  minor: kobo
+    name: 'Naira Nigeriana'
+    major: naira
+    minor: kobo
 NIO:
-  name: 'Córdoba Nicaraguense'
-  major: córdoba
-  minor: centavo
+    name: 'Córdoba Nicaraguense'
+    major: córdoba
+    minor: centavo
 NOK:
-  name: 'Coroa Norueguesa'
-  major: coroa
-  minor: øre
+    name: 'Coroa Norueguesa'
+    major: coroa
+    minor: øre
 NPR:
-  name: 'Rupia Nepalesa'
-  major: rupia
-  minor: paisa
+    name: 'Rupia Nepalesa'
+    major: rupia
+    minor: paisa
 NZD:
-  name: 'Dólar Neozelandês'
-  major: dólares
-  minor: centavos
+    name: 'Dólar Neozelandês'
+    major: dólares
+    minor: centavos
 OMR:
-  name: 'Rial Omanense'
-  major: rial
-  minor: baisa
+    name: 'Rial Omanense'
+    major: rial
+    minor: baisa
 PAB:
-  name: 'Balboa Panamenho'
-  major: balboa
-  minor: centésimo
+    name: 'Balboa Panamenho'
+    major: balboa
+    minor: centésimo
 PEN:
-  name: 'Novo Sol Peruano'
-  major: 'novo sol'
-  minor: cêntimo
+    name: 'Novo Sol Peruano'
+    major: 'novo sol'
+    minor: cêntimo
 PGK:
-  name: 'Kina Papua-Nova-Guinense'
-  major: kina
-  minor: toea
+    name: 'Kina Papua-Nova-Guinense'
+    major: kina
+    minor: toea
 PHP:
-  name: 'Peso Filipino'
-  major: peso
-  minor: sentimo
+    name: 'Peso Filipino'
+    major: peso
+    minor: sentimo
 PKR:
-  name: 'Rupia Paquistanesa'
-  major: rupia
-  minor: paisa
+    name: 'Rupia Paquistanesa'
+    major: rupia
+    minor: paisa
 PLN:
-  name: 'Zloty Polonês'
-  major: złoty
-  minor: grosz
+    name: 'Zloty Polonês'
+    major: złoty
+    minor: grosz
 PYG:
-  name: 'Guarani Paraguaio'
-  major: guarani
-  minor: cêntimo
+    name: 'Guarani Paraguaio'
+    major: guarani
+    minor: cêntimo
 QAR:
-  name: 'Rial Catariano'
-  major: riyal
-  minor: dirham
+    name: 'Rial Catariano'
+    major: riyal
+    minor: dirham
 RON:
-  name: 'Leu Romeno'
-  major: leu
-  minor: bani
+    name: 'Leu Romeno'
+    major: leu
+    minor: bani
 RSD:
-  name: 'Dinar Sérvio'
-  major: dinar
-  minor: para
+    name: 'Dinar Sérvio'
+    major: dinar
+    minor: para
 RUB:
-  name: 'Rublo Russo'
-  major: rublo
-  minor: kopeika
+    name: 'Rublo Russo'
+    major: rublo
+    minor: kopeika
 RWF:
-  name: 'Franco Ruandês'
-  major: franco
-  minor: centime
+    name: 'Franco Ruandês'
+    major: franco
+    minor: centime
 SAR:
-  name: 'Riyal Saudita'
-  major: riyal
-  minor: halala
+    name: 'Riyal Saudita'
+    major: riyal
+    minor: halala
 SBD:
-  name: 'Dólar das Ilhas Salomão'
-  major: dólares
-  minor: centavos
+    name: 'Dólar das Ilhas Salomão'
+    major: dólares
+    minor: centavos
 SCR:
-  name: 'Rupia de Seicheles'
-  major: rupia
-  minor: centavos
+    name: 'Rupia de Seicheles'
+    major: rupia
+    minor: centavos
 SDG:
-  name: 'Libra Sudanesa'
-  major: libras
-  minor: piastres
+    name: 'Libra Sudanesa'
+    major: libras
+    minor: piastres
 SEK:
-  name: 'Coroa Sueca'
-  major: coroa
-  minor: ören
+    name: 'Coroa Sueca'
+    major: coroa
+    minor: ören
 SGD:
-  name: 'Dólar de Singapura'
-  major: dólares
-  minor: centavos
+    name: 'Dólar de Singapura'
+    major: dólares
+    minor: centavos
 SHP:
-  name: 'Libra de Santa Helena'
-  major: libras
-  minor: pence
+    name: 'Libra de Santa Helena'
+    major: libras
+    minor: pence
 SLL:
-  name: 'Leone de Serra Leoa'
-  major: leone
-  minor: centavos
+    name: 'Leone de Serra Leoa'
+    major: leone
+    minor: centavos
 SOS:
-  name: 'Xelim Somali'
-  major: xelim
-  minor: senti
+    name: 'Xelim Somali'
+    major: xelim
+    minor: senti
 SRD:
-  name: 'Dólar do Suriname'
-  major: dólares
-  minor: centavos
+    name: 'Dólar do Suriname'
+    major: dólares
+    minor: centavos
 STD:
-  name: 'Dobra de São Tomé e Príncipe'
-  major: dobra
-  minor: centime
+    name: 'Dobra de São Tomé e Príncipe'
+    major: dobra
+    minor: centime
 SYP:
-  name: 'Libra Síria'
-  major: libras
-  minor: piastres
+    name: 'Libra Síria'
+    major: libras
+    minor: piastres
 SZL:
-  name: 'Lilangeni Suazi'
-  major: lilangeni
-  minor: centavos
+    name: 'Lilangeni Suazi'
+    major: lilangeni
+    minor: centavos
 THB:
-  name: 'Baht Tailandês'
-  major: baht
-  minor: satang
+    name: 'Baht Tailandês'
+    major: baht
+    minor: satang
 TJS:
-  name: 'Somoni Tadjique'
-  major: somoni
-  minor: diram
+    name: 'Somoni Tadjique'
+    major: somoni
+    minor: diram
 TMT:
-  name: 'Manat Turcomeno'
-  major: manat
-  minor: tenge
+    name: 'Manat Turcomeno'
+    major: manat
+    minor: tenge
 TND:
-  name: 'Dinar Tunisiano'
-  major: dinar
-  minor: millim
+    name: 'Dinar Tunisiano'
+    major: dinar
+    minor: millim
 TOP:
-  name: 'Paʻanga de Tonga'
-  major: hau
-  minor: seniti
+    name: 'Paʻanga de Tonga'
+    major: hau
+    minor: seniti
 TRY:
-  name: 'Lira Turca'
-  major: lira
-  minor: kuruş
+    name: 'Lira Turca'
+    major: lira
+    minor: kuruş
 TTD:
-  name: 'Dólar de Trinidad e Tobago'
-  major: dólares
-  minor: centavos
+    name: 'Dólar de Trinidad e Tobago'
+    major: dólares
+    minor: centavos
 TWD:
-  name: 'Novo Dólar de Taiwan'
-  major: dólares
-  minor: jiao
+    name: 'Novo Dólar de Taiwan'
+    major: dólares
+    minor: jiao
 TZS:
-  name: 'Xelim Tanzaniano'
-  major: xelim
-  minor: centavos
+    name: 'Xelim Tanzaniano'
+    major: xelim
+    minor: centavos
 UAH:
-  name: 'Hryvnia Ucraniana'
-  major: hryvnia
-  minor: kopiyka
+    name: 'Hryvnia Ucraniana'
+    major: hryvnia
+    minor: kopiyka
 UGX:
-  name: 'Xelim Ugandense'
-  major: xelim
-  minor: centavos
+    name: 'Xelim Ugandense'
+    major: xelim
+    minor: centavos
 USD:
-  name: 'Dólar Americano'
-  major: dólares
-  minor: centavos
+    name: 'Dólar Americano'
+    major: dólares
+    minor: centavos
 UYU:
-  name: 'Peso Uruguaio'
-  major: peso
-  minor: centésimo
+    name: 'Peso Uruguaio'
+    major: peso
+    minor: centésimo
 UZS:
-  name: 'Som Uzbeque'
-  major: som
-  minor: tiyin
+    name: 'Som Uzbeque'
+    major: som
+    minor: tiyin
 VEF:
-  name: 'Bolívar Venezuelano'
-  major: 'bolívares fortes'
-  minor: cêntimo
+    name: 'Bolívar Venezuelano'
+    major: 'bolívares fortes'
+    minor: cêntimo
 VND:
-  name: 'Dong Vietnamita'
-  major: dong
-  minor: xu
+    name: 'Dong Vietnamita'
+    major: dong
+    minor: xu
 VUV:
-  name: 'Vatu de Vanuatu'
-  major: vatu
-  minor: ''
+    name: 'Vatu de Vanuatu'
+    major: vatu
+    minor: ''
 WST:
-  name: 'Tala Samoano'
-  major: tala
-  minor: sene
+    name: 'Tala Samoano'
+    major: tala
+    minor: sene
 XAF:
-  name: 'Franco CFA BEAC'
-  major: franco
-  minor: centime
+    name: 'Franco CFA BEAC'
+    major: franco
+    minor: centime
 XCD:
-  name: 'Dólar do Caribe Oriental'
-  major: dólares
-  minor: centavos
+    name: 'Dólar do Caribe Oriental'
+    major: dólares
+    minor: centavos
 XOF:
-  name: 'Franco CFA BCEAO'
-  major: franco
-  minor: centime
+    name: 'Franco CFA BCEAO'
+    major: franco
+    minor: centime
 XPF:
-  name: 'Franco CFP'
-  major: franco
-  minor: centime
+    name: 'Franco CFP'
+    major: franco
+    minor: centime
 YER:
-  name: 'Rial Iemenita'
-  major: rial
-  minor: fils
+    name: 'Rial Iemenita'
+    major: rial
+    minor: fils
 ZAR:
-  name: 'Rand Sul-Africano'
-  major: rand
-  minor: centavos
+    name: 'Rand Sul-Africano'
+    major: rand
+    minor: centavos
 ZMW:
-  name: 'Kwacha Zambiano'
-  major: kwacha
-  minor: ngwee
+    name: 'Kwacha Zambiano'
+    major: kwacha
+    minor: ngwee
