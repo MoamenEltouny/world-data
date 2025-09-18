@@ -1,0 +1,732 @@
+AW:
+    male: Арубанец
+    female: Арубанка
+AF:
+    male: Афганец
+    female: Афганка
+AO:
+    male: Анголец
+    female: Анголка
+AI:
+    male: Ангильянец
+    female: Ангильянка
+AX:
+    male: Аландец
+    female: Аландка
+AL:
+    male: Албанец
+    female: Албанка
+AD:
+    male: Андоррец
+    female: Андоррка
+AE:
+    male: Эмиратец
+    female: Эмиратка
+AR:
+    male: Аргентинец
+    female: Аргентинка
+AM:
+    male: Армянин
+    female: Армянка
+AS:
+    male: Самоанец
+    female: Самоанка
+AG:
+    male: 'Антигуанец и Барбудец'
+    female: 'Антигуанка и Барбудка'
+AU:
+    male: Австралиец
+    female: Австралийка
+AT:
+    male: Австриец
+    female: Австрийка
+AZ:
+    male: Азербайджанец
+    female: Азербайджанка
+BI:
+    male: Бурундиец
+    female: Бурундийка
+BE:
+    male: Бельгиец
+    female: Бельгийка
+BJ:
+    male: Бенинец
+    female: Бенинка
+BF:
+    male: Буркинец
+    female: Буркинка
+BD:
+    male: Бангладешец
+    female: Бангладешка
+BG:
+    male: Болгарин
+    female: Болгарка
+BH:
+    male: Бахрейнец
+    female: Бахрейнка
+BS:
+    male: Багамец
+    female: Багамка
+BA:
+    male: Босниец
+    female: Боснийка
+BL:
+    male: Сен-Бартелемец
+    female: Сен-Бартелемка
+SH:
+    male: Святогеленец
+    female: Святогеленка
+BY:
+    male: Белорус
+    female: Белоруска
+BZ:
+    male: Белизец
+    female: Белизка
+BM:
+    male: Бермудец
+    female: Бермудка
+BO:
+    male: Боливиец
+    female: Боливийка
+BR:
+    male: Бразилец
+    female: Бразильянка
+BB:
+    male: Барбадосец
+    female: Барбадоска
+BN:
+    male: Брунеец
+    female: Брунейка
+BT:
+    male: Бутанец
+    female: Бутанка
+BW:
+    male: Ботсванец
+    female: Ботсванка
+CF:
+    male: Центральноафриканец
+    female: Центральноафриканка
+CA:
+    male: Канадец
+    female: Канадка
+CC:
+    male: Кокосовец
+    female: Кокосовка
+CH:
+    male: Швейцарец
+    female: Швейцарка
+CL:
+    male: Чилиец
+    female: Чилийка
+CN:
+    male: Китаец
+    female: Китаянка
+CI:
+    male: Ивуариец
+    female: Ивуарийка
+CM:
+    male: Камерунец
+    female: Камерунка
+CD:
+    male: Конголезец
+    female: Конголезка
+CG:
+    male: Конголезец
+    female: Конголезка
+CK:
+    male: Кукец
+    female: Кукка
+CO:
+    male: Колумбиец
+    female: Колумбийка
+KM:
+    male: Коморец
+    female: Коморка
+CV:
+    male: Кабо-вердец
+    female: Кабо-вердка
+CR:
+    male: Костариканец
+    female: Костариканка
+CU:
+    male: Кубинец
+    female: Кубинка
+CX:
+    male: 'Островитянин Рождества'
+    female: 'Островитянка Рождества'
+KY:
+    male: Кайманец
+    female: Кайманка
+CY:
+    male: Киприот
+    female: Киприотка
+CZ:
+    male: Чех
+    female: Чешка
+DE:
+    male: Немец
+    female: Немка
+DJ:
+    male: Джибутиец
+    female: Джибутийка
+DM:
+    male: Доминиканец
+    female: Доминиканка
+DK:
+    male: Датчанин
+    female: Датчанка
+DO:
+    male: Доминиканец
+    female: Доминиканка
+DZ:
+    male: Алжирец
+    female: Алжирка
+EC:
+    male: Эквадорец
+    female: Эквадорка
+EG:
+    male: Египтянин
+    female: Египтянка
+ER:
+    male: Эритреец
+    female: Эритрейка
+EH:
+    male: Сахаравец
+    female: Сахаравка
+ES:
+    male: Испанец
+    female: Испанка
+EE:
+    male: Эстонец
+    female: Эстонка
+ET:
+    male: Эфиоп
+    female: Эфиопка
+FI:
+    male: Финн
+    female: Финка
+FJ:
+    male: Фиджиец
+    female: Фиджийка
+FK:
+    male: Фолклендец
+    female: Фолклендка
+FR:
+    male: Француз
+    female: Француженка
+FO:
+    male: Фаререц
+    female: Фарерка
+FM:
+    male: Микронезиец
+    female: Микронезийка
+GA:
+    male: Габонец
+    female: Габонка
+GB:
+    male: Британец
+    female: Британка
+GE:
+    male: Грузин
+    female: Грузинка
+GG:
+    male: Гернсиец
+    female: Гернсийка
+GH:
+    male: Ганец
+    female: Ганка
+GI:
+    male: Гибралтарец
+    female: Гибралтарка
+GN:
+    male: Гвинеец
+    female: Гвинейка
+GP:
+    male: Гваделупец
+    female: Гваделупка
+GM:
+    male: Гамбийец
+    female: Гамбийка
+GW:
+    male: Биссау-гвинеец
+    female: Биссау-гвинейка
+GQ:
+    male: Экваториально-гвинеец
+    female: Экваториально-гвинейка
+GR:
+    male: Грек
+    female: Гречанка
+GD:
+    male: Гренадец
+    female: Гренадка
+GL:
+    male: Гренландец
+    female: Гренландка
+GT:
+    male: Гватемалец
+    female: Гватемалка
+GF:
+    male: Гвианец
+    female: Гвианка
+GU:
+    male: Гуамец
+    female: Гуамка
+GY:
+    male: Гаянец
+    female: Гаянка
+HK:
+    male: Гонконгец
+    female: Гонконгка
+HM:
+    male: 'Островитянин Херд'
+    female: 'Островитянка Херд'
+HN:
+    male: Гондурасец
+    female: Гондураска
+HR:
+    male: Хорват
+    female: Хорватка
+HT:
+    male: Гаитянин
+    female: Гаитянка
+HU:
+    male: Венгр
+    female: Венгерка
+ID:
+    male: Индонезиец
+    female: Индонезийка
+IM:
+    male: Мэнец
+    female: Мэнка
+IN:
+    male: Индиец
+    female: Индианка
+IO:
+    male: 'Британец Индийского океана'
+    female: 'Британка Индийского океана'
+IE:
+    male: Ирландец
+    female: Ирландка
+IR:
+    male: Иранец
+    female: Иранка
+IQ:
+    male: Иракец
+    female: Иракка
+IS:
+    male: Исландец
+    female: Исландка
+IL:
+    male: Израильтянин
+    female: Израильтянка
+IT:
+    male: Итальянец
+    female: Итальянка
+JM:
+    male: Ямаец
+    female: Ямайка
+JE:
+    male: Джерсиец
+    female: Джерсийка
+JO:
+    male: Иорданец
+    female: Иорданка
+JP:
+    male: Японец
+    female: Японка
+KZ:
+    male: Казахстанец
+    female: Казахстанка
+KE:
+    male: Кениец
+    female: Кенийка
+KG:
+    male: Киргиз
+    female: Киргизка
+KH:
+    male: Камбоджиец
+    female: Камбоджийка
+KI:
+    male: Кирибатиец
+    female: Кирибатийка
+KN:
+    male: 'Сент-Китс и Невисец'
+    female: 'Сент-Китс и Невиска'
+KR:
+    male: Южнокореец
+    female: Южнокорейка
+XK:
+    male: Косовар
+    female: Косоварка
+KW:
+    male: Кувейтец
+    female: Кувейтка
+LA:
+    male: Лаосец
+    female: Лаоска
+LB:
+    male: Ливанец
+    female: Ливанка
+LR:
+    male: Либериец
+    female: Либерийка
+LY:
+    male: Ливиец
+    female: Ливийка
+LC:
+    male: Сент-Люсиец
+    female: Сент-Люсийка
+LI:
+    male: Лихтенштейнец
+    female: Лихтенштейнка
+LK:
+    male: Шри-ланкиец
+    female: Шри-ланкийка
+LS:
+    male: Лесотец
+    female: Лесотка
+LT:
+    male: Литовец
+    female: Литовка
+LU:
+    male: Люксембуржец
+    female: Люксембуржка
+LV:
+    male: Латыш
+    female: Латышка
+MO:
+    male: Макаец
+    female: Макаянка
+MF:
+    male: Сен-Мартинец
+    female: Сен-Мартина
+MA:
+    male: Марокканец
+    female: Марокканка
+MC:
+    male: Монакец
+    female: Монакка
+MD:
+    male: Молдаванин
+    female: Молдаванка
+MG:
+    male: Малагасиец
+    female: Малагасийка
+MV:
+    male: Мальдивец
+    female: Мальдивка
+MX:
+    male: Мексиканец
+    female: Мексиканка
+MH:
+    male: Маршаллец
+    female: Маршалка
+MK:
+    male: Македонец
+    female: Македонка
+ML:
+    male: Малиец
+    female: Малийка
+MT:
+    male: Мальтиец
+    female: Мальтийка
+MM:
+    male: Бирманец
+    female: Бирманка
+ME:
+    male: Черногорец
+    female: Черногорка
+MN:
+    male: Монгол
+    female: Монголка
+MP:
+    male: 'Северный марианец'
+    female: 'Северная марианка'
+MZ:
+    male: Мозамбикец
+    female: Мозамбикка
+MR:
+    male: Мавританец
+    female: Мавританка
+MS:
+    male: Монтсерратец
+    female: Монтсерратка
+MQ:
+    male: Мартиникец
+    female: Мартиникка
+MU:
+    male: Маврикиец
+    female: Маврикийка
+MW:
+    male: Малавиец
+    female: Малавийка
+MY:
+    male: Малайзиец
+    female: Малайзийка
+YT:
+    male: Майотец
+    female: Майотка
+NA:
+    male: Намибиец
+    female: Намибийка
+NC:
+    male: Новокаледонец
+    female: Новокаледонка
+NE:
+    male: Нигериец
+    female: Нигерийка
+NF:
+    male: Норфолкец
+    female: Норфолкка
+NG:
+    male: Нигериец
+    female: Нигерийка
+NI:
+    male: Никарагуанец
+    female: Никарагуанка
+NU:
+    male: Ниуэец
+    female: Ниуэянка
+NL:
+    male: Нидерландец
+    female: Нидерландка
+'NO':
+    male: Норвежец
+    female: Норвежка
+NP:
+    male: Непалец
+    female: Непалка
+NR:
+    male: Науруанец
+    female: Науруанка
+NZ:
+    male: Новозеландец
+    female: Новозеландка
+OM:
+    male: Оманец
+    female: Оманка
+PK:
+    male: Пакистанец
+    female: Пакистанка
+PA:
+    male: Панамец
+    female: Панамка
+PN:
+    male: Питкэрнец
+    female: Питкэрнка
+PE:
+    male: Перуанец
+    female: Перуанка
+PH:
+    male: Филиппинец
+    female: Филиппинка
+PW:
+    male: Палауец
+    female: Палауянка
+PG:
+    male: Папуасиец
+    female: Папуасийка
+PL:
+    male: Поляк
+    female: Полька
+PR:
+    male: Пуэрториканец
+    female: Пуэрториканка
+KP:
+    male: Северокореец
+    female: Северокорейка
+PT:
+    male: Португалец
+    female: Португалка
+PY:
+    male: Парагваец
+    female: Парагвайка
+PS:
+    male: Палестинец
+    female: Палестинка
+PF:
+    male: Полинезиец
+    female: Полинезийка
+QA:
+    male: Катарец
+    female: Катарка
+RE:
+    male: Реюньонец
+    female: Реюньонка
+RO:
+    male: Румын
+    female: Румынка
+RU:
+    male: Русский
+    female: Русская
+RW:
+    male: Руандиец
+    female: Руандийка
+SA:
+    male: Саудовец
+    female: Саудовка
+SD:
+    male: Суданец
+    female: Суданка
+SN:
+    male: Сенегалец
+    female: Сенегалка
+SG:
+    male: Сингапурец
+    female: Сингапурка
+GS:
+    male: Южногрузинец
+    female: Южногрузинка
+SJ:
+    male: Шпицбергенец
+    female: Шпицбергенка
+SB:
+    male: Соломонец
+    female: Соломонка
+SL:
+    male: Сьерра-леонец
+    female: Сьерра-леонка
+SV:
+    male: Сальвадорец
+    female: Сальвадорка
+SM:
+    male: Санмаринец
+    female: Санмаринка
+SO:
+    male: Сомалиец
+    female: Сомалийка
+PM:
+    male: 'Сен-Пьерец, Микелонец'
+    female: 'Сен-Пьерка, Микелонка'
+RS:
+    male: Серб
+    female: Сербка
+SS:
+    male: Южносуданец
+    female: Южносуданка
+ST:
+    male: Сантомеец
+    female: Сантомейка
+SR:
+    male: Суринамец
+    female: Суринамка
+SK:
+    male: Словак
+    female: Словачка
+SI:
+    male: Словенец
+    female: Словенка
+SE:
+    male: Швед
+    female: Шведка
+SZ:
+    male: Свазиец
+    female: Свазийка
+SC:
+    male: Сейшелец
+    female: Сейшелка
+SY:
+    male: Сириец
+    female: Сирийка
+TC:
+    male: Терксец
+    female: Теркска
+TD:
+    male: Чадец
+    female: Чадка
+TG:
+    male: Тоголезец
+    female: Тоголезка
+TH:
+    male: Таец
+    female: Тайка
+TJ:
+    male: Таджик
+    female: Таджичка
+TK:
+    male: Токелауец
+    female: Токелауянка
+TM:
+    male: Туркмен
+    female: Туркменка
+TL:
+    male: Восточнотиморец
+    female: Восточнотиморка
+TO:
+    male: Тонганец
+    female: Тонганка
+TT:
+    male: Тринидадец
+    female: Тринидадка
+TN:
+    male: Тунисец
+    female: Туниска
+TR:
+    male: Турок
+    female: Турчанка
+TV:
+    male: Тувалуанец
+    female: Тувалуанка
+TW:
+    male: Тайванец
+    female: Тайванка
+TZ:
+    male: Танзаниец
+    female: Танзанийка
+UG:
+    male: Угандец
+    female: Угандка
+UA:
+    male: Украинец
+    female: Украинка
+UM:
+    male: 'Американец островов'
+    female: 'Американка островов'
+UY:
+    male: Уругваец
+    female: Уругвайка
+US:
+    male: Американец
+    female: Американка
+UZ:
+    male: Узбек
+    female: Узбечка
+VA:
+    male: Ватиканец
+    female: Ватиканка
+VC:
+    male: Сент-Винсентец
+    female: Сент-Винсентка
+VE:
+    male: Венесуэлец
+    female: Венесуэлка
+VG:
+    male: 'Британский виргинец'
+    female: 'Британская виргинка'
+VI:
+    male: 'Американский виргинец'
+    female: 'Американская виргинка'
+VN:
+    male: Вьетнамец
+    female: Вьетнамка
+VU:
+    male: Вануатец
+    female: Вануатка
+WF:
+    male: Уоллисец
+    female: Уоллисска
+WS:
+    male: Самоанец
+    female: Самоанка
+YE:
+    male: Йеменец
+    female: Йеменка
+ZA:
+    male: Южноафриканец
+    female: Южноафриканка
+ZM:
+    male: Замбиец
+    female: Замбийка
+ZW:
+    male: Зимбабвиец
+    female: Зимбабвийка

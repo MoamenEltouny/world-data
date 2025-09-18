@@ -1,0 +1,732 @@
+AW:
+    male: أروبي
+    female: أروبية
+AF:
+    male: أفغاني
+    female: أفغانية
+AO:
+    male: أنغولي
+    female: أنغولية
+AI:
+    male: أنغيلي
+    female: أنغيلية
+AX:
+    male: آلندي
+    female: آلندية
+AL:
+    male: ألباني
+    female: ألبانية
+AD:
+    male: أندوري
+    female: أندورية
+AE:
+    male: إماراتي
+    female: إماراتية
+AR:
+    male: أرجنتيني
+    female: أرجنتينية
+AM:
+    male: أرميني
+    female: أرمينية
+AS:
+    male: ساموي
+    female: ساموية
+AG:
+    male: 'أنتيغوي وباربودي'
+    female: 'أنتيغوية وباربودية'
+AU:
+    male: أسترالي
+    female: أسترالية
+AT:
+    male: نمساوي
+    female: نمساوية
+AZ:
+    male: أذربيجاني
+    female: أذربيجانية
+BI:
+    male: بوروندي
+    female: بوروندية
+BE:
+    male: بلجيكي
+    female: بلجيكية
+BJ:
+    male: بنيني
+    female: بنينية
+BF:
+    male: بوركيني
+    female: بوركينية
+BD:
+    male: بنغلاديشي
+    female: بنغلاديشية
+BG:
+    male: بلغاري
+    female: بلغارية
+BH:
+    male: بحريني
+    female: بحرينية
+BS:
+    male: بهامي
+    female: بهامية
+BA:
+    male: بوسني
+    female: بوسنية
+BL:
+    male: بارتيليمي
+    female: بارتيليمية
+SH:
+    male: 'سانت هيليني'
+    female: 'سانت هيلينية'
+BY:
+    male: بيلاروسي
+    female: بيلاروسية
+BZ:
+    male: بليزي
+    female: بليزية
+BM:
+    male: برمودي
+    female: برمودية
+BO:
+    male: بوليفي
+    female: بوليفية
+BR:
+    male: برازيلي
+    female: برازيلية
+BB:
+    male: بربادوسي
+    female: بربادوسية
+BN:
+    male: بروني
+    female: برونية
+BT:
+    male: بوتاني
+    female: بوتانية
+BW:
+    male: بوتسواني
+    female: بوتسوانية
+CF:
+    male: 'أفريقي وسطي'
+    female: 'أفريقية وسطية'
+CA:
+    male: كندي
+    female: كندية
+CC:
+    male: كوكوسي
+    female: كوكوسية
+CH:
+    male: سويسري
+    female: سويسرية
+CL:
+    male: تشيلي
+    female: تشيليّة
+CN:
+    male: صيني
+    female: صينية
+CI:
+    male: إيفواري
+    female: إيفوارية
+CM:
+    male: كاميروني
+    female: كاميرونية
+CD:
+    male: كونغولي
+    female: كونغولية
+CG:
+    male: كونغولي
+    female: كونغولية
+CK:
+    male: كوكي
+    female: كوكية
+CO:
+    male: كولومبي
+    female: كولومبية
+KM:
+    male: قمري
+    female: قمرية
+CV:
+    male: 'رأس أخضري'
+    female: 'رأس أخضرية'
+CR:
+    male: كوستاريكي
+    female: كوستاريكية
+CU:
+    male: كوبي
+    female: كوبية
+CX:
+    male: كريسماسي
+    female: كريسماسية
+KY:
+    male: كايماني
+    female: كايمانية
+CY:
+    male: قبرصي
+    female: قبرصية
+CZ:
+    male: تشيكي
+    female: تشيكية
+DE:
+    male: ألماني
+    female: ألمانية
+DJ:
+    male: جيبوتي
+    female: جيبوتية
+DM:
+    male: دومينيكي
+    female: دومينيكية
+DK:
+    male: دنماركي
+    female: دنماركية
+DO:
+    male: دومينيكاني
+    female: دومينيكانية
+DZ:
+    male: جزائري
+    female: جزائرية
+EC:
+    male: إكوادوري
+    female: إكوادورية
+EG:
+    male: مصري
+    female: مصرية
+ER:
+    male: إريتري
+    female: إريترية
+EH:
+    male: صحراوي
+    female: صحراوية
+ES:
+    male: إسباني
+    female: إسبانية
+EE:
+    male: إستوني
+    female: إستونية
+ET:
+    male: إثيوبي
+    female: إثيوبية
+FI:
+    male: فنلندي
+    female: فنلندية
+FJ:
+    male: فيجي
+    female: فيجية
+FK:
+    male: فوكلاندي
+    female: فوكلاندية
+FR:
+    male: فرنسي
+    female: فرنسية
+FO:
+    male: فاروئي
+    female: فاروئية
+FM:
+    male: ميكرونيزي
+    female: ميكرونيزية
+GA:
+    male: غابوني
+    female: غابونية
+GB:
+    male: بريطاني
+    female: بريطانية
+GE:
+    male: جورجي
+    female: جورجية
+GG:
+    male: غيرنسي
+    female: غيرنسية
+GH:
+    male: غاني
+    female: غانية
+GI:
+    male: 'جبل طارقي'
+    female: 'جبل طارقية'
+GN:
+    male: غيني
+    female: غينية
+GP:
+    male: غوادلوبي
+    female: غوادلوبية
+GM:
+    male: غامبي
+    female: غامبية
+GW:
+    male: 'غيني بيساوي'
+    female: 'غينية بيساوية'
+GQ:
+    male: 'غيني استوائي'
+    female: 'غينية استوائية'
+GR:
+    male: يوناني
+    female: يونانية
+GD:
+    male: غرينادي
+    female: غرينادية
+GL:
+    male: جرينلاندي
+    female: جرينلاندية
+GT:
+    male: غواتيمالي
+    female: غواتيمالية
+GF:
+    male: غياني
+    female: غيانية
+GU:
+    male: غوامي
+    female: غوامية
+GY:
+    male: غياني
+    female: غيانية
+HK:
+    male: 'هونغ كونغي'
+    female: 'هونغ كونغية'
+HM:
+    male: هردي
+    female: هردية
+HN:
+    male: هندوراسي
+    female: هندوراسية
+HR:
+    male: كرواتي
+    female: كرواتية
+HT:
+    male: هايتي
+    female: هايتية
+HU:
+    male: مجري
+    female: مجرية
+ID:
+    male: إندونيسي
+    female: إندونيسية
+IM:
+    male: ماني
+    female: مانية
+IN:
+    male: هندي
+    female: هندية
+IO:
+    male: 'هندي محيطي'
+    female: 'هندية محيطية'
+IE:
+    male: إيرلندي
+    female: إيرلندية
+IR:
+    male: إيراني
+    female: إيرانية
+IQ:
+    male: عراقي
+    female: عراقية
+IS:
+    male: آيسلندي
+    female: آيسلندية
+IL:
+    male: فلسطيني
+    female: فلسطينية
+IT:
+    male: إيطالي
+    female: إيطالية
+JM:
+    male: جامايكي
+    female: جامايكية
+JE:
+    male: جيرسي
+    female: جيرسية
+JO:
+    male: أردني
+    female: أردنية
+JP:
+    male: ياباني
+    female: يابانية
+KZ:
+    male: كازاخستاني
+    female: كازاخستانية
+KE:
+    male: كيني
+    female: كينية
+KG:
+    male: قرغيزي
+    female: قرغيزية
+KH:
+    male: كمبودي
+    female: كمبودية
+KI:
+    male: كيريباتي
+    female: كيريباتية
+KN:
+    male: 'سانت كيتسي ونيفيسي'
+    female: 'سانت كيتسية ونيفيسية'
+KR:
+    male: 'كوري جنوبي'
+    female: 'كورية جنوبية'
+XK:
+    male: كوسوفي
+    female: كوسوفية
+KW:
+    male: كويتي
+    female: كويتية
+LA:
+    male: لاوسي
+    female: لاوسية
+LB:
+    male: لبناني
+    female: لبنانية
+LR:
+    male: ليبيري
+    female: ليبيرية
+LY:
+    male: ليبي
+    female: ليبية
+LC:
+    male: 'سانت لوسي'
+    female: 'سانت لوسية'
+LI:
+    male: ليختنشتايني
+    female: ليختنشتاينية
+LK:
+    male: سريلانكي
+    female: سريلانكية
+LS:
+    male: ليسوثي
+    female: ليسوثية
+LT:
+    male: ليتواني
+    female: ليتوانية
+LU:
+    male: لوكسمبورغي
+    female: لوكسمبورغية
+LV:
+    male: لاتفي
+    female: لاتفية
+MO:
+    male: ماكاوي
+    female: ماكاوية
+MF:
+    male: 'سانت مارتيني'
+    female: 'سانت مارتينية'
+MA:
+    male: مغربي
+    female: مغربية
+MC:
+    male: موناكي
+    female: موناكية
+MD:
+    male: مولدوفي
+    female: مولدوفية
+MG:
+    male: مدغشقري
+    female: مدغشقرية
+MV:
+    male: مالديفي
+    female: مالديفية
+MX:
+    male: مكسيكي
+    female: مكسيكية
+MH:
+    male: مارشالي
+    female: مارشالية
+MK:
+    male: مقدوني
+    female: مقدونية
+ML:
+    male: مالي
+    female: مالية
+MT:
+    male: مالطي
+    female: مالطية
+MM:
+    male: ميانماري
+    female: ميانمارية
+ME:
+    male: مونتينيغري
+    female: مونتينيغرية
+MN:
+    male: منغولي
+    female: منغولية
+MP:
+    male: 'مارياني شمالي'
+    female: 'ماريانية شمالية'
+MZ:
+    male: موزمبيقي
+    female: موزمبيقية
+MR:
+    male: موريتاني
+    female: موريتانية
+MS:
+    male: مونتسيراتي
+    female: مونتسيراتية
+MQ:
+    male: مارتينيكي
+    female: مارتينيكية
+MU:
+    male: موريشيوسي
+    female: موريشيوسية
+MW:
+    male: مالاوي
+    female: مالاوية
+MY:
+    male: ماليزي
+    female: ماليزية
+YT:
+    male: مايوتي
+    female: مايوتية
+NA:
+    male: ناميبي
+    female: ناميبية
+NC:
+    male: 'كاليدوني جديد'
+    female: 'كاليدونية جديدة'
+NE:
+    male: نيجري
+    female: نيجرية
+NF:
+    male: نورفولكي
+    female: نورفولكية
+NG:
+    male: نيجيري
+    female: نيجيرية
+NI:
+    male: نيكاراغوي
+    female: نيكاراغوية
+NU:
+    male: نييوي
+    female: نييوية
+NL:
+    male: هولندي
+    female: هولندية
+'NO':
+    male: نرويجي
+    female: نرويجية
+NP:
+    male: نيبالي
+    female: نيبالية
+NR:
+    male: ناوروي
+    female: ناوروية
+NZ:
+    male: نيوزيلندي
+    female: نيوزيلندية
+OM:
+    male: عماني
+    female: عمانية
+PK:
+    male: باكستاني
+    female: باكستانية
+PA:
+    male: بنمي
+    female: بنمية
+PN:
+    male: بيتكيرني
+    female: بيتكيرنية
+PE:
+    male: بيروفي
+    female: بيروفية
+PH:
+    male: فلبيني
+    female: فلبينية
+PW:
+    male: بالاوي
+    female: بالاوية
+PG:
+    male: 'بابوا غينيا الجديدة'
+    female: 'بابوا غينيا الجديدة'
+PL:
+    male: بولندي
+    female: بولندية
+PR:
+    male: بورتوريكي
+    female: بورتوريكية
+KP:
+    male: 'كوري شمالي'
+    female: 'كورية شمالية'
+PT:
+    male: برتغالي
+    female: برتغالية
+PY:
+    male: باراغواياني
+    female: باراغوايانية
+PS:
+    male: فلسطيني
+    female: فلسطينية
+PF:
+    male: بولينيزي
+    female: بولينيزية
+QA:
+    male: قطري
+    female: قطرية
+RE:
+    male: ريونيوني
+    female: ريونيونية
+RO:
+    male: روماني
+    female: رومانية
+RU:
+    male: روسي
+    female: روسية
+RW:
+    male: رواندي
+    female: رواندية
+SA:
+    male: سعودي
+    female: سعودية
+SD:
+    male: سوداني
+    female: سودانية
+SN:
+    male: سنغالي
+    female: سنغالية
+SG:
+    male: سنغافوري
+    female: سنغافورية
+GS:
+    male: 'جورجي جنوبي'
+    female: 'جورجية جنوبية'
+SJ:
+    male: سفالباردي
+    female: سفالباردية
+SB:
+    male: 'جزر سليماني'
+    female: 'جزر سليمانية'
+SL:
+    male: سيراليوني
+    female: سيراليونية
+SV:
+    male: سلفادوري
+    female: سلفادورية
+SM:
+    male: 'سان ماريني'
+    female: 'سان مارينية'
+SO:
+    male: صومالي
+    female: صومالية
+PM:
+    male: 'سان بيير وميكلوني'
+    female: 'سان بيير وميكلونية'
+RS:
+    male: صربي
+    female: صربية
+SS:
+    male: 'جنوب سوداني'
+    female: 'جنوب سودانية'
+ST:
+    male: 'ساو تومي'
+    female: 'ساو تومية'
+SR:
+    male: سورينامي
+    female: سورينامية
+SK:
+    male: سلوفاكي
+    female: سلوفاكية
+SI:
+    male: سلوفيني
+    female: سلوفينية
+SE:
+    male: سويدي
+    female: سويدية
+SZ:
+    male: سوازي
+    female: سوازية
+SC:
+    male: سيشلي
+    female: سيشلية
+SY:
+    male: سوري
+    female: سورية
+TC:
+    male: 'توركسي كايكوسي'
+    female: 'توركسية كايكوسية'
+TD:
+    male: تشادي
+    female: تشادية
+TG:
+    male: توغولي
+    female: توغولية
+TH:
+    male: تايلاندي
+    female: تايلاندية
+TJ:
+    male: طاجيكي
+    female: طاجيكية
+TK:
+    male: توكيلاوي
+    female: توكيلاوية
+TM:
+    male: تركماني
+    female: تركمانية
+TL:
+    male: 'تيموري شرقي'
+    female: 'تيمورية شرقية'
+TO:
+    male: تونغي
+    female: تونغية
+TT:
+    male: ترينيدادي
+    female: ترينيدادية
+TN:
+    male: تونسي
+    female: تونسية
+TR:
+    male: تركي
+    female: تركية
+TV:
+    male: توفالي
+    female: توفالية
+TW:
+    male: تايواني
+    female: تايوانية
+TZ:
+    male: تنزاني
+    female: تنزانية
+UG:
+    male: أوغندي
+    female: أوغندية
+UA:
+    male: أوكراني
+    female: أوكرانية
+UM:
+    male: 'أمريكي جزري'
+    female: 'أمريكية جزرية'
+UY:
+    male: أورغواياني
+    female: أورغوايانية
+US:
+    male: أمريكي
+    female: أمريكية
+UZ:
+    male: أوزبكي
+    female: أوزبكية
+VA:
+    male: فاتيكان
+    female: فاتيكانية
+VC:
+    male: 'سانت فنسنتي'
+    female: 'سانت فنسنتية'
+VE:
+    male: فنزويلي
+    female: فنزويلية
+VG:
+    male: 'فيرجيني بريطاني'
+    female: 'فيرجينية بريطانية'
+VI:
+    male: 'فيرجيني أمريكي'
+    female: 'فيرجينية أمريكية'
+VN:
+    male: فيتنامي
+    female: فيتنامية
+VU:
+    male: فانواتوي
+    female: فانواتوية
+WF:
+    male: واليسي
+    female: واليسية
+WS:
+    male: ساموا
+    female: ساموية
+YE:
+    male: يمني
+    female: يمنية
+ZA:
+    male: 'جنوب أفريقي'
+    female: 'جنوب أفريقية'
+ZM:
+    male: زامبي
+    female: زامبية
+ZW:
+    male: زيمبابوي
+    female: زيمبابوية

@@ -1,0 +1,732 @@
+AW:
+    male: 阿鲁巴人
+    female: 阿鲁巴人
+AF:
+    male: 阿富汗人
+    female: 阿富汗人
+AO:
+    male: 安哥拉人
+    female: 安哥拉人
+AI:
+    male: 安圭拉人
+    female: 安圭拉人
+AX:
+    male: 奥兰群岛人
+    female: 奥兰群岛人
+AL:
+    male: 阿尔巴尼亚人
+    female: 阿尔巴尼亚人
+AD:
+    male: 安道尔人
+    female: 安道尔人
+AE:
+    male: 阿联酋人
+    female: 阿联酋人
+AR:
+    male: 阿根廷人
+    female: 阿根廷人
+AM:
+    male: 亚美尼亚人
+    female: 亚美尼亚人
+AS:
+    male: 萨摩亚人
+    female: 萨摩亚人
+AG:
+    male: 安提瓜和巴布达人
+    female: 安提瓜和巴布达人
+AU:
+    male: 澳大利亚人
+    female: 澳大利亚人
+AT:
+    male: 奥地利人
+    female: 奥地利人
+AZ:
+    male: 阿塞拜疆人
+    female: 阿塞拜疆人
+BI:
+    male: 布隆迪人
+    female: 布隆迪人
+BE:
+    male: 比利时人
+    female: 比利时人
+BJ:
+    male: 贝宁人
+    female: 贝宁人
+BF:
+    male: 布基纳法索人
+    female: 布基纳法索人
+BD:
+    male: 孟加拉国人
+    female: 孟加拉国人
+BG:
+    male: 保加利亚人
+    female: 保加利亚人
+BH:
+    male: 巴林人
+    female: 巴林人
+BS:
+    male: 巴哈马人
+    female: 巴哈马人
+BA:
+    male: 波斯尼亚人
+    female: 波斯尼亚人
+BL:
+    male: 圣巴泰勒米人
+    female: 圣巴泰勒米人
+SH:
+    male: 圣赫勒拿人
+    female: 圣赫勒拿人
+BY:
+    male: 白俄罗斯人
+    female: 白俄罗斯人
+BZ:
+    male: 伯利兹人
+    female: 伯利兹人
+BM:
+    male: 百慕大人
+    female: 百慕大人
+BO:
+    male: 玻利维亚人
+    female: 玻利维亚人
+BR:
+    male: 巴西人
+    female: 巴西人
+BB:
+    male: 巴巴多斯人
+    female: 巴巴多斯人
+BN:
+    male: 文莱人
+    female: 文莱人
+BT:
+    male: 不丹人
+    female: 不丹人
+BW:
+    male: 博茨瓦纳人
+    female: 博茨瓦纳人
+CF:
+    male: 中非人
+    female: 中非人
+CA:
+    male: 加拿大人
+    female: 加拿大人
+CC:
+    male: 科科斯群岛人
+    female: 科科斯群岛人
+CH:
+    male: 瑞士人
+    female: 瑞士人
+CL:
+    male: 智利人
+    female: 智利人
+CN:
+    male: 中国人
+    female: 中国人
+CI:
+    male: 科特迪瓦人
+    female: 科特迪瓦人
+CM:
+    male: 喀麦隆人
+    female: 喀麦隆人
+CD:
+    male: 刚果（金）人
+    female: 刚果（金）人
+CG:
+    male: 刚果（布）人
+    female: 刚果（布）人
+CK:
+    male: 库克群岛人
+    female: 库克群岛人
+CO:
+    male: 哥伦比亚人
+    female: 哥伦比亚人
+KM:
+    male: 科摩罗人
+    female: 科摩罗人
+CV:
+    male: 佛得角人
+    female: 佛得角人
+CR:
+    male: 哥斯达黎加人
+    female: 哥斯达黎加人
+CU:
+    male: 古巴人
+    female: 古巴人
+CX:
+    male: 圣诞岛人
+    female: 圣诞岛人
+KY:
+    male: 开曼群岛人
+    female: 开曼群岛人
+CY:
+    male: 塞浦路斯人
+    female: 塞浦路斯人
+CZ:
+    male: 捷克人
+    female: 捷克人
+DE:
+    male: 德国人
+    female: 德国人
+DJ:
+    male: 吉布提人
+    female: 吉布提人
+DM:
+    male: 多米尼克人
+    female: 多米尼克人
+DK:
+    male: 丹麦人
+    female: 丹麦人
+DO:
+    male: 多米尼加人
+    female: 多米尼加人
+DZ:
+    male: 阿尔及利亚人
+    female: 阿尔及利亚人
+EC:
+    male: 厄瓜多人
+    female: 厄瓜多人
+EG:
+    male: 埃及人
+    female: 埃及人
+ER:
+    male: 厄立特里亚人
+    female: 厄立特里亚人
+EH:
+    male: 西撒哈拉人
+    female: 西撒哈拉人
+ES:
+    male: 西班牙人
+    female: 西班牙人
+EE:
+    male: 爱沙尼亚人
+    female: 爱沙尼亚人
+ET:
+    male: 埃塞俄比亚人
+    female: 埃塞俄比亚人
+FI:
+    male: 芬兰人
+    female: 芬兰人
+FJ:
+    male: 斐济人
+    female: 斐济人
+FK:
+    male: 福克兰群岛人
+    female: 福克兰群岛人
+FR:
+    male: 法国人
+    female: 法国人
+FO:
+    male: 法罗群岛人
+    female: 法罗群岛人
+FM:
+    male: 密克罗尼西亚人
+    female: 密克罗尼西亚人
+GA:
+    male: 加蓬人
+    female: 加蓬人
+GB:
+    male: 英国人
+    female: 英国人
+GE:
+    male: 格鲁吉亚人
+    female: 格鲁吉亚人
+GG:
+    male: 根西岛人
+    female: 根西岛人
+GH:
+    male: 加纳人
+    female: 加纳人
+GI:
+    male: 直布罗陀人
+    female: 直布罗陀人
+GN:
+    male: 几内亚人
+    female: 几内亚人
+GP:
+    male: 瓜德罗普人
+    female: 瓜德罗普人
+GM:
+    male: 冈比亚人
+    female: 冈比亚人
+GW:
+    male: 几内亚比绍人
+    female: 几内亚比绍人
+GQ:
+    male: 赤道几内亚人
+    female: 赤道几内亚人
+GR:
+    male: 希腊人
+    female: 希腊人
+GD:
+    male: 格林纳达人
+    female: 格林纳达人
+GL:
+    male: 格陵兰人
+    female: 格陵兰人
+GT:
+    male: 危地马拉人
+    female: 危地马拉人
+GF:
+    male: 法属圭亚那人
+    female: 法属圭亚那人
+GU:
+    male: 关岛人
+    female: 关岛人
+GY:
+    male: 圭亚那人
+    female: 圭亚那人
+HK:
+    male: 香港人
+    female: 香港人
+HM:
+    male: 赫德岛和麦克唐纳群岛人
+    female: 赫德岛和麦克唐纳群岛人
+HN:
+    male: 洪都拉斯人
+    female: 洪都拉斯人
+HR:
+    male: 克罗地亚人
+    female: 克罗地亚人
+HT:
+    male: 海地人
+    female: 海地人
+HU:
+    male: 匈牙利人
+    female: 匈牙利人
+ID:
+    male: 印度尼西亚人
+    female: 印度尼西亚人
+IM:
+    male: 马恩岛人
+    female: 马恩岛人
+IN:
+    male: 印度人
+    female: 印度人
+IO:
+    male: 英属印度洋领地人
+    female: 英属印度洋领地人
+IE:
+    male: 爱尔兰人
+    female: 爱尔兰人
+IR:
+    male: 伊朗人
+    female: 伊朗人
+IQ:
+    male: 伊拉克人
+    female: 伊拉克人
+IS:
+    male: 冰岛人
+    female: 冰岛人
+IL:
+    male: 以色列人
+    female: 以色列人
+IT:
+    male: 意大利人
+    female: 意大利人
+JM:
+    male: 牙买加人
+    female: 牙买加人
+JE:
+    male: 泽西岛人
+    female: 泽西岛人
+JO:
+    male: 约旦人
+    female: 约旦人
+JP:
+    male: 日本人
+    female: 日本人
+KZ:
+    male: 哈萨克斯坦人
+    female: 哈萨克斯坦人
+KE:
+    male: 肯尼亚人
+    female: 肯尼亚人
+KG:
+    male: 吉尔吉斯斯坦人
+    female: 吉尔吉斯斯坦人
+KH:
+    male: 柬埔寨人
+    female: 柬埔寨人
+KI:
+    male: 基里巴斯人
+    female: 基里巴斯人
+KN:
+    male: 圣基茨和尼维斯人
+    female: 圣基茨和尼维斯人
+KR:
+    male: 韩国人
+    female: 韩国人
+XK:
+    male: 科索沃人
+    female: 科索沃人
+KW:
+    male: 科威特人
+    female: 科威特人
+LA:
+    male: 老挝人
+    female: 老挝人
+LB:
+    male: 黎巴嫩人
+    female: 黎巴嫩人
+LR:
+    male: 利比里亚人
+    female: 利比里亚人
+LY:
+    male: 利比亚人
+    female: 利比亚人
+LC:
+    male: 圣卢西亚人
+    female: 圣卢西亚人
+LI:
+    male: 列支敦士登人
+    female: 列支敦士登人
+LK:
+    male: 斯里兰卡人
+    female: 斯里兰卡人
+LS:
+    male: 莱索托人
+    female: 莱索托人
+LT:
+    male: 立陶宛人
+    female: 立陶宛人
+LU:
+    male: 卢森堡人
+    female: 卢森堡人
+LV:
+    male: 拉脱维亚人
+    female: 拉脱维亚人
+MO:
+    male: 澳门人
+    female: 澳门人
+MF:
+    male: 圣马丁人
+    female: 圣马丁人
+MA:
+    male: 摩洛哥人
+    female: 摩洛哥人
+MC:
+    male: 摩纳哥人
+    female: 摩纳哥人
+MD:
+    male: 摩尔多瓦人
+    female: 摩尔多瓦人
+MG:
+    male: 马达加斯加人
+    female: 马达加斯加人
+MV:
+    male: 马尔代夫人
+    female: 马尔代夫人
+MX:
+    male: 墨西哥人
+    female: 墨西哥人
+MH:
+    male: 马绍尔群岛人
+    female: 马绍尔群岛人
+MK:
+    male: 北马其顿人
+    female: 北马其顿人
+ML:
+    male: 马里人
+    female: 马里人
+MT:
+    male: 马耳他人
+    female: 马耳他人
+MM:
+    male: 缅甸人
+    female: 缅甸人
+ME:
+    male: 黑山人
+    female: 黑山人
+MN:
+    male: 蒙古人
+    female: 蒙古人
+MP:
+    male: 北马里亚纳人
+    female: 北马里亚纳人
+MZ:
+    male: 莫桑比克人
+    female: 莫桑比克人
+MR:
+    male: 毛里塔尼亚人
+    female: 毛里塔尼亚人
+MS:
+    male: 蒙特塞拉特人
+    female: 蒙特塞拉特人
+MQ:
+    male: 马提尼克人
+    female: 马提尼克人
+MU:
+    male: 毛里求斯人
+    female: 毛里求斯人
+MW:
+    male: 马拉维人
+    female: 马拉维人
+MY:
+    male: 马来西亚人
+    female: 马来西亚人
+YT:
+    male: 马约特人
+    female: 马约特人
+NA:
+    male: 纳米比亚人
+    female: 纳米比亚人
+NC:
+    male: 新喀里多尼亚人
+    female: 新喀里多尼亚人
+NE:
+    male: 尼日尔人
+    female: 尼日尔人
+NF:
+    male: 诺福克岛人
+    female: 诺福克岛人
+NG:
+    male: 尼日利亚人
+    female: 尼日利亚人
+NI:
+    male: 尼加拉瓜人
+    female: 尼加拉瓜人
+NU:
+    male: 纽埃人
+    female: 纽埃人
+NL:
+    male: 荷兰人
+    female: 荷兰人
+'NO':
+    male: 挪威人
+    female: 挪威人
+NP:
+    male: 尼泊尔人
+    female: 尼泊尔人
+NR:
+    male: 瑙鲁人
+    female: 瑙鲁人
+NZ:
+    male: 新西兰人
+    female: 新西兰人
+OM:
+    male: 阿曼人
+    female: 阿曼人
+PK:
+    male: 巴基斯坦人
+    female: 巴基斯坦人
+PA:
+    male: 巴拿马人
+    female: 巴拿马人
+PN:
+    male: 皮特凯恩人
+    female: 皮特凯恩人
+PE:
+    male: 秘鲁人
+    female: 秘鲁人
+PH:
+    male: 菲律宾人
+    female: 菲律宾人
+PW:
+    male: 帕劳人
+    female: 帕劳人
+PG:
+    male: 巴布亚新几内亚人
+    female: 巴布亚新几内亚人
+PL:
+    male: 波兰人
+    female: 波兰人
+PR:
+    male: 波多黎各人
+    female: 波多黎各人
+KP:
+    male: 朝鲜人
+    female: 朝鲜人
+PT:
+    male: 葡萄牙人
+    female: 葡萄牙人
+PY:
+    male: 巴拉圭人
+    female: 巴拉圭人
+PS:
+    male: 巴勒斯坦人
+    female: 巴勒斯坦人
+PF:
+    male: 法属波利尼西亚人
+    female: 法属波利尼西亚人
+QA:
+    male: 卡塔尔人
+    female: 卡塔尔人
+RE:
+    male: 留尼汪人
+    female: 留尼汪人
+RO:
+    male: 罗马尼亚人
+    female: 罗马尼亚人
+RU:
+    male: 俄罗斯人
+    female: 俄罗斯人
+RW:
+    male: 卢旺达人
+    female: 卢旺达人
+SA:
+    male: 沙特阿拉伯人
+    female: 沙特阿拉伯人
+SD:
+    male: 苏丹人
+    female: 苏丹人
+SN:
+    male: 塞内加尔人
+    female: 塞内加尔人
+SG:
+    male: 新加坡人
+    female: 新加坡人
+GS:
+    male: 南乔治亚和南桑威奇群岛人
+    female: 南乔治亚和南桑威奇群岛人
+SJ:
+    male: 斯瓦尔巴和扬马延人
+    female: 斯瓦尔巴和扬马延人
+SB:
+    male: 所罗门群岛人
+    female: 所罗门群岛人
+SL:
+    male: 塞拉利昂人
+    female: 塞拉利昂人
+SV:
+    male: 萨尔瓦多人
+    female: 萨尔瓦多人
+SM:
+    male: 圣马力诺人
+    female: 圣马力诺人
+SO:
+    male: 索马里人
+    female: 索马里人
+PM:
+    male: 圣皮埃尔和密克隆人
+    female: 圣皮埃尔和密克隆人
+RS:
+    male: 塞尔维亚人
+    female: 塞尔维亚人
+SS:
+    male: 南苏丹人
+    female: 南苏丹人
+ST:
+    male: 圣多美和普林西比人
+    female: 圣多美和普林西比人
+SR:
+    male: 苏里南人
+    female: 苏里南人
+SK:
+    male: 斯洛伐克人
+    female: 斯洛伐克人
+SI:
+    male: 斯洛文尼亚人
+    female: 斯洛文尼亚人
+SE:
+    male: 瑞典人
+    female: 瑞典人
+SZ:
+    male: 斯威士兰人
+    female: 斯威士兰人
+SC:
+    male: 塞舌尔人
+    female: 塞舌尔人
+SY:
+    male: 叙利亚人
+    female: 叙利亚人
+TC:
+    male: 特克斯和凯科斯群岛人
+    female: 特克斯和凯科斯群岛人
+TD:
+    male: 乍得人
+    female: 乍得人
+TG:
+    male: 多哥人
+    female: 多哥人
+TH:
+    male: 泰国人
+    female: 泰国人
+TJ:
+    male: 塔吉克斯坦人
+    female: 塔吉克斯坦人
+TK:
+    male: 托克劳人
+    female: 托克劳人
+TM:
+    male: 土库曼斯坦人
+    female: 土库曼斯坦人
+TL:
+    male: 东帝汶人
+    female: 东帝汶人
+TO:
+    male: 汤加人
+    female: 汤加人
+TT:
+    male: 特立尼达人
+    female: 特立尼达人
+TN:
+    male: 突尼斯人
+    female: 突尼斯人
+TR:
+    male: 土耳其人
+    female: 土耳其人
+TV:
+    male: 图瓦卢人
+    female: 图瓦卢人
+TW:
+    male: 台湾人
+    female: 台湾人
+TZ:
+    male: 坦桑尼亚人
+    female: 坦桑尼亚人
+UG:
+    male: 乌干达人
+    female: 乌干达人
+UA:
+    male: 乌克兰人
+    female: 乌克兰人
+UM:
+    male: 美国本土外小岛屿人
+    female: 美国本土外小岛屿人
+UY:
+    male: 乌拉圭人
+    female: 乌拉圭人
+US:
+    male: 美国人
+    female: 美国人
+UZ:
+    male: 乌兹别克斯坦人
+    female: 乌兹别克斯坦人
+VA:
+    male: 梵蒂冈人
+    female: 梵蒂冈人
+VC:
+    male: 圣文森特和格林纳丁斯人
+    female: 圣文森特和格林纳丁斯人
+VE:
+    male: 委内瑞拉人
+    female: 委内瑞拉人
+VG:
+    male: 英属维尔京群岛人
+    female: 英属维尔京群岛人
+VI:
+    male: 美属维尔京群岛人
+    female: 美属维尔京群岛人
+VN:
+    male: 越南人
+    female: 越南人
+VU:
+    male: 瓦努阿图人
+    female: 瓦努阿图人
+WF:
+    male: 瓦利斯和富图纳人
+    female: 瓦利斯和富图纳人
+WS:
+    male: 萨摩亚人
+    female: 萨摩亚人
+YE:
+    male: 也门人
+    female: 也门人
+ZA:
+    male: 南非人
+    female: 南非人
+ZM:
+    male: 赞比亚人
+    female: 赞比亚人
+ZW:
+    male: 津巴布韦人
+    female: 津巴布韦人

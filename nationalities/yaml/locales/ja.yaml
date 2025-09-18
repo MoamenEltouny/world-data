@@ -1,0 +1,732 @@
+AW:
+    male: アルバ人
+    female: アルバ人
+AF:
+    male: アフガニスタン人
+    female: アフガニスタン人
+AO:
+    male: アンゴラ人
+    female: アンゴラ人
+AI:
+    male: アンギラ人
+    female: アンギラ人
+AX:
+    male: オーランド諸島人
+    female: オーランド諸島人
+AL:
+    male: アルバニア人
+    female: アルバニア人
+AD:
+    male: アンドラ人
+    female: アンドラ人
+AE:
+    male: アラブ首長国連邦人
+    female: アラブ首長国連邦人
+AR:
+    male: アルゼンチン人
+    female: アルゼンチン人
+AM:
+    male: アルメニア人
+    female: アルメニア人
+AS:
+    male: アメリカ領サモア人
+    female: アメリカ領サモア人
+AG:
+    male: アンティグア・バーブーダ人
+    female: アンティグア・バーブーダ人
+AU:
+    male: オーストラリア人
+    female: オーストラリア人
+AT:
+    male: オーストリア人
+    female: オーストリア人
+AZ:
+    male: アゼルバイジャン人
+    female: アゼルバイジャン人
+BI:
+    male: ブルンジ人
+    female: ブルンジ人
+BE:
+    male: ベルギー人
+    female: ベルギー人
+BJ:
+    male: ベナン人
+    female: ベナン人
+BF:
+    male: ブルキナファソ人
+    female: ブルキナファソ人
+BD:
+    male: バングラデシュ人
+    female: バングラデシュ人
+BG:
+    male: ブルガリア人
+    female: ブルガリア人
+BH:
+    male: バーレーン人
+    female: バーレーン人
+BS:
+    male: バハマ人
+    female: バハマ人
+BA:
+    male: ボスニア人
+    female: ボスニア人
+BL:
+    male: サン・バルテルミー人
+    female: サン・バルテルミー人
+SH:
+    male: セントヘレナ人
+    female: セントヘレナ人
+BY:
+    male: ベラルーシ人
+    female: ベラルーシ人
+BZ:
+    male: ベリーズ人
+    female: ベリーズ人
+BM:
+    male: バミューダ人
+    female: バミューダ人
+BO:
+    male: ボリビア人
+    female: ボリビア人
+BR:
+    male: ブラジル人
+    female: ブラジル人
+BB:
+    male: バルバドス人
+    female: バルバドス人
+BN:
+    male: ブルネイ人
+    female: ブルネイ人
+BT:
+    male: ブータン人
+    female: ブータン人
+BW:
+    male: ボツワナ人
+    female: ボツワナ人
+CF:
+    male: 中央アフリカ人
+    female: 中央アフリカ人
+CA:
+    male: カナダ人
+    female: カナダ人
+CC:
+    male: ココス諸島人
+    female: ココス諸島人
+CH:
+    male: スイス人
+    female: スイス人
+CL:
+    male: チリ人
+    female: チリ人
+CN:
+    male: 中国人
+    female: 中国人
+CI:
+    male: コートジボワール人
+    female: コートジボワール人
+CM:
+    male: カメルーン人
+    female: カメルーン人
+CD:
+    male: コンゴ民主共和国人
+    female: コンゴ民主共和国人
+CG:
+    male: コンゴ共和国人
+    female: コンゴ共和国人
+CK:
+    male: クック諸島人
+    female: クック諸島人
+CO:
+    male: コロンビア人
+    female: コロンビア人
+KM:
+    male: コモロ人
+    female: コモロ人
+CV:
+    male: カーボベルデ人
+    female: カーボベルデ人
+CR:
+    male: コスタリカ人
+    female: コスタリカ人
+CU:
+    male: キューバ人
+    female: キューバ人
+CX:
+    male: クリスマス島人
+    female: クリスマス島人
+KY:
+    male: ケイマン諸島人
+    female: ケイマン諸島人
+CY:
+    male: キプロス人
+    female: キプロス人
+CZ:
+    male: チェコ人
+    female: チェコ人
+DE:
+    male: ドイツ人
+    female: ドイツ人
+DJ:
+    male: ジブチ人
+    female: ジブチ人
+DM:
+    male: ドミニカ国人
+    female: ドミニカ国人
+DK:
+    male: デンマーク人
+    female: デンマーク人
+DO:
+    male: ドミニカ共和国人
+    female: ドミニカ共和国人
+DZ:
+    male: アルジェリア人
+    female: アルジェリア人
+EC:
+    male: エクアドル人
+    female: エクアドル人
+EG:
+    male: エジプト人
+    female: エジプト人
+ER:
+    male: エリトリア人
+    female: エリトリア人
+EH:
+    male: 西サハラ人
+    female: 西サハラ人
+ES:
+    male: スペイン人
+    female: スペイン人
+EE:
+    male: エストニア人
+    female: エストニア人
+ET:
+    male: エチオピア人
+    female: エチオピア人
+FI:
+    male: フィンランド人
+    female: フィンランド人
+FJ:
+    male: フィジー人
+    female: フィジー人
+FK:
+    male: フォークランド諸島人
+    female: フォークランド諸島人
+FR:
+    male: フランス人
+    female: フランス人
+FO:
+    male: フェロー諸島人
+    female: フェロー諸島人
+FM:
+    male: ミクロネシア人
+    female: ミクロネシア人
+GA:
+    male: ガボン人
+    female: ガボン人
+GB:
+    male: イギリス人
+    female: イギリス人
+GE:
+    male: ジョージア人
+    female: ジョージア人
+GG:
+    male: ガーンジー人
+    female: ガーンジー人
+GH:
+    male: ガーナ人
+    female: ガーナ人
+GI:
+    male: ジブラルタル人
+    female: ジブラルタル人
+GN:
+    male: ギニア人
+    female: ギニア人
+GP:
+    male: グアドループ人
+    female: グアドループ人
+GM:
+    male: ガンビア人
+    female: ガンビア人
+GW:
+    male: ギニアビサウ人
+    female: ギニアビサウ人
+GQ:
+    male: 赤道ギニア人
+    female: 赤道ギニア人
+GR:
+    male: ギリシャ人
+    female: ギリシャ人
+GD:
+    male: グレナダ人
+    female: グレナダ人
+GL:
+    male: グリーンランド人
+    female: グリーンランド人
+GT:
+    male: グアテマラ人
+    female: グアテマラ人
+GF:
+    male: 仏領ギアナ人
+    female: 仏領ギアナ人
+GU:
+    male: グアム人
+    female: グアム人
+GY:
+    male: ガイアナ人
+    female: ガイアナ人
+HK:
+    male: 香港人
+    female: 香港人
+HM:
+    male: ハード島・マクドナルド諸島人
+    female: ハード島・マクドナルド諸島人
+HN:
+    male: ホンジュラス人
+    female: ホンジュラス人
+HR:
+    male: クロアチア人
+    female: クロアチア人
+HT:
+    male: ハイチ人
+    female: ハイチ人
+HU:
+    male: ハンガリー人
+    female: ハンガリー人
+ID:
+    male: インドネシア人
+    female: インドネシア人
+IM:
+    male: マン島人
+    female: マン島人
+IN:
+    male: インド人
+    female: インド人
+IO:
+    male: 英領インド洋地域人
+    female: 英領インド洋地域人
+IE:
+    male: アイルランド人
+    female: アイルランド人
+IR:
+    male: イラン人
+    female: イラン人
+IQ:
+    male: イラク人
+    female: イラク人
+IS:
+    male: アイスランド人
+    female: アイスランド人
+IL:
+    male: イスラエル人
+    female: イスラエル人
+IT:
+    male: イタリア人
+    female: イタリア人
+JM:
+    male: ジャマイカ人
+    female: ジャマイカ人
+JE:
+    male: ジャージー人
+    female: ジャージー人
+JO:
+    male: ヨルダン人
+    female: ヨルダン人
+JP:
+    male: 日本人
+    female: 日本人
+KZ:
+    male: カザフスタン人
+    female: カザフスタン人
+KE:
+    male: ケニア人
+    female: ケニア人
+KG:
+    male: キルギス人
+    female: キルギス人
+KH:
+    male: カンボジア人
+    female: カンボジア人
+KI:
+    male: キリバス人
+    female: キリバス人
+KN:
+    male: セントクリストファー・ネイビス人
+    female: セントクリストファー・ネイビス人
+KR:
+    male: 韓国人
+    female: 韓国人
+XK:
+    male: コソボ人
+    female: コソボ人
+KW:
+    male: クウェート人
+    female: クウェート人
+LA:
+    male: ラオス人
+    female: ラオス人
+LB:
+    male: レバノン人
+    female: レバノン人
+LR:
+    male: リベリア人
+    female: リベリア人
+LY:
+    male: リビア人
+    female: リビア人
+LC:
+    male: セントルシア人
+    female: セントルシア人
+LI:
+    male: リヒテンシュタイン人
+    female: リヒテンシュタイン人
+LK:
+    male: スリランカ人
+    female: スリランカ人
+LS:
+    male: レソト人
+    female: レソト人
+LT:
+    male: リトアニア人
+    female: リトアニア人
+LU:
+    male: ルクセンブルク人
+    female: ルクセンブルク人
+LV:
+    male: ラトビア人
+    female: ラトビア人
+MO:
+    male: マカオ人
+    female: マカオ人
+MF:
+    male: サン・マルタン人
+    female: サン・マルタン人
+MA:
+    male: モロッコ人
+    female: モロッコ人
+MC:
+    male: モナコ人
+    female: モナコ人
+MD:
+    male: モルドバ人
+    female: モルドバ人
+MG:
+    male: マダガスカル人
+    female: マダガスカル人
+MV:
+    male: モルディブ人
+    female: モルディブ人
+MX:
+    male: メキシコ人
+    female: メキシコ人
+MH:
+    male: マーシャル諸島人
+    female: マーシャル諸島人
+MK:
+    male: 北マケドニア人
+    female: 北マケドニア人
+ML:
+    male: マリ人
+    female: マリ人
+MT:
+    male: マルタ人
+    female: マルタ人
+MM:
+    male: ミャンマー人
+    female: ミャンマー人
+ME:
+    male: モンテネグロ人
+    female: モンテネグロ人
+MN:
+    male: モンゴル人
+    female: モンゴル人
+MP:
+    male: 北マリアナ諸島人
+    female: 北マリアナ諸島人
+MZ:
+    male: モザンビーク人
+    female: モザンビーク人
+MR:
+    male: モーリタニア人
+    female: モーリタニア人
+MS:
+    male: モントセラト人
+    female: モントセラト人
+MQ:
+    male: マルティニーク人
+    female: マルティニーク人
+MU:
+    male: モーリシャス人
+    female: モーリシャス人
+MW:
+    male: マラウイ人
+    female: マラウイ人
+MY:
+    male: マレーシア人
+    female: マレーシア人
+YT:
+    male: マヨット人
+    female: マヨット人
+NA:
+    male: ナミビア人
+    female: ナミビア人
+NC:
+    male: ニューカレドニア人
+    female: ニューカレドニア人
+NE:
+    male: ニジェール人
+    female: ニジェール人
+NF:
+    male: ノーフォーク島人
+    female: ノーフォーク島人
+NG:
+    male: ナイジェリア人
+    female: ナイジェリア人
+NI:
+    male: ニカラグア人
+    female: ニカラグア人
+NU:
+    male: ニウエ人
+    female: ニウエ人
+NL:
+    male: オランダ人
+    female: オランダ人
+'NO':
+    male: ノルウェー人
+    female: ノルウェー人
+NP:
+    male: ネパール人
+    female: ネパール人
+NR:
+    male: ナウル人
+    female: ナウル人
+NZ:
+    male: ニュージーランド人
+    female: ニュージーランド人
+OM:
+    male: オマーン人
+    female: オマーン人
+PK:
+    male: パキスタン人
+    female: パキスタン人
+PA:
+    male: パナマ人
+    female: パナマ人
+PN:
+    male: ピトケアン人
+    female: ピトケアン人
+PE:
+    male: ペルー人
+    female: ペルー人
+PH:
+    male: フィリピン人
+    female: フィリピン人
+PW:
+    male: パラオ人
+    female: パラオ人
+PG:
+    male: パプアニューギニア人
+    female: パプアニューギニア人
+PL:
+    male: ポーランド人
+    female: ポーランド人
+PR:
+    male: プエルトリコ人
+    female: プエルトリコ人
+KP:
+    male: 北朝鮮人
+    female: 北朝鮮人
+PT:
+    male: ポルトガル人
+    female: ポルトガル人
+PY:
+    male: パラグアイ人
+    female: パラグアイ人
+PS:
+    male: パレスチナ人
+    female: パレスチナ人
+PF:
+    male: フランス領ポリネシア人
+    female: フランス領ポリネシア人
+QA:
+    male: カタール人
+    female: カタール人
+RE:
+    male: レユニオン人
+    female: レユニオン人
+RO:
+    male: ルーマニア人
+    female: ルーマニア人
+RU:
+    male: ロシア人
+    female: ロシア人
+RW:
+    male: ルワンダ人
+    female: ルワンダ人
+SA:
+    male: サウジアラビア人
+    female: サウジアラビア人
+SD:
+    male: スーダン人
+    female: スーダン人
+SN:
+    male: セネガル人
+    female: セネガル人
+SG:
+    male: シンガポール人
+    female: シンガポール人
+GS:
+    male: サウスジョージア・サウスサンドウィッチ諸島人
+    female: サウスジョージア・サウスサンドウィッチ諸島人
+SJ:
+    male: スバールバル諸島人
+    female: スバールバル諸島人
+SB:
+    male: ソロモン諸島人
+    female: ソロモン諸島人
+SL:
+    male: シエラレオネ人
+    female: シエラレオネ人
+SV:
+    male: エルサルバドル人
+    female: エルサルバドル人
+SM:
+    male: サンマリノ人
+    female: サンマリノ人
+SO:
+    male: ソマリア人
+    female: ソマリア人
+PM:
+    male: サンピエール島・ミクロン島人
+    female: サンピエール島・ミクロン島人
+RS:
+    male: セルビア人
+    female: セルビア人
+SS:
+    male: 南スーダン人
+    female: 南スーダン人
+ST:
+    male: サントメ・プリンシペ人
+    female: サントメ・プリンシペ人
+SR:
+    male: スリナム人
+    female: スリナム人
+SK:
+    male: スロバキア人
+    female: スロバキア人
+SI:
+    male: スロベニア人
+    female: スロベニア人
+SE:
+    male: スウェーデン人
+    female: スウェーデン人
+SZ:
+    male: エスワティニ人
+    female: エスワティニ人
+SC:
+    male: セーシェル人
+    female: セーシェル人
+SY:
+    male: シリア人
+    female: シリア人
+TC:
+    male: タークス・カイコス諸島人
+    female: タークス・カイコス諸島人
+TD:
+    male: チャド人
+    female: チャド人
+TG:
+    male: トーゴ人
+    female: トーゴ人
+TH:
+    male: タイ人
+    female: タイ人
+TJ:
+    male: タジキスタン人
+    female: タジキスタン人
+TK:
+    male: トケラウ人
+    female: トケラウ人
+TM:
+    male: トルクメニスタン人
+    female: トルクメニスタン人
+TL:
+    male: 東ティモール人
+    female: 東ティモール人
+TO:
+    male: トンガ人
+    female: トンガ人
+TT:
+    male: トリニダード・トバゴ人
+    female: トリニダード・トバゴ人
+TN:
+    male: チュニジア人
+    female: チュニジア人
+TR:
+    male: トルコ人
+    female: トルコ人
+TV:
+    male: ツバル人
+    female: ツバル人
+TW:
+    male: 台湾人
+    female: 台湾人
+TZ:
+    male: タンザニア人
+    female: タンザニア人
+UG:
+    male: ウガンダ人
+    female: ウガンダ人
+UA:
+    male: ウクライナ人
+    female: ウクライナ人
+UM:
+    male: アメリカ領離島人
+    female: アメリカ領離島人
+UY:
+    male: ウルグアイ人
+    female: ウルグアイ人
+US:
+    male: アメリカ人
+    female: アメリカ人
+UZ:
+    male: ウズベキスタン人
+    female: ウズベキスタン人
+VA:
+    male: バチカン人
+    female: バチカン人
+VC:
+    male: セントビンセント及びグレナディーン諸島人
+    female: セントビンセント及びグレナディーン諸島人
+VE:
+    male: ベネズエラ人
+    female: ベネズエラ人
+VG:
+    male: イギリス領ヴァージン諸島人
+    female: イギリス領ヴァージン諸島人
+VI:
+    male: アメリカ領ヴァージン諸島人
+    female: アメリカ領ヴァージン諸島人
+VN:
+    male: ベトナム人
+    female: ベトナム人
+VU:
+    male: バヌアツ人
+    female: バヌアツ人
+WF:
+    male: ウォリス・フツナ人
+    female: ウォリス・フツナ人
+WS:
+    male: サモア人
+    female: サモア人
+YE:
+    male: イエメン人
+    female: イエメン人
+ZA:
+    male: 南アフリカ人
+    female: 南アフリカ人
+ZM:
+    male: ザンビア人
+    female: ザンビア人
+ZW:
+    male: ジンバブエ人
+    female: ジンバブエ人
