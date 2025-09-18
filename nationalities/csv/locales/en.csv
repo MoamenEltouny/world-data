@@ -1,0 +1,245 @@
+code,male,female
+AW,Aruban,Aruban
+AF,Afghan,Afghan
+AO,Angolan,Angolan
+AI,Anguillian,Anguillian
+AX,Ålandish,Ålandish
+AL,Albanian,Albanian
+AD,Andorran,Andorran
+AE,Emirati,Emirati
+AR,Argentine,Argentine
+AM,Armenian,Armenian
+AS,"American Samoan","American Samoan"
+AG,"Antiguan, Barbudan","Antiguan, Barbudan"
+AU,Australian,Australian
+AT,Austrian,Austrian
+AZ,Azerbaijani,Azerbaijani
+BI,Burundian,Burundian
+BE,Belgian,Belgian
+BJ,Beninese,Beninese
+BF,Burkinabe,Burkinabe
+BD,Bangladeshi,Bangladeshi
+BG,Bulgarian,Bulgarian
+BH,Bahraini,Bahraini
+BS,Bahamian,Bahamian
+BA,"Bosnian, Herzegovinian","Bosnian, Herzegovinian"
+BL,"Saint Barthélemy Islander","Saint Barthélemy Islander"
+SH,"Saint Helenian","Saint Helenian"
+BY,Belarusian,Belarusian
+BZ,Belizean,Belizean
+BM,Bermudian,Bermudian
+BO,Bolivian,Bolivian
+BR,Brazilian,Brazilian
+BB,Barbadian,Barbadian
+BN,Bruneian,Bruneian
+BT,Bhutanese,Bhutanese
+BW,Motswana,Motswana
+CF,"Central African","Central African"
+CA,Canadian,Canadian
+CC,"Cocos Islander","Cocos Islander"
+CH,Swiss,Swiss
+CL,Chilean,Chilean
+CN,Chinese,Chinese
+CI,Ivorian,Ivorian
+CM,Cameroonian,Cameroonian
+CD,Congolese,Congolese
+CG,Congolese,Congolese
+CK,"Cook Islander","Cook Islander"
+CO,Colombian,Colombian
+KM,Comoran,Comoran
+CV,"Cape Verdian","Cape Verdian"
+CR,"Costa Rican","Costa Rican"
+CU,Cuban,Cuban
+CX,"Christmas Islander","Christmas Islander"
+KY,Caymanian,Caymanian
+CY,Cypriot,Cypriot
+CZ,Czech,Czech
+DE,German,German
+DJ,Djibouti,Djibouti
+DM,Dominican,Dominican
+DK,Danish,Danish
+DO,Dominican,Dominican
+DZ,Algerian,Algerian
+EC,Ecuadorean,Ecuadorean
+EG,Egyptian,Egyptian
+ER,Eritrean,Eritrean
+EH,Sahrawi,Sahrawi
+ES,Spanish,Spanish
+EE,Estonian,Estonian
+ET,Ethiopian,Ethiopian
+FI,Finnish,Finnish
+FJ,Fijian,Fijian
+FK,"Falkland Islander","Falkland Islander"
+FR,French,French
+FO,Faroese,Faroese
+FM,Micronesian,Micronesian
+GA,Gabonese,Gabonese
+GB,British,British
+GE,Georgian,Georgian
+GG,"Channel Islander","Channel Islander"
+GH,Ghanaian,Ghanaian
+GI,Gibraltar,Gibraltar
+GN,Guinean,Guinean
+GP,Guadeloupian,Guadeloupian
+GM,Gambian,Gambian
+GW,Guinea-Bissauan,Guinea-Bissauan
+GQ,"Equatorial Guinean","Equatorial Guinean"
+GR,Greek,Greek
+GD,Grenadian,Grenadian
+GL,Greenlandic,Greenlandic
+GT,Guatemalan,Guatemalan
+GF,Guianan,Guianan
+GU,Guamanian,Guamanian
+GY,Guyanese,Guyanese
+HK,"Hong Konger","Hong Konger"
+HM,"Heard and McDonald Islander","Heard and McDonald Islander"
+HN,Honduran,Honduran
+HR,Croatian,Croatian
+HT,Haitian,Haitian
+HU,Hungarian,Hungarian
+ID,Indonesian,Indonesian
+IM,Manx,Manx
+IN,Indian,Indian
+IO,Indian,Indian
+IE,Irish,Irish
+IR,Iranian,Iranian
+IQ,Iraqi,Iraqi
+IS,Icelander,Icelander
+IL,Palestinian,Palestinian
+IT,Italian,Italian
+JM,Jamaican,Jamaican
+JE,"Channel Islander","Channel Islander"
+JO,Jordanian,Jordanian
+JP,Japanese,Japanese
+KZ,Kazakhstani,Kazakhstani
+KE,Kenyan,Kenyan
+KG,Kirghiz,Kirghiz
+KH,Cambodian,Cambodian
+KI,I-Kiribati,I-Kiribati
+KN,"Kittitian or Nevisian","Kittitian or Nevisian"
+KR,"South Korean","South Korean"
+XK,Kosovar,Kosovar
+KW,Kuwaiti,Kuwaiti
+LA,Laotian,Laotian
+LB,Lebanese,Lebanese
+LR,Liberian,Liberian
+LY,Libyan,Libyan
+LC,"Saint Lucian","Saint Lucian"
+LI,Liechtensteiner,Liechtensteiner
+LK,"Sri Lankan","Sri Lankan"
+LS,Mosotho,Mosotho
+LT,Lithuanian,Lithuanian
+LU,Luxembourger,Luxembourger
+LV,Latvian,Latvian
+MO,Macanese,Macanese
+MF,"Saint Martin Islander","Saint Martin Islander"
+MA,Moroccan,Moroccan
+MC,Monegasque,Monegasque
+MD,Moldovan,Moldovan
+MG,Malagasy,Malagasy
+MV,Maldivan,Maldivan
+MX,Mexican,Mexican
+MH,Marshallese,Marshallese
+MK,Macedonian,Macedonian
+ML,Malian,Malian
+MT,Maltese,Maltese
+MM,Burmese,Burmese
+ME,Montenegrin,Montenegrin
+MN,Mongolian,Mongolian
+MP,American,American
+MZ,Mozambican,Mozambican
+MR,Mauritanian,Mauritanian
+MS,Montserratian,Montserratian
+MQ,Martinican,Martinican
+MU,Mauritian,Mauritian
+MW,Malawian,Malawian
+MY,Malaysian,Malaysian
+YT,Mahoran,Mahoran
+NA,Namibian,Namibian
+NC,"New Caledonian","New Caledonian"
+NE,Nigerien,Nigerien
+NF,"Norfolk Islander","Norfolk Islander"
+NG,Nigerian,Nigerian
+NI,Nicaraguan,Nicaraguan
+NU,Niuean,Niuean
+NL,Dutch,Dutch
+NO,Norwegian,Norwegian
+NP,Nepalese,Nepalese
+NR,Nauruan,Nauruan
+NZ,"New Zealander","New Zealander"
+OM,Omani,Omani
+PK,Pakistani,Pakistani
+PA,Panamanian,Panamanian
+PN,"Pitcairn Islander","Pitcairn Islander"
+PE,Peruvian,Peruvian
+PH,Filipino,Filipino
+PW,Palauan,Palauan
+PG,"Papua New Guinean","Papua New Guinean"
+PL,Polish,Polish
+PR,"Puerto Rican","Puerto Rican"
+KP,"North Korean","North Korean"
+PT,Portuguese,Portuguese
+PY,Paraguayan,Paraguayan
+PS,Palestinian,Palestinian
+PF,"French Polynesian","French Polynesian"
+QA,Qatari,Qatari
+RE,Réunionese,Réunionese
+RO,Romanian,Romanian
+RU,Russian,Russian
+RW,Rwandan,Rwandan
+SA,"Saudi Arabian","Saudi Arabian"
+SD,Sudanese,Sudanese
+SN,Senegalese,Senegalese
+SG,Singaporean,Singaporean
+GS,"South Georgian South Sandwich Islander","South Georgian South Sandwich Islander"
+SJ,Norwegian,Norwegian
+SB,"Solomon Islander","Solomon Islander"
+SL,"Sierra Leonean","Sierra Leonean"
+SV,Salvadoran,Salvadoran
+SM,Sammarinese,Sammarinese
+SO,Somali,Somali
+PM,"Saint-Pierrais, Miquelonnais","Saint-Pierrais, Miquelonnais"
+RS,Serbian,Serbian
+SS,"South Sudanese","South Sudanese"
+ST,"Sao Tomean","Sao Tomean"
+SR,Surinamer,Surinamer
+SK,Slovak,Slovak
+SI,Slovene,Slovene
+SE,Swedish,Swedish
+SZ,Swazi,Swazi
+SC,Seychellois,Seychellois
+SY,Syrian,Syrian
+TC,"Turks and Caicos Islander","Turks and Caicos Islander"
+TD,Chadian,Chadian
+TG,Togolese,Togolese
+TH,Thai,Thai
+TJ,Tadzhik,Tadzhik
+TK,Tokelauan,Tokelauan
+TM,Turkmen,Turkmen
+TL,"East Timorese","East Timorese"
+TO,Tongan,Tongan
+TT,Trinidadian,Trinidadian
+TN,Tunisian,Tunisian
+TR,Turkish,Turkish
+TV,Tuvaluan,Tuvaluan
+TW,Taiwanese,Taiwanese
+TZ,Tanzanian,Tanzanian
+UG,Ugandan,Ugandan
+UA,Ukrainian,Ukrainian
+UM,"American Islander","American Islander"
+UY,Uruguayan,Uruguayan
+US,American,American
+UZ,Uzbekistani,Uzbekistani
+VA,Vatican,Vatican
+VC,"Saint Vincentian","Saint Vincentian"
+VE,Venezuelan,Venezuelan
+VG,"Virgin Islander","Virgin Islander"
+VI,"Virgin Islander","Virgin Islander"
+VN,Vietnamese,Vietnamese
+VU,Ni-Vanuatu,Ni-Vanuatu
+WF,"Wallis and Futuna Islander","Wallis and Futuna Islander"
+WS,Samoan,Samoan
+YE,Yemeni,Yemeni
+ZA,"South African","South African"
+ZM,Zambian,Zambian
+ZW,Zimbabwean,Zimbabwean
