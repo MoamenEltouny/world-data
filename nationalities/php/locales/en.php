@@ -1,0 +1,979 @@
+<?php
+return [
+    'AW' => [
+        'male' => 'Aruban',
+        'female' => 'Aruban'
+    ],
+    'AF' => [
+        'male' => 'Afghan',
+        'female' => 'Afghan'
+    ],
+    'AO' => [
+        'male' => 'Angolan',
+        'female' => 'Angolan'
+    ],
+    'AI' => [
+        'male' => 'Anguillian',
+        'female' => 'Anguillian'
+    ],
+    'AX' => [
+        'male' => 'Ålandish',
+        'female' => 'Ålandish'
+    ],
+    'AL' => [
+        'male' => 'Albanian',
+        'female' => 'Albanian'
+    ],
+    'AD' => [
+        'male' => 'Andorran',
+        'female' => 'Andorran'
+    ],
+    'AE' => [
+        'male' => 'Emirati',
+        'female' => 'Emirati'
+    ],
+    'AR' => [
+        'male' => 'Argentine',
+        'female' => 'Argentine'
+    ],
+    'AM' => [
+        'male' => 'Armenian',
+        'female' => 'Armenian'
+    ],
+    'AS' => [
+        'male' => 'American Samoan',
+        'female' => 'American Samoan'
+    ],
+    'AG' => [
+        'male' => 'Antiguan, Barbudan',
+        'female' => 'Antiguan, Barbudan'
+    ],
+    'AU' => [
+        'male' => 'Australian',
+        'female' => 'Australian'
+    ],
+    'AT' => [
+        'male' => 'Austrian',
+        'female' => 'Austrian'
+    ],
+    'AZ' => [
+        'male' => 'Azerbaijani',
+        'female' => 'Azerbaijani'
+    ],
+    'BI' => [
+        'male' => 'Burundian',
+        'female' => 'Burundian'
+    ],
+    'BE' => [
+        'male' => 'Belgian',
+        'female' => 'Belgian'
+    ],
+    'BJ' => [
+        'male' => 'Beninese',
+        'female' => 'Beninese'
+    ],
+    'BF' => [
+        'male' => 'Burkinabe',
+        'female' => 'Burkinabe'
+    ],
+    'BD' => [
+        'male' => 'Bangladeshi',
+        'female' => 'Bangladeshi'
+    ],
+    'BG' => [
+        'male' => 'Bulgarian',
+        'female' => 'Bulgarian'
+    ],
+    'BH' => [
+        'male' => 'Bahraini',
+        'female' => 'Bahraini'
+    ],
+    'BS' => [
+        'male' => 'Bahamian',
+        'female' => 'Bahamian'
+    ],
+    'BA' => [
+        'male' => 'Bosnian, Herzegovinian',
+        'female' => 'Bosnian, Herzegovinian'
+    ],
+    'BL' => [
+        'male' => 'Saint Barthélemy Islander',
+        'female' => 'Saint Barthélemy Islander'
+    ],
+    'SH' => [
+        'male' => 'Saint Helenian',
+        'female' => 'Saint Helenian'
+    ],
+    'BY' => [
+        'male' => 'Belarusian',
+        'female' => 'Belarusian'
+    ],
+    'BZ' => [
+        'male' => 'Belizean',
+        'female' => 'Belizean'
+    ],
+    'BM' => [
+        'male' => 'Bermudian',
+        'female' => 'Bermudian'
+    ],
+    'BO' => [
+        'male' => 'Bolivian',
+        'female' => 'Bolivian'
+    ],
+    'BR' => [
+        'male' => 'Brazilian',
+        'female' => 'Brazilian'
+    ],
+    'BB' => [
+        'male' => 'Barbadian',
+        'female' => 'Barbadian'
+    ],
+    'BN' => [
+        'male' => 'Bruneian',
+        'female' => 'Bruneian'
+    ],
+    'BT' => [
+        'male' => 'Bhutanese',
+        'female' => 'Bhutanese'
+    ],
+    'BW' => [
+        'male' => 'Motswana',
+        'female' => 'Motswana'
+    ],
+    'CF' => [
+        'male' => 'Central African',
+        'female' => 'Central African'
+    ],
+    'CA' => [
+        'male' => 'Canadian',
+        'female' => 'Canadian'
+    ],
+    'CC' => [
+        'male' => 'Cocos Islander',
+        'female' => 'Cocos Islander'
+    ],
+    'CH' => [
+        'male' => 'Swiss',
+        'female' => 'Swiss'
+    ],
+    'CL' => [
+        'male' => 'Chilean',
+        'female' => 'Chilean'
+    ],
+    'CN' => [
+        'male' => 'Chinese',
+        'female' => 'Chinese'
+    ],
+    'CI' => [
+        'male' => 'Ivorian',
+        'female' => 'Ivorian'
+    ],
+    'CM' => [
+        'male' => 'Cameroonian',
+        'female' => 'Cameroonian'
+    ],
+    'CD' => [
+        'male' => 'Congolese',
+        'female' => 'Congolese'
+    ],
+    'CG' => [
+        'male' => 'Congolese',
+        'female' => 'Congolese'
+    ],
+    'CK' => [
+        'male' => 'Cook Islander',
+        'female' => 'Cook Islander'
+    ],
+    'CO' => [
+        'male' => 'Colombian',
+        'female' => 'Colombian'
+    ],
+    'KM' => [
+        'male' => 'Comoran',
+        'female' => 'Comoran'
+    ],
+    'CV' => [
+        'male' => 'Cape Verdian',
+        'female' => 'Cape Verdian'
+    ],
+    'CR' => [
+        'male' => 'Costa Rican',
+        'female' => 'Costa Rican'
+    ],
+    'CU' => [
+        'male' => 'Cuban',
+        'female' => 'Cuban'
+    ],
+    'CX' => [
+        'male' => 'Christmas Islander',
+        'female' => 'Christmas Islander'
+    ],
+    'KY' => [
+        'male' => 'Caymanian',
+        'female' => 'Caymanian'
+    ],
+    'CY' => [
+        'male' => 'Cypriot',
+        'female' => 'Cypriot'
+    ],
+    'CZ' => [
+        'male' => 'Czech',
+        'female' => 'Czech'
+    ],
+    'DE' => [
+        'male' => 'German',
+        'female' => 'German'
+    ],
+    'DJ' => [
+        'male' => 'Djibouti',
+        'female' => 'Djibouti'
+    ],
+    'DM' => [
+        'male' => 'Dominican',
+        'female' => 'Dominican'
+    ],
+    'DK' => [
+        'male' => 'Danish',
+        'female' => 'Danish'
+    ],
+    'DO' => [
+        'male' => 'Dominican',
+        'female' => 'Dominican'
+    ],
+    'DZ' => [
+        'male' => 'Algerian',
+        'female' => 'Algerian'
+    ],
+    'EC' => [
+        'male' => 'Ecuadorean',
+        'female' => 'Ecuadorean'
+    ],
+    'EG' => [
+        'male' => 'Egyptian',
+        'female' => 'Egyptian'
+    ],
+    'ER' => [
+        'male' => 'Eritrean',
+        'female' => 'Eritrean'
+    ],
+    'EH' => [
+        'male' => 'Sahrawi',
+        'female' => 'Sahrawi'
+    ],
+    'ES' => [
+        'male' => 'Spanish',
+        'female' => 'Spanish'
+    ],
+    'EE' => [
+        'male' => 'Estonian',
+        'female' => 'Estonian'
+    ],
+    'ET' => [
+        'male' => 'Ethiopian',
+        'female' => 'Ethiopian'
+    ],
+    'FI' => [
+        'male' => 'Finnish',
+        'female' => 'Finnish'
+    ],
+    'FJ' => [
+        'male' => 'Fijian',
+        'female' => 'Fijian'
+    ],
+    'FK' => [
+        'male' => 'Falkland Islander',
+        'female' => 'Falkland Islander'
+    ],
+    'FR' => [
+        'male' => 'French',
+        'female' => 'French'
+    ],
+    'FO' => [
+        'male' => 'Faroese',
+        'female' => 'Faroese'
+    ],
+    'FM' => [
+        'male' => 'Micronesian',
+        'female' => 'Micronesian'
+    ],
+    'GA' => [
+        'male' => 'Gabonese',
+        'female' => 'Gabonese'
+    ],
+    'GB' => [
+        'male' => 'British',
+        'female' => 'British'
+    ],
+    'GE' => [
+        'male' => 'Georgian',
+        'female' => 'Georgian'
+    ],
+    'GG' => [
+        'male' => 'Channel Islander',
+        'female' => 'Channel Islander'
+    ],
+    'GH' => [
+        'male' => 'Ghanaian',
+        'female' => 'Ghanaian'
+    ],
+    'GI' => [
+        'male' => 'Gibraltar',
+        'female' => 'Gibraltar'
+    ],
+    'GN' => [
+        'male' => 'Guinean',
+        'female' => 'Guinean'
+    ],
+    'GP' => [
+        'male' => 'Guadeloupian',
+        'female' => 'Guadeloupian'
+    ],
+    'GM' => [
+        'male' => 'Gambian',
+        'female' => 'Gambian'
+    ],
+    'GW' => [
+        'male' => 'Guinea-Bissauan',
+        'female' => 'Guinea-Bissauan'
+    ],
+    'GQ' => [
+        'male' => 'Equatorial Guinean',
+        'female' => 'Equatorial Guinean'
+    ],
+    'GR' => [
+        'male' => 'Greek',
+        'female' => 'Greek'
+    ],
+    'GD' => [
+        'male' => 'Grenadian',
+        'female' => 'Grenadian'
+    ],
+    'GL' => [
+        'male' => 'Greenlandic',
+        'female' => 'Greenlandic'
+    ],
+    'GT' => [
+        'male' => 'Guatemalan',
+        'female' => 'Guatemalan'
+    ],
+    'GF' => [
+        'male' => 'Guianan',
+        'female' => 'Guianan'
+    ],
+    'GU' => [
+        'male' => 'Guamanian',
+        'female' => 'Guamanian'
+    ],
+    'GY' => [
+        'male' => 'Guyanese',
+        'female' => 'Guyanese'
+    ],
+    'HK' => [
+        'male' => 'Hong Konger',
+        'female' => 'Hong Konger'
+    ],
+    'HM' => [
+        'male' => 'Heard and McDonald Islander',
+        'female' => 'Heard and McDonald Islander'
+    ],
+    'HN' => [
+        'male' => 'Honduran',
+        'female' => 'Honduran'
+    ],
+    'HR' => [
+        'male' => 'Croatian',
+        'female' => 'Croatian'
+    ],
+    'HT' => [
+        'male' => 'Haitian',
+        'female' => 'Haitian'
+    ],
+    'HU' => [
+        'male' => 'Hungarian',
+        'female' => 'Hungarian'
+    ],
+    'ID' => [
+        'male' => 'Indonesian',
+        'female' => 'Indonesian'
+    ],
+    'IM' => [
+        'male' => 'Manx',
+        'female' => 'Manx'
+    ],
+    'IN' => [
+        'male' => 'Indian',
+        'female' => 'Indian'
+    ],
+    'IO' => [
+        'male' => 'Indian',
+        'female' => 'Indian'
+    ],
+    'IE' => [
+        'male' => 'Irish',
+        'female' => 'Irish'
+    ],
+    'IR' => [
+        'male' => 'Iranian',
+        'female' => 'Iranian'
+    ],
+    'IQ' => [
+        'male' => 'Iraqi',
+        'female' => 'Iraqi'
+    ],
+    'IS' => [
+        'male' => 'Icelander',
+        'female' => 'Icelander'
+    ],
+    'IL' => [
+        'male' => 'Palestinian',
+        'female' => 'Palestinian'
+    ],
+    'IT' => [
+        'male' => 'Italian',
+        'female' => 'Italian'
+    ],
+    'JM' => [
+        'male' => 'Jamaican',
+        'female' => 'Jamaican'
+    ],
+    'JE' => [
+        'male' => 'Channel Islander',
+        'female' => 'Channel Islander'
+    ],
+    'JO' => [
+        'male' => 'Jordanian',
+        'female' => 'Jordanian'
+    ],
+    'JP' => [
+        'male' => 'Japanese',
+        'female' => 'Japanese'
+    ],
+    'KZ' => [
+        'male' => 'Kazakhstani',
+        'female' => 'Kazakhstani'
+    ],
+    'KE' => [
+        'male' => 'Kenyan',
+        'female' => 'Kenyan'
+    ],
+    'KG' => [
+        'male' => 'Kirghiz',
+        'female' => 'Kirghiz'
+    ],
+    'KH' => [
+        'male' => 'Cambodian',
+        'female' => 'Cambodian'
+    ],
+    'KI' => [
+        'male' => 'I-Kiribati',
+        'female' => 'I-Kiribati'
+    ],
+    'KN' => [
+        'male' => 'Kittitian or Nevisian',
+        'female' => 'Kittitian or Nevisian'
+    ],
+    'KR' => [
+        'male' => 'South Korean',
+        'female' => 'South Korean'
+    ],
+    'XK' => [
+        'male' => 'Kosovar',
+        'female' => 'Kosovar'
+    ],
+    'KW' => [
+        'male' => 'Kuwaiti',
+        'female' => 'Kuwaiti'
+    ],
+    'LA' => [
+        'male' => 'Laotian',
+        'female' => 'Laotian'
+    ],
+    'LB' => [
+        'male' => 'Lebanese',
+        'female' => 'Lebanese'
+    ],
+    'LR' => [
+        'male' => 'Liberian',
+        'female' => 'Liberian'
+    ],
+    'LY' => [
+        'male' => 'Libyan',
+        'female' => 'Libyan'
+    ],
+    'LC' => [
+        'male' => 'Saint Lucian',
+        'female' => 'Saint Lucian'
+    ],
+    'LI' => [
+        'male' => 'Liechtensteiner',
+        'female' => 'Liechtensteiner'
+    ],
+    'LK' => [
+        'male' => 'Sri Lankan',
+        'female' => 'Sri Lankan'
+    ],
+    'LS' => [
+        'male' => 'Mosotho',
+        'female' => 'Mosotho'
+    ],
+    'LT' => [
+        'male' => 'Lithuanian',
+        'female' => 'Lithuanian'
+    ],
+    'LU' => [
+        'male' => 'Luxembourger',
+        'female' => 'Luxembourger'
+    ],
+    'LV' => [
+        'male' => 'Latvian',
+        'female' => 'Latvian'
+    ],
+    'MO' => [
+        'male' => 'Macanese',
+        'female' => 'Macanese'
+    ],
+    'MF' => [
+        'male' => 'Saint Martin Islander',
+        'female' => 'Saint Martin Islander'
+    ],
+    'MA' => [
+        'male' => 'Moroccan',
+        'female' => 'Moroccan'
+    ],
+    'MC' => [
+        'male' => 'Monegasque',
+        'female' => 'Monegasque'
+    ],
+    'MD' => [
+        'male' => 'Moldovan',
+        'female' => 'Moldovan'
+    ],
+    'MG' => [
+        'male' => 'Malagasy',
+        'female' => 'Malagasy'
+    ],
+    'MV' => [
+        'male' => 'Maldivan',
+        'female' => 'Maldivan'
+    ],
+    'MX' => [
+        'male' => 'Mexican',
+        'female' => 'Mexican'
+    ],
+    'MH' => [
+        'male' => 'Marshallese',
+        'female' => 'Marshallese'
+    ],
+    'MK' => [
+        'male' => 'Macedonian',
+        'female' => 'Macedonian'
+    ],
+    'ML' => [
+        'male' => 'Malian',
+        'female' => 'Malian'
+    ],
+    'MT' => [
+        'male' => 'Maltese',
+        'female' => 'Maltese'
+    ],
+    'MM' => [
+        'male' => 'Burmese',
+        'female' => 'Burmese'
+    ],
+    'ME' => [
+        'male' => 'Montenegrin',
+        'female' => 'Montenegrin'
+    ],
+    'MN' => [
+        'male' => 'Mongolian',
+        'female' => 'Mongolian'
+    ],
+    'MP' => [
+        'male' => 'American',
+        'female' => 'American'
+    ],
+    'MZ' => [
+        'male' => 'Mozambican',
+        'female' => 'Mozambican'
+    ],
+    'MR' => [
+        'male' => 'Mauritanian',
+        'female' => 'Mauritanian'
+    ],
+    'MS' => [
+        'male' => 'Montserratian',
+        'female' => 'Montserratian'
+    ],
+    'MQ' => [
+        'male' => 'Martinican',
+        'female' => 'Martinican'
+    ],
+    'MU' => [
+        'male' => 'Mauritian',
+        'female' => 'Mauritian'
+    ],
+    'MW' => [
+        'male' => 'Malawian',
+        'female' => 'Malawian'
+    ],
+    'MY' => [
+        'male' => 'Malaysian',
+        'female' => 'Malaysian'
+    ],
+    'YT' => [
+        'male' => 'Mahoran',
+        'female' => 'Mahoran'
+    ],
+    'NA' => [
+        'male' => 'Namibian',
+        'female' => 'Namibian'
+    ],
+    'NC' => [
+        'male' => 'New Caledonian',
+        'female' => 'New Caledonian'
+    ],
+    'NE' => [
+        'male' => 'Nigerien',
+        'female' => 'Nigerien'
+    ],
+    'NF' => [
+        'male' => 'Norfolk Islander',
+        'female' => 'Norfolk Islander'
+    ],
+    'NG' => [
+        'male' => 'Nigerian',
+        'female' => 'Nigerian'
+    ],
+    'NI' => [
+        'male' => 'Nicaraguan',
+        'female' => 'Nicaraguan'
+    ],
+    'NU' => [
+        'male' => 'Niuean',
+        'female' => 'Niuean'
+    ],
+    'NL' => [
+        'male' => 'Dutch',
+        'female' => 'Dutch'
+    ],
+    'NO' => [
+        'male' => 'Norwegian',
+        'female' => 'Norwegian'
+    ],
+    'NP' => [
+        'male' => 'Nepalese',
+        'female' => 'Nepalese'
+    ],
+    'NR' => [
+        'male' => 'Nauruan',
+        'female' => 'Nauruan'
+    ],
+    'NZ' => [
+        'male' => 'New Zealander',
+        'female' => 'New Zealander'
+    ],
+    'OM' => [
+        'male' => 'Omani',
+        'female' => 'Omani'
+    ],
+    'PK' => [
+        'male' => 'Pakistani',
+        'female' => 'Pakistani'
+    ],
+    'PA' => [
+        'male' => 'Panamanian',
+        'female' => 'Panamanian'
+    ],
+    'PN' => [
+        'male' => 'Pitcairn Islander',
+        'female' => 'Pitcairn Islander'
+    ],
+    'PE' => [
+        'male' => 'Peruvian',
+        'female' => 'Peruvian'
+    ],
+    'PH' => [
+        'male' => 'Filipino',
+        'female' => 'Filipino'
+    ],
+    'PW' => [
+        'male' => 'Palauan',
+        'female' => 'Palauan'
+    ],
+    'PG' => [
+        'male' => 'Papua New Guinean',
+        'female' => 'Papua New Guinean'
+    ],
+    'PL' => [
+        'male' => 'Polish',
+        'female' => 'Polish'
+    ],
+    'PR' => [
+        'male' => 'Puerto Rican',
+        'female' => 'Puerto Rican'
+    ],
+    'KP' => [
+        'male' => 'North Korean',
+        'female' => 'North Korean'
+    ],
+    'PT' => [
+        'male' => 'Portuguese',
+        'female' => 'Portuguese'
+    ],
+    'PY' => [
+        'male' => 'Paraguayan',
+        'female' => 'Paraguayan'
+    ],
+    'PS' => [
+        'male' => 'Palestinian',
+        'female' => 'Palestinian'
+    ],
+    'PF' => [
+        'male' => 'French Polynesian',
+        'female' => 'French Polynesian'
+    ],
+    'QA' => [
+        'male' => 'Qatari',
+        'female' => 'Qatari'
+    ],
+    'RE' => [
+        'male' => 'Réunionese',
+        'female' => 'Réunionese'
+    ],
+    'RO' => [
+        'male' => 'Romanian',
+        'female' => 'Romanian'
+    ],
+    'RU' => [
+        'male' => 'Russian',
+        'female' => 'Russian'
+    ],
+    'RW' => [
+        'male' => 'Rwandan',
+        'female' => 'Rwandan'
+    ],
+    'SA' => [
+        'male' => 'Saudi Arabian',
+        'female' => 'Saudi Arabian'
+    ],
+    'SD' => [
+        'male' => 'Sudanese',
+        'female' => 'Sudanese'
+    ],
+    'SN' => [
+        'male' => 'Senegalese',
+        'female' => 'Senegalese'
+    ],
+    'SG' => [
+        'male' => 'Singaporean',
+        'female' => 'Singaporean'
+    ],
+    'GS' => [
+        'male' => 'South Georgian South Sandwich Islander',
+        'female' => 'South Georgian South Sandwich Islander'
+    ],
+    'SJ' => [
+        'male' => 'Norwegian',
+        'female' => 'Norwegian'
+    ],
+    'SB' => [
+        'male' => 'Solomon Islander',
+        'female' => 'Solomon Islander'
+    ],
+    'SL' => [
+        'male' => 'Sierra Leonean',
+        'female' => 'Sierra Leonean'
+    ],
+    'SV' => [
+        'male' => 'Salvadoran',
+        'female' => 'Salvadoran'
+    ],
+    'SM' => [
+        'male' => 'Sammarinese',
+        'female' => 'Sammarinese'
+    ],
+    'SO' => [
+        'male' => 'Somali',
+        'female' => 'Somali'
+    ],
+    'PM' => [
+        'male' => 'Saint-Pierrais, Miquelonnais',
+        'female' => 'Saint-Pierrais, Miquelonnais'
+    ],
+    'RS' => [
+        'male' => 'Serbian',
+        'female' => 'Serbian'
+    ],
+    'SS' => [
+        'male' => 'South Sudanese',
+        'female' => 'South Sudanese'
+    ],
+    'ST' => [
+        'male' => 'Sao Tomean',
+        'female' => 'Sao Tomean'
+    ],
+    'SR' => [
+        'male' => 'Surinamer',
+        'female' => 'Surinamer'
+    ],
+    'SK' => [
+        'male' => 'Slovak',
+        'female' => 'Slovak'
+    ],
+    'SI' => [
+        'male' => 'Slovene',
+        'female' => 'Slovene'
+    ],
+    'SE' => [
+        'male' => 'Swedish',
+        'female' => 'Swedish'
+    ],
+    'SZ' => [
+        'male' => 'Swazi',
+        'female' => 'Swazi'
+    ],
+    'SC' => [
+        'male' => 'Seychellois',
+        'female' => 'Seychellois'
+    ],
+    'SY' => [
+        'male' => 'Syrian',
+        'female' => 'Syrian'
+    ],
+    'TC' => [
+        'male' => 'Turks and Caicos Islander',
+        'female' => 'Turks and Caicos Islander'
+    ],
+    'TD' => [
+        'male' => 'Chadian',
+        'female' => 'Chadian'
+    ],
+    'TG' => [
+        'male' => 'Togolese',
+        'female' => 'Togolese'
+    ],
+    'TH' => [
+        'male' => 'Thai',
+        'female' => 'Thai'
+    ],
+    'TJ' => [
+        'male' => 'Tadzhik',
+        'female' => 'Tadzhik'
+    ],
+    'TK' => [
+        'male' => 'Tokelauan',
+        'female' => 'Tokelauan'
+    ],
+    'TM' => [
+        'male' => 'Turkmen',
+        'female' => 'Turkmen'
+    ],
+    'TL' => [
+        'male' => 'East Timorese',
+        'female' => 'East Timorese'
+    ],
+    'TO' => [
+        'male' => 'Tongan',
+        'female' => 'Tongan'
+    ],
+    'TT' => [
+        'male' => 'Trinidadian',
+        'female' => 'Trinidadian'
+    ],
+    'TN' => [
+        'male' => 'Tunisian',
+        'female' => 'Tunisian'
+    ],
+    'TR' => [
+        'male' => 'Turkish',
+        'female' => 'Turkish'
+    ],
+    'TV' => [
+        'male' => 'Tuvaluan',
+        'female' => 'Tuvaluan'
+    ],
+    'TW' => [
+        'male' => 'Taiwanese',
+        'female' => 'Taiwanese'
+    ],
+    'TZ' => [
+        'male' => 'Tanzanian',
+        'female' => 'Tanzanian'
+    ],
+    'UG' => [
+        'male' => 'Ugandan',
+        'female' => 'Ugandan'
+    ],
+    'UA' => [
+        'male' => 'Ukrainian',
+        'female' => 'Ukrainian'
+    ],
+    'UM' => [
+        'male' => 'American Islander',
+        'female' => 'American Islander'
+    ],
+    'UY' => [
+        'male' => 'Uruguayan',
+        'female' => 'Uruguayan'
+    ],
+    'US' => [
+        'male' => 'American',
+        'female' => 'American'
+    ],
+    'UZ' => [
+        'male' => 'Uzbekistani',
+        'female' => 'Uzbekistani'
+    ],
+    'VA' => [
+        'male' => 'Vatican',
+        'female' => 'Vatican'
+    ],
+    'VC' => [
+        'male' => 'Saint Vincentian',
+        'female' => 'Saint Vincentian'
+    ],
+    'VE' => [
+        'male' => 'Venezuelan',
+        'female' => 'Venezuelan'
+    ],
+    'VG' => [
+        'male' => 'Virgin Islander',
+        'female' => 'Virgin Islander'
+    ],
+    'VI' => [
+        'male' => 'Virgin Islander',
+        'female' => 'Virgin Islander'
+    ],
+    'VN' => [
+        'male' => 'Vietnamese',
+        'female' => 'Vietnamese'
+    ],
+    'VU' => [
+        'male' => 'Ni-Vanuatu',
+        'female' => 'Ni-Vanuatu'
+    ],
+    'WF' => [
+        'male' => 'Wallis and Futuna Islander',
+        'female' => 'Wallis and Futuna Islander'
+    ],
+    'WS' => [
+        'male' => 'Samoan',
+        'female' => 'Samoan'
+    ],
+    'YE' => [
+        'male' => 'Yemeni',
+        'female' => 'Yemeni'
+    ],
+    'ZA' => [
+        'male' => 'South African',
+        'female' => 'South African'
+    ],
+    'ZM' => [
+        'male' => 'Zambian',
+        'female' => 'Zambian'
+    ],
+    'ZW' => [
+        'male' => 'Zimbabwean',
+        'female' => 'Zimbabwean'
+    ]
+];
