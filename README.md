@@ -10,8 +10,14 @@ This package is ideal as a reference for any project that requires global data.
 
 - **Currencies:** Information about all world currencies, including code, symbol, fraction size, and more.  
 - **Languages:** List of supported languages with codes and names in multiple languages.  
-- **Countries:** Country information including name, code, capital, official currency, official languages, population, and area.  
-- **Administrative Divisions:** Provinces, states, cities, and other subdivisions for each country.
+- **Timezones:** Timezone information including name, UTC offset, and whether it observes daylight saving time.
+- **Mobiles:** Mobile country codes and international dialing codes.
+- **Emojis:** Emoji flags for countries.
+- **Flags:** SVG/PNG/JPG/WebP flags for countries.
+- **Nationalities:** Names for males and females from each country (demonyms).
+- **Continents:** Details about continents including name and code.
+<!-- - **Countries:** Country information including name, code, capital, official currency, official languages, population, and area.  
+- **Administrative Divisions:** Provinces, states, cities, and other subdivisions for each country. -->
 
 ---
 
@@ -29,26 +35,3 @@ The dataset is translated into approximately **10 languages**, making it suitabl
 - Portuguese (pt)
 - Russian (ru)
 - Spanish (es)
-
----
-
-## 🗂️ Usage
-
-The data can be used directly as **JSON/CSV/YAML/PHP reference files** in your projects:
-
-```text
-- world-data/
-    - currencies/
-        - json/
-            locales/
-                - en.json
-                ...
-            - currencies.json
-        - csv/
-        - yaml/
-        - php/
-    - languages/
-        - json/
-        - csv/
-        - yaml/
-        - php/
