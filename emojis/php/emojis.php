@@ -1,4 +1,6 @@
-<?php return [
+<?php 
+
+return [
     'AW' => [
         'emoji' => '🇦🇼',
         'unicode' => 'U+1F1E6 U+1F1FC'
